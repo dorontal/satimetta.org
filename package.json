@@ -1,7 +1,6 @@
 {
-	"name": "satimetta.org",
+	"name": "svelte-demo",
 	"version": "0.0.1",
-	"private": true,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -15,6 +14,9 @@
 		"test:unit": "vitest"
 	},
 	"devDependencies": {
+		"@event-calendar/core": "^3.5.0",
+		"@fontsource/fira-mono": "^5.0.0",
+		"@neoconfetti/svelte": "^2.0.0",
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
