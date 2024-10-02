@@ -17,9 +17,9 @@
 			<p class="intro-text">
 				Welcome to a space dedicated to mindfulness and inner peace. I’m Doron, and I offer free
 				meditation teachings to help cultivate calm, clarity, and kindness. I’ve been practicing
-				meditation for over four decades. My teachings are grounded in kindness, simplicity, and
-				openness to anyone interested in learning more. You can explore my full background and
-				qualifications
+				meditation in various forms for over four decades. These teachings are grounded in kindness
+				and simplicity. They are open to anyone interested in learning more. You can explore my full
+				background and qualifications
 				<a href="link-to-bio.html">here</a>.
 			</p>
 		</div>
@@ -53,7 +53,7 @@
 		overflow: hidden;
 		margin-right: 15px; /* Space between image and text */
 		margin-bottom: 10px; /* Optional: Space between image and text when it wraps below */
-		border: 2px solid #ddd;
+		border: 1px solid var(--color-theme-1);
 		float: left; /* Makes the image float to the left */
 	}
 
