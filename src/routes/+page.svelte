@@ -15,12 +15,14 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</div>
 			<p class="intro-text">
-				Welcome to a space dedicated to mindfulness and inner peace. I’m Doron, and I offer free
-				meditation teachings to help cultivate calm, clarity, and kindness. I’ve been practicing
-				meditation in various forms for over four decades. These teachings are grounded in kindness
-				and simplicity. They are open to anyone interested in learning more. You can explore my full
-				background and qualifications
-				<a href="link-to-bio.html">here</a>.
+				Welcome to a space dedicated to the cultivation of mindfulness. I offer free meditation
+				teachings to help reduce stress and <a href="link-to-benefits.html"
+					>improve overall well-being</a
+				>. With over four decades of practice—including sitting, standing, walking, and lying down
+				meditations—I ground my teachings in kindness and simplicity, drawing from ancient wisdom
+				while incorporating modern research. These teachings are open to all who are interested. You
+				can explore my full background and qualifications
+				<a href="link-to-background.html">here</a>.
 			</p>
 		</div>
 	</div>
@@ -47,13 +49,13 @@
 	}
 
 	.circle-image {
-		width: 80px;
-		height: 80px;
+		width: 108px;
+		height: 108px;
 		border-radius: 50%;
 		overflow: hidden;
 		margin-right: 15px; /* Space between image and text */
 		margin-bottom: 10px; /* Optional: Space between image and text when it wraps below */
-		border: 1px solid var(--color-theme-1);
+		border: 2px solid var(--color-theme-1);
 		float: left; /* Makes the image float to the left */
 	}
 
