@@ -16,13 +16,13 @@
 			</div>
 			<p class="intro-text">
 				Welcome to a space dedicated to the cultivation of mindfulness. I offer free meditation
-				teachings to help reduce stress and <a href="link-to-benefits.html"
+				teachings to help reduce stress and <a href="resources/mindfulness-benefits"
 					>improve overall well-being</a
 				>. With over four decades of practice—including sitting, standing, walking, and lying down
 				meditations—I ground my teachings in kindness and simplicity, drawing from ancient wisdom
 				while incorporating modern research. These teachings are open to all who are interested. You
 				can explore my full background and qualifications
-				<a href="link-to-background.html">here</a>.
+				<a href="/resources/bio">here</a>.
 			</p>
 		</div>
 	</div>
