@@ -1,8 +1,6 @@
 * Note: trying to setup a workflow for automatic github pages deploy as
 described here: https://www.captaincodeman.com/deploy-a-sveltekit-app-to-github-pages
 
-
-
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
