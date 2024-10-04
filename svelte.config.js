@@ -14,8 +14,8 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			// Add this line here
-		 base: '/satimetta.org'
-	 }
+			base: '/satimetta.org'
+		}
 	}
 };
 
