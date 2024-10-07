@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 </script>
 
@@ -9,13 +10,13 @@
 		</svg>
 		<ul>
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Home</a>
+				<a href="{base}/">Home</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/events' ? 'page' : undefined}>
-				<a href="/events">Events</a>
+				<a href="{base}/events">Events</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/resources') ? 'page' : undefined}>
-				<a href="/resources">Resources</a>
+				<a href="{base}/resources">Resources</a>
 			</li>
 
 		</ul>
