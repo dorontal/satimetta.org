@@ -16,9 +16,9 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</div>
 			<p class="intro-text">
-				Welcome to a space dedicated to the cultivation of mindfulness. I offer free meditation
-				teachings to help reduce stress and <a href="{base}/resources/mindfulness-benefits"
-					>improve overall well-being</a
+				Welcome to a space dedicated to the cultivation of mindfulness and lovingkindness. Please
+				help yourself to the meditation teachings and resources here, to help reduce stress and <a
+					href="{base}/resources/mindfulness-benefits">improve overall well-being</a
 				>. With over four decades of practice—including sitting, standing, walking, and lying down
 				meditations—I ground my teachings in kindness and simplicity, drawing from ancient wisdom
 				while incorporating modern research. These teachings are open to all who are interested. You
