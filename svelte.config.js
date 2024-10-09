@@ -7,13 +7,12 @@ const config = {
 
 	kit: {
 		adapter: adapter({
-			pages: 'build',
-			assets: 'build'
-		})/*,
+			pages: 'dist',
+			assets: 'dist'
+		}),
 		paths: {
-			// base: process.env.NODE_ENV === 'production' ? '/satimetta.org': ''
-			// base: dev ? '' : '/satimetta.org'
-		}*/
+			base: process.env.NODE_ENV === 'production' ? '/satimetta.org': ''
+		}
 	}
 };
 
