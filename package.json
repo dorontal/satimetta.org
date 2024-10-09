@@ -12,7 +12,7 @@
 		"format": "prettier --write .",
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
-		"deploy": "touch build/.nojekyll && npx gh-pages -d build"
+		"deploy": "npx gh-pages -d build --dotfiles"
 	},
 	"devDependencies": {
 		"@event-calendar/core": "^3.6.1",
