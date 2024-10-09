@@ -6,11 +6,14 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+			pages: 'build',
+			assets: 'build'
+		})/*,
 		paths: {
-			// Add this line here
-			base: '/satimetta.org'
-		}
+			// base: process.env.NODE_ENV === 'production' ? '/satimetta.org': ''
+			// base: dev ? '' : '/satimetta.org'
+		}*/
 	}
 };
 
