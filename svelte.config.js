@@ -6,10 +6,7 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		adapter: adapter({
-			pages: 'dist',
-			assets: 'dist'
-		}),
+		adapter: adapter(),
 		paths: {
 			base: process.env.NODE_ENV === 'production' ? '/satimetta.org': ''
 		}
