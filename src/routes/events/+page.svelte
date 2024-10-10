@@ -15,3 +15,8 @@
 	></iframe>
 </div>
 
+<style>
+	.calendar {
+		margin: 0 auto;
+	}
+</style>
