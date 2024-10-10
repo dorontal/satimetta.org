@@ -16,9 +16,11 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</div>
 			<p class="intro-text">
-				Welcome to a space dedicated to the cultivation of mindfulness. Here, you'll find meditation
-				resources for improved wellbeing and reduced stress, based on ancient methods and confirmed
-				by modern science. You can explore my full background <a href="{base}/resources/bio">here</a
+				Welcome to a space dedicated to the cultivation of mindfulness. You'll find meditation
+				teachings and resources for stress reduction, improved wellbeing and other benefits. These
+				methods were developed in ancient times. Their benefits have been confirmed by modern
+				science. You can explore my full background <a href="{base}/resources/bio"
+					>here</a
 				>.
 			</p>
 		</div>
