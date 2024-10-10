@@ -17,9 +17,9 @@
 			</div>
 			<p class="intro-text">
 				Welcome to a space dedicated to the cultivation of mindfulness. Here, you'll find meditation
-				resources based on the Buddha's original method, as described in the Pali canon suttas from
-				around 2,500 years ago. These teachings are open to all who are interested. You can explore my full
-				background <a href="{base}/resources/bio">here</a>.
+				resources for improved wellbeing and reduced stress, based on ancient methods and confirmed
+				by modern science. You can explore my full background <a href="{base}/resources/bio">here</a
+				>.
 			</p>
 		</div>
 	</div>
