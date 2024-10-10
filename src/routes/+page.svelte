@@ -16,14 +16,10 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</div>
 			<p class="intro-text">
-				Welcome to a space dedicated to the cultivation of mindfulness. I offer free meditation
-				teachings to help reduce stress and <a href="{base}/resources/mindfulness-benefits"
-					>improve overall well-being</a
-				>. With over four decades of practice—including sitting, standing, walking, and lying down
-				meditations—I ground my teachings in kindness and simplicity, drawing from ancient wisdom
-				while incorporating modern research. These teachings are open to all who are interested. You
-				can explore my full background and qualifications
-				<a href="{base}/resources/bio">here</a>.
+				Welcome to a space dedicated to the cultivation of mindfulness. Here, you'll find meditation
+				resources based on the Buddha's original method, as described in the Pali canon suttas from
+				around 2,500 years ago. These teachings are open to all who are interested. You can explore my full
+				background <a href="{base}/resources/bio">here</a>.
 			</p>
 		</div>
 	</div>
