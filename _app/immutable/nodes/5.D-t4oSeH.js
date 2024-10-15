@@ -1,14 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="../_app/immutable/assets/0.BXEzt8z0.css" rel="stylesheet"><title>Bio</title><!-- HEAD_svelte-1poa91_START --><meta name="description" content="Bio"><!-- HEAD_svelte-1poa91_END -->
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">  <div class="app svelte-120yfbx"><header class="svelte-2y1fnl"><nav class="svelte-2y1fnl"><svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-2y1fnl"><path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" class="svelte-2y1fnl"></path></svg> <ul class="svelte-2y1fnl"><li class="svelte-2y1fnl"><a href="../" class="svelte-2y1fnl" data-svelte-h="svelte-1e6p6b9">Home</a></li> <li class="svelte-2y1fnl"><a href="../events" class="svelte-2y1fnl" data-svelte-h="svelte-1vtxxg2">Events</a></li> <li aria-current="page" class="svelte-2y1fnl"><a href="../resources" class="svelte-2y1fnl" data-svelte-h="svelte-i98wng">Resources</a></li></ul> <svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-2y1fnl"><path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" class="svelte-2y1fnl"></path></svg></nav> </header> <main class="svelte-120yfbx"> <div class="text-column" data-svelte-h="svelte-l2n2ot"><h1>Practice History</h1> <ul><li><h4>Mid 1980&#39;s</h4> <p>Yoga breathing exercise for calm, combining deep abdominal long breathing with
+import{d as m}from"../chunks/index.R8ovVqwX.js";import{s as g,n as o}from"../chunks/scheduler.Bmg8oFKD.js";import{S as f,i as p,e as d,s as y,k as w,c as l,d as s,f as b,l as v,m as r,h as T,g as u}from"../chunks/index.Cmr2ZnQc.js";const k=m,M=!0,S=Object.freeze(Object.defineProperty({__proto__:null,csr:k,prerender:M},Symbol.toStringTag,{value:"Module"}));function I(c){let e,n,t,h=`<h1>Practice History</h1> <ul><li><h4>Mid 1980&#39;s</h4> <p>Yoga breathing exercise for calm, combining deep abdominal long breathing with
 				visualization.</p> <p>Dabbled in self-hypnosis, after having read a book on it with exercises, including a body
 				scan.</p> <p>An interest in the mind is an important component of mindfulness practice. Mindfulness is
 				always mindfulness of something, where &#39;something&#39; is one of four categories of which &#39;mind&#39;
@@ -38,6 +28,4 @@
 				regularly.</p></li> <li><h4>2019 - First Meditation Retreat - Phuket, Thailand</h4> <p>Attended a retreat taught by Tobi Warzinek at &quot;Dharana Meditation&quot; in Phuket (&quot;Phuket
 				Meditation Center&quot; today). Tobi used a method similar to Ajahn Brahm&#39;s. After this retreat,
 				I read &quot;Mindfulness, Bliss and Beyond&quot; by Ajahn Brahm and continued daily practice with that
-				method for a couple of years.</p></li></ul></div></main> </div> </div>
-	</body>
-</html>
+				method for a couple of years.</p></li></ul>`;return{c(){e=d("meta"),n=y(),t=d("div"),t.innerHTML=h,this.h()},l(a){const i=w("svelte-1poa91",document.head);e=l(i,"META",{name:!0,content:!0}),i.forEach(s),n=b(a),t=l(a,"DIV",{class:!0,"data-svelte-h":!0}),v(t)!=="svelte-l2n2ot"&&(t.innerHTML=h),this.h()},h(){document.title="Bio",r(e,"name","description"),r(e,"content","Bio"),r(t,"class","text-column")},m(a,i){T(document.head,e),u(a,n,i),u(a,t,i)},p:o,i:o,o,d(a){a&&(s(n),s(t)),s(e)}}}class q extends f{constructor(e){super(),p(this,e,null,I,g,{})}}export{q as component,S as universal};
