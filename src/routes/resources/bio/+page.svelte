@@ -41,7 +41,7 @@
 			</p>
 		</li>
 		<li>
-			<h4>1991 - Attended His Holiness the Dalai Lama's Talk</h4>
+			<h4>1991 - A talk by His Holiness the Dalai Lama</h4>
 			<p>
 				In 1991, His Holiness the Dalai Lama came to visit the U.S. for the first time in many
 				years. He
@@ -53,6 +53,32 @@
 				instantly helped me become a safer driver as it causd a great reduction of driving-related anger.
 				After his talk I got his book "The Art of Happiness", which started me on a path of Metta long
 				before awareness of breath meditation.
+			</p>
+		</li>
+		<li>
+			<h4>2005 - Taught Chi Kung at a gym class</h4>
+			<p>
+				After the Tai Chi teacher at a gym in my workplace left, I ended up teaching one semester of
+				the Chi Kung set I had learned in the late 1980s to coworkers.
+			</p>
+		</li>
+		<li>
+			<h4>2017 - Started with Bhikkhu Bodhi's teachings</h4>
+			<p>
+				Before the pandemic, I attended a couple of sutta class lectures by Bhikkhu Bodhi online.
+				During the pandemic, and ever since, I've been attending both his Wednesday night Metta
+				meditation and chanting session and the Saturday morning sutta class and meditation sessions
+				regularly.
+			</p>
+		</li>
+
+		<li>
+			<h4>2019 - First Meditation Retreat - Phuket, Thailand</h4>
+			<p>
+				Attended a retreat taught by Tobi Warzinek at "Dharana Meditation" in Phuket ("Phuket
+				Meditation Center" today). Tobi used a method similar to Ajahn Brahm's. After this retreat,
+				I read "Mindfulness, Bliss and Beyond" by Ajahn Brahm and continued daily practice with that
+				method for a couple of years.
 			</p>
 		</li>
 	</ul>
