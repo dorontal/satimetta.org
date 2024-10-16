@@ -8,6 +8,33 @@
 	<ul>
 		<li>
 			<h4>Mid 1980's</h4>
+			<ul>
+				<li>
+					<p>
+						Started with a yoga breathing exercise for calm, combining deep abdominal long breathing
+						with visualization.
+					</p>
+				</li>
+				<li>
+					<p>
+						Dabbled in self-hypnosis, after having read a book on it with exercises, including a
+						body scan.
+					</p>
+				</li>
+				<li>
+					<p>
+						An interest in the mind is an important component of mindfulness practice. Mindfulness
+						is always mindfulness of something, where 'something' is one of four categories of which
+						'mind' is one. Mindfulness of mind - awareness of one's mental processes - is one of the <a
+							href="/resources/four-foundations-of-mindfulness">Four Foundations of Mindfulness</a
+						>. Practicing the four foundations enables further insights about the mind. My interest
+						in studying the mind began, partially due to a philosophy class that covered Descartes'
+						Meditations, and also due to a biology teacher and mentor, Brian Kahn, who convinced me
+						that the brain is the most pressing enigma for humanity to uncover and inspired me to
+						study neuroscience.
+					</p>
+				</li>
+			</ul>
 			<p>
 				Yoga breathing exercise for calm, combining deep abdominal long breathing with
 				visualization.
