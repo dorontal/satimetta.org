@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Learning, Practice and Training History</title>
+	<title>Doron Tal Bio</title>
 	<meta name="description" content="Doron Tal's learning, practice and training history" />
 </svelte:head>
 
