@@ -4,6 +4,7 @@
 </svelte:head>
 
 <div class="text-column">
+	<h1>Mindfulness Resources</h1>
 	<h3>Miscellaneous</h3>
 	<ul>
 		<li>
