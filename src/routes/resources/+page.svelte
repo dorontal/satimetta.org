@@ -4,10 +4,10 @@
 </svelte:head>
 
 <div class="text-column">
+	<h3>Miscellaneous</h3>
 	<ul>
 		<li>
-			<a href="/resources/mindfulness-questions-and-answers">
-			Mindfulness questions and answers</a>
+			<a href="/resources/mindfulness-questions-and-answers"> Mindfulness questions and answers</a>
 		</li>
 		<li>
 			<a
@@ -15,7 +15,69 @@
 				target="_blank"
 			>
 				Daily Experiences Questionnaire Form
-			</a> - a questionnaire to help you get an idea of how mindful you are
+			</a>
+		</li>
+		<li>
+			<a
+				href="https://docs.google.com/spreadsheets/d/1prfYuXq3_4Tuu57cO2gS70z-2wnq79uTDV6h4daKgr4"
+				target="_blank"
+			>
+				U.S. Online Meditation Groups
+			</a>
+		</li>
+		<li>
+			<a
+				href="https://goamra.org/"
+				target="_blank"
+			>
+				American Mindfulness Research Association
+			</a>
+		</li>
+	</ul>
+	<h3>Guided Body Scan Meditations</h3>
+	<ul>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/20-min-body-scan-by-steve-hickman"
+				target="_blank"
+			>
+				20-minute body scan - Steve Hickman</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/45-minute-body-scan-by-steve-hickman"
+				target="_blank"
+			>
+				45-minute body scan - Steve Hickman</a
+			>
+		</li>
+	</ul>
+	<h3>Poetry</h3>
+	<ul>
+		<li>
+			<a
+				href="https://www.mindfulnessassociation.net/words-of-wonder/grace-alice-walker/"
+				target="_blank"
+			>
+				Grace - Alice Walker</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://allpoetry.com/poem/8534703-The-Guest-House-by-Mewlana-Jalaluddin-Rumi"
+				target="_blank"
+			>
+				The Guest House - Jalaludin Rumi</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://yourmindfultribe.org/poems/2020/08/03/your-history-is-here-inside-your-body-by-martha-e"
+				target="_blank"
+			>
+				Your History is Here Inside Your Body - Martha Elliot</a
+			>
 		</li>
 	</ul>
 </div>
