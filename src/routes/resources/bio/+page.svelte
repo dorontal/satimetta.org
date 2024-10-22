@@ -3,6 +3,10 @@
 	<meta name="description" content="About Doron Tal" />
 </svelte:head>
 
+<div class="text-column">
+	<h1>Under Construction</h1>
+</div>
+
 <!--div class="text-column">
 	<h1>Practice History</h1>
 	<ul>
@@ -108,9 +112,38 @@
 				method for a couple of years.
 			</p>
 		</li>
+		<li>
+			<h4>
+				2019 - Started Walking Meditation
+				<p>
+					The method I used was baseed on a Theravada method explaine in <a
+						href="https://www.youtube.com/watch?v=_IFvablc6EI">this video</a
+					> by Yuttadhammo Bhikkhu. I have continued to practice walking meditation and choose from either
+					this method or two other ones, depending on circumstances.
+				</p>
+			</h4>
+		</li>
+		<li>
+			<h4>
+				2019 - 2020 - Practiced AJahn Brahm's Method in "Mindfulness, Bliss and Beyond"
+				<p>
+					Following the retreat in Thailand, which was based on Ajahn Brahm's method as outlined in
+					his book "Mindfulness, Bliss and Beyond", I read the book and began training in this
+					method. There are elements from this method that I use to this day, but
+				</p>
+			</h4>
+		</li>
+		<li>
+			<h4>
+				2021 - Present - Practiced the Buddha's Method of In/Out Breath Meditation
+				<p>
+					After carefully studying two suttas in the Middle Length Discourses of the Pali Canon -
+					the Satipatthana Sutta (MN 10) and the Anapanasati Sutta (MN 118) - I began practicing the
+					sixteen step meditation instructions of the Buddha. These steps are a bit vague at places
+					and require interpretation. I have read many people's interpretations of the sixteen steps
+					and this helped to eventually form my own interpretation.
+				</p>
+			</h4>
+		</li>
 	</ul>
 </div-->
-
-<div class="text-column">
-	<h1>Under Construction</h1>
-</div>

@@ -39,17 +39,15 @@
 				IMTA Mindfulness Infographic
 			</a>
 		</li>
+	</ul>
+	<h3>Mindfulness Related Research</h3>
+	<ul>
 		<li>
 			<a href="https://goamra.org/" target="_blank"> American Mindfulness Research Association </a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=br8-qebjIgs" target="_blank">
 				Polyvagal Theory: The New Science of Safety and Trauma - Seth Porges
-			</a>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=RcGyVTAoXEU" target="_blank">
-				How to Make Stress Your Friend - Kelly McGonigal
 			</a>
 		</li>
 		<li>
@@ -63,6 +61,14 @@
 	</ul>
 	<h3>Guided Body Scan Meditations</h3>
 	<ul>
+		<li>
+			<a
+				href="https://insighttimer.com/chelseapottenger/guided-meditations/10-minute-body-scan"
+				target="_blank"
+			>
+				10-minute body scan - Chelsea Pottenger</a
+			>
+		</li>
 		<li>
 			<a
 				href="https://soundcloud.com/ucsdmindfulness/20-min-body-scan-by-steve-hickman"
@@ -80,7 +86,26 @@
 			>
 		</li>
 	</ul>
-	<h3>Poetry</h3>
+	<h3>Mindful Yoga</h3>
+	<ul>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=BwQXNGp-X7c"
+				target="_blank"
+			>
+				Dr. Lynn Rossi - Mindful Yoga 1</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=hyxtVJQmnEk"
+				target="_blank"
+			>
+				Dr. Lynn Rossi - Mindful Yoga 2</a
+			>
+		</li>
+	</ul>
+		<h3>Poetry</h3>
 	<ul>
 		<li>
 			<a
