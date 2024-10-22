@@ -36,10 +36,18 @@
 		</li>
 		<li>
 			<a
+				href="https://www.youtube.com/watch?v=RcGyVTAoXEU"
+				target="_blank"
+			>
+				How to Make Stress Your Friend - Kelly McGonigal
+			</a>
+		</li>
+		<li>
+			<a
 				href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
 				target="_blank"
 			>
-				Link Between Mindfulness and Happiness
+				Link Between Mindfulness and Happiness - Matt Killingsworth
 			</a>
 		</li>
 	</ul>
