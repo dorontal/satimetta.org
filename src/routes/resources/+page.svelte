@@ -27,26 +27,28 @@
 			</a>
 		</li>
 		<li>
-			<a
-				href="https://goamra.org/"
-				target="_blank"
-			>
-				American Mindfulness Research Association
+			<a href="https://imta.org" target="_blank">
+				International Mindfulness Teachers Association (IMTA)
 			</a>
 		</li>
 		<li>
 			<a
-				href="https://www.youtube.com/watch?v=br8-qebjIgs" 
+				href="https://cdn.ymaws.com/imta.site-ym.com/resource/resmgr/IMTA_Infographic_final.pdf"
 				target="_blank"
 			>
+				IMTA Mindfulness Infographic
+			</a>
+		</li>
+		<li>
+			<a href="https://goamra.org/" target="_blank"> American Mindfulness Research Association </a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=br8-qebjIgs" target="_blank">
 				Polyvagal Theory: The New Science of Safety and Trauma - Seth Porges
 			</a>
 		</li>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=RcGyVTAoXEU"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=RcGyVTAoXEU" target="_blank">
 				How to Make Stress Your Friend - Kelly McGonigal
 			</a>
 		</li>
@@ -105,10 +107,7 @@
 			>
 		</li>
 		<li>
-			<a
-				href="http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html"
-				target="_blank"
-			>
+			<a href="http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html" target="_blank">
 				Wild Geese - Mary Oliver</a
 			>
 		</li>
