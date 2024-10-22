@@ -18,10 +18,11 @@
 			<p class="intro-text">
 				Welcome! This space offers meditation teachings and resources for cultivating wholesome
 				mental qualities such as kindness, compassion, mindfulness, curiosity, vitality, joy,
-				altruistic joy, tranquility, focus and equanimity. The practices shared here have been known
-				since ancient times. Their power and benefits form a story that continues to be retold today
-				through different perspectives, including scientific research. You can explore my full
-				background <a href="{base}/resources/bio">here</a>.
+				altruistic joy, tranquility, focus, and equanimity. These practices have been known since
+				ancient times, with their power and benefits continuing to be understood today through
+				various perspectives, including scientific research. You can explore my full background <a
+					href="{base}/resources/bio">here</a
+				>.
 			</p>
 		</div>
 	</div>
