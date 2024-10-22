@@ -39,7 +39,7 @@
 				href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
 				target="_blank"
 			>
-				Well Known Study on Link Between Mindfulness and Happiness
+				Link Between Mindfulness and Happiness
 			</a>
 		</li>
 	</ul>
