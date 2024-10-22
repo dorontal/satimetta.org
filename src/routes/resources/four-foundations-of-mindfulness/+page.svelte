@@ -4,5 +4,5 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>Coming soon</h1>		
+	<h1>Under Construction</h1>		
 </div>
