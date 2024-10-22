@@ -34,6 +34,14 @@
 				American Mindfulness Research Association
 			</a>
 		</li>
+		<li>
+			<a
+				href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
+				target="_blank"
+			>
+				Well Known Study on Link Between Mindfulness and Happiness
+			</a>
+		</li>
 	</ul>
 	<h3>Guided Body Scan Meditations</h3>
 	<ul>
