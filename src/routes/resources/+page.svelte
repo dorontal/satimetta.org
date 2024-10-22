@@ -36,6 +36,14 @@
 		</li>
 		<li>
 			<a
+				href="https://www.youtube.com/watch?v=br8-qebjIgs" 
+				target="_blank"
+			>
+				Polyvagal Theory: The New Science of Safety and Trauma - Seth Porges
+			</a>
+		</li>
+		<li>
+			<a
 				href="https://www.youtube.com/watch?v=RcGyVTAoXEU"
 				target="_blank"
 			>
