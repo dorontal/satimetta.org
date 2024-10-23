@@ -19,7 +19,9 @@
 				This space offers meditation teachings and resources for developing qualities like
 				mindfulness, compassion, and calm. These practices have been valued for centuries, and today
 				their benefits are recognized from both traditional and scientific perspectives. You can
-				explore my full background <a href="{base}/resources/bio">here</a>.
+				explore Doron's practice-related <a href="{base}/resources/bio">background</a>, class
+				<a href="{base}/events">schedule</a>, or a list of curated mindfulness-related
+				<a href="{base}/resources">resources</a>.
 			</p>
 		</div>
 	</div>
