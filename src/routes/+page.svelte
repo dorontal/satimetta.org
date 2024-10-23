@@ -16,13 +16,10 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</div>
 			<p class="intro-text">
-				Welcome! This space offers meditation teachings and resources for cultivating wholesome
-				mental qualities such as kindness, compassion, mindfulness, curiosity, vitality, joy,
-				altruistic joy, tranquility, focus, and equanimity. These practices have been known since
-				ancient times, with their power and benefits continuing to be understood today through
-				various perspectives, including scientific research. You can explore my full background <a
-					href="{base}/resources/bio">here</a
-				>.
+				This space offers meditation teachings and resources for developing qualities like
+				mindfulness, compassion, and calm. These practices have been valued for centuries, and today
+				their benefits are recognized from both traditional and scientific perspectives. You can
+				explore my full background <a href="{base}/resources/bio">here</a>.
 			</p>
 		</div>
 	</div>
