@@ -89,23 +89,17 @@
 	<h3>Mindful Yoga</h3>
 	<ul>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=BwQXNGp-X7c"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=BwQXNGp-X7c" target="_blank">
 				Dr. Lynn Rossi - Mindful Yoga 1</a
 			>
 		</li>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=hyxtVJQmnEk"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=hyxtVJQmnEk" target="_blank">
 				Dr. Lynn Rossi - Mindful Yoga 2</a
 			>
 		</li>
 	</ul>
-		<h3>Poetry</h3>
+	<h3>Poetry</h3>
 	<ul>
 		<li>
 			<a
@@ -134,6 +128,11 @@
 		<li>
 			<a href="http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html" target="_blank">
 				Wild Geese - Mary Oliver</a
+			>
+		</li>
+		<li>
+			<a href="https://www.poemhunter.com/poem/when-you-see-water/" target="_blank">
+				When You See Water - Alice Walker</a
 			>
 		</li>
 	</ul>
