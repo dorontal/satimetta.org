@@ -135,5 +135,35 @@
 				When You See Water - Alice Walker</a
 			>
 		</li>
+		<li>
+			<a href="https://www.saltproject.org/progressive-christian-blog/2015/6/29/the-summer-day" target="_blank">
+				The Summer Day - Mary Oliver</a
+			>
+		</li>
+		<li>
+			<a href="https://www.poetryverse.com/octavio-paz-poems/between-going-staying" target="_blank">
+				Between Going and Staying - Octavio Paz</a
+			>
+		</li>
+		<li>
+			<a href="https://www.centerforcompassionateleadership.org/admit-something-by-hafiz" target="_blank">
+				Admit Something - Hafiz</a
+			>
+		</li>
+		<li>
+			<a href="https://www.mindfulnessassociation.net/words-of-wonder/walk-slowly-danna-faulds/" target="_blank">
+				Walk Slowly - Dana Faulds</a
+			>
+		</li>
+		<li>
+			<a href="https://palousemindfulness.com/docs/autobio_5chapters.pdf" target="_blank">
+				Autobiography in Five Short Chapters - Portia Nelson</a
+			>
+		</li>
+		<li>
+			<a href="https://youarehere.substack.com/p/place-poem-lost-by-david-wagoner" target="_blank">
+				Lost - David Wagoner</a
+			>
+		</li>
 	</ul>
 </div>
