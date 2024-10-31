@@ -66,7 +66,7 @@
 				href="https://insighttimer.com/dianawinston/guided-meditations/body-scan-practice-6"
 				target="_blank"
 			>
-				2:45 minute body scan - Diana Winston</a
+				3-minute body scan - Diana Winston</a
 			>
 		</li>
 		<li>
