@@ -22,7 +22,7 @@
 					href="{base}/resources/bio">background</a
 				>,
 				<a href="{base}/events">class schedule</a>, or
-				<a href="{base}/resources">related resources</a>.
+				<a href="{base}/resources">curated resources</a>.
 			</p>
 		</div>
 	</div>
