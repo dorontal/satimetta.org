@@ -16,12 +16,13 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</div>
 			<p class="intro-text">
-				This space offers meditation teachings and resources for developing qualities like
-				mindfulness, compassion, and calm. These practices have been valued for centuries, and today
-				their benefits are recognized from both traditional and scientific perspectives. You can
-				explore Doron's practice-related <a href="{base}/resources/bio">background</a>, class
-				<a href="{base}/events">schedule</a>, or a list of curated mindfulness-related
-				<a href="{base}/resources">resources</a>.
+				This space offers resources for developing mindfulness and loving kindness. These practices
+				have been valued for centuries. Today their benefits are recognized from both traditional
+				and scientific perspectives. Here, you can find Doron Tal's related <a
+					href="{base}/resources/bio">background</a
+				>,
+				<a href="{base}/events">class schedule</a>, or
+				<a href="{base}/resources">related resources</a>.
 			</p>
 		</div>
 	</div>
