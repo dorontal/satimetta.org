@@ -63,6 +63,14 @@
 	<ul>
 		<li>
 			<a
+				href="https://insighttimer.com/dianawinston/guided-meditations/body-scan-practice-6"
+				target="_blank"
+			>
+				2:45 minute body scan - Diana Winston</a
+			>
+		</li>
+		<li>
+			<a
 				href="https://insighttimer.com/chelseapottenger/guided-meditations/10-minute-body-scan"
 				target="_blank"
 			>
@@ -94,6 +102,14 @@
 				target="_blank"
 			>
 				5-minute guided breath meditation - Diana Winston</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=Z80Om2UkF6o"
+				target="_blank"
+			>
+				12-minute guided breath meditation - Diana Winston</a
 			>
 		</li>
 		<li>
