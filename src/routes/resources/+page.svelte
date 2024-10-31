@@ -86,6 +86,73 @@
 			>
 		</li>
 	</ul>
+	<h3>Guided Awareness of Breath Meditations</h3>
+	<ul>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0"
+				target="_blank"
+			>
+				5-minute guided breath meditation - Diana Winston</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=1tgZojaSyrk"
+				target="_blank"
+			>
+				10-minute guided breath meditation - Jack Kornfield</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/mpeak-10-min-awareness-of-breath-meditation-by-corrie-falcon"
+				target="_blank"
+			>
+				10-minute guided breath meditation - Corrie Falcon</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=2GjZanuXWWk"
+				target="_blank"
+			>
+				10-minute guided breath meditation - Jon Kabat Zinn</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/mpeak-10-min-awareness-of-breath-by-pete-kirchmer"
+				target="_blank"
+			>
+				10-minute guided breath meditation - Pete Kirchmer</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/20-min-seated-meditation-by-steve-hickman"
+				target="_blank"
+			>
+				20-minute guided breath meditation - Steve Hickman</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/22-min-seated-meditation-by-christy-cassisa"
+				target="_blank"
+			>
+				22-minute guided breath meditation - Christy Cassisa</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/sets/seated-meditation"
+				target="_blank"
+			>
+				More seated meditations curated by UCSD's Center for Integrative Health</a
+			>
+		</li>
+	</ul>
 	<h3>Mindful Yoga</h3>
 	<ul>
 		<li>
@@ -136,7 +203,10 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.saltproject.org/progressive-christian-blog/2015/6/29/the-summer-day" target="_blank">
+			<a
+				href="https://www.saltproject.org/progressive-christian-blog/2015/6/29/the-summer-day"
+				target="_blank"
+			>
 				The Summer Day - Mary Oliver</a
 			>
 		</li>
@@ -146,12 +216,18 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.centerforcompassionateleadership.org/admit-something-by-hafiz" target="_blank">
+			<a
+				href="https://www.centerforcompassionateleadership.org/admit-something-by-hafiz"
+				target="_blank"
+			>
 				Admit Something - Hafiz</a
 			>
 		</li>
 		<li>
-			<a href="https://www.mindfulnessassociation.net/words-of-wonder/walk-slowly-danna-faulds/" target="_blank">
+			<a
+				href="https://www.mindfulnessassociation.net/words-of-wonder/walk-slowly-danna-faulds/"
+				target="_blank"
+			>
 				Walk Slowly - Dana Faulds</a
 			>
 		</li>
