@@ -20,9 +20,9 @@
 				have been valued for centuries. Today their benefits are recognized from both traditional
 				and scientific perspectives. Here, you can find Doron Tal's related <a
 					href="{base}/resources/bio">background</a
-				>,
-				<a href="{base}/events">class schedule</a>, or
-				<a href="{base}/resources">curated resources</a>.
+				>, class
+				<a href="{base}/events">schedule</a>, or curated
+				<a href="{base}/resources">resources</a>.
 			</p>
 		</div>
 	</div>
