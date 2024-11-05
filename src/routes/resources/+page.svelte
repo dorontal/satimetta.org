@@ -169,6 +169,17 @@
 			>
 		</li>
 	</ul>
+	<h3>Walking Meditation</h3>
+	<ul>
+		<li>
+			<a
+				href="https://www.youtube.com/watch?v=_IFvablc6EI"
+				target="_blank"
+			>
+			Basic Walking meditation instructions - Yuttadhammo Bhikkhu</a
+			>
+		</li>
+	</ul>
 	<h3>Mindful Yoga</h3>
 	<ul>
 		<li>
