@@ -46,16 +46,6 @@
 					out, feel the entire body.
 				</p>
 			</li>
-			<li>
-				<b>Try Holding Your Seat</b>
-				<p>
-					Sometimes, sitting through the tension several times for a long time, with loving
-					kindness, is enough to scar you for a long time in a positive sense: Rather than focusing
-					on the tension, expand your awareness to the entire body as a whole, while noting each
-					in-breath and out-breath. Breathing in, feel the entire body; breathing out, feel the
-					entire body.
-				</p>
-			</li>
 		</ul>
 	</div>
 </details>
