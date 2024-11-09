@@ -17,27 +17,23 @@
 				<b>Intentional Breathing Reset</b>
 				<p>
 					Temporarily shift to intentional breathing: gently take full, long breaths with a longer
-					out-breath than in-breath for 3-4 breaths. Then return to your meditation method. This
-					meditation reset often makes the mind less distractible, even by body tension.
+					out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
+					This reset procedure often makes the mind less distractible, even by body tension.
 				</p>
 			</li>
 			<li>
 				<b>Posture Adjustment</b>
-				<p>
-					A small posture adjustment can relieve muscle tension. For example, gently and kindly
-					straighten up if your posture feels off.
-				</p>
+				<p>A small posture adjustment can sometimes relieve muscle tension.</p>
 			</li>
 			<li>
 				<b>Awareness of Tension with Breath</b>
 				<p>
-					Focus on the area of tension, noticing its sensations and location while feeling each part
+					Focus on the area of tension, noticing its sensations and location while noting each leg
 					of the breath. Acknowledge the tension without trying to change it, with kindness,
-					patience, and self-compassion, trusting that it will ease over time, while feeling each
-					part of the breath.
+					patience, and self-compassion.
 				</p>
 				<p>
-					Visualizations can support this practice. Imagine oxygen nourishing your body, especially
+					Visualizations can support this. E.g, imagine oxygen nourishing your body, especially
 					tense areas, on each in-breath. On the out-breath, envision releasing what your body no
 					longer needs, perhaps picturing how the carbon dioxide nourishes plants.
 				</p>
@@ -53,11 +49,11 @@
 			<li>
 				<b>Try Holding Your Seat</b>
 				<p>
-					Sometimes, sitting through the tension several times for a long time, with loving kindness,
-					is enough to scar you for a long time in a positive sense: 	
-					Rather than focusing on the tension, expand your awareness to the entire body as a whole,
-					while noting each in-breath and out-breath. Breathing in, feel the entire body; breathing
-					out, feel the entire body.
+					Sometimes, sitting through the tension several times for a long time, with loving
+					kindness, is enough to scar you for a long time in a positive sense: Rather than focusing
+					on the tension, expand your awareness to the entire body as a whole, while noting each
+					in-breath and out-breath. Breathing in, feel the entire body; breathing out, feel the
+					entire body.
 				</p>
 			</li>
 		</ul>
