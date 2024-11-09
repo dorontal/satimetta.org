@@ -5,6 +5,7 @@ import{d as a}from"../chunks/index.B3dW9E6f.js";import{a as e,t}from"../chunks/d
 					of the breath. Acknowledge the tension without trying to change it, with kindness,
 					patience, and self-compassion.</p> <p>Visualizations can support this. E.g, imagine oxygen nourishing your body, especially
 					tense areas, on each in-breath. On the out-breath, envision releasing what your body no
-					longer needs, perhaps picturing how the carbon dioxide nourishes plants.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Rather than focusing on the tension, expand your awareness to the entire body as a whole,
-					while noting each in-breath and out-breath. Breathing in, feel the entire body; breathing
-					out, feel the entire body.</p></li></ul></div></details>`);function f(n){var o=m();l(i=>{var s=u();r.title="Mindfulness Questions and Answers",e(i,s)}),e(n,o)}export{f as component,y as universal};
+					longer needs, perhaps picturing how the carbon dioxide nourishes plants.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
+					out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
+					Sometimes focusing on the body as a whole can distract the mind away from any specific
+					location where there is pain or tension.</p></li></ul></div></details>`);function f(n){var o=m();l(i=>{var s=u();r.title="Mindfulness Questions and Answers",e(i,s)}),e(n,o)}export{f as component,y as universal};
