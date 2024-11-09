@@ -1,14 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="../_app/immutable/assets/0.B3MMp6HW.css" rel="stylesheet"><!--[--><meta name="description" content="About Doron Tal"><!--]--><title>About Doron Tal</title>
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="app svelte-120yfbx"><header class="svelte-2y1fnl"><nav class="svelte-2y1fnl"><svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-2y1fnl"><path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" class="svelte-2y1fnl"></path></svg> <ul class="svelte-2y1fnl"><li class="svelte-2y1fnl"><a href="../" class="svelte-2y1fnl">Home</a></li> <li class="svelte-2y1fnl"><a href="../events" class="svelte-2y1fnl">Events</a></li> <li aria-current="page" class="svelte-2y1fnl"><a href="../resources" class="svelte-2y1fnl">Resources</a></li></ul> <svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-2y1fnl"><path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" class="svelte-2y1fnl"></path></svg></nav></header><!----> <main class="svelte-120yfbx"><!----><!----><div class="text-column"><h1>Practice and Training History</h1> <ul><li><h4>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Present)</h4> <p>The <a href="https://www.engagedmindfulness.org/">Engaged Mindfulness Institute</a> (EMI) trains its students to facilitate mindfulness instruction in trauma-informed manner. The
+import{d as o}from"../chunks/index.B3dW9E6f.js";import{a as e,t}from"../chunks/disclose-version.DV6aiPhs.js";import{$ as s}from"../chunks/runtime.BNPZNPWc.js";import{h}from"../chunks/svelte-head.Cmgt2r43.js";const l=o,d=!0,w=Object.freeze(Object.defineProperty({__proto__:null,csr:l,prerender:d},Symbol.toStringTag,{value:"Module"}));var p=t('<meta name="description" content="About Doron Tal">'),c=t(`<div class="text-column"><h1>Practice and Training History</h1> <ul><li><h4>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Present)</h4> <p>The <a href="https://www.engagedmindfulness.org/">Engaged Mindfulness Institute</a> (EMI) trains its students to facilitate mindfulness instruction in trauma-informed manner. The
 				EMI mindfulness teacher training certifies its graduates via the <a href="https://imta.org">International Mindfulness Teacher Association</a>'s accreditation
 				as a Certified Mindfulness Teaching Professional (CMT-P). I have completed most of the
 				requirements and hope to be certified by May, 2025.</p></li> <li><h4>MBSR 10-Week Teacher Training Foundations Class (2024)</h4> <p>Attended the 10-week MBSR Teacher Training Class offered by UCSD, taught by Noriko Morita
@@ -25,7 +15,5 @@
 				how mindfulness works from a science perspective.</p></li> <li><h4>A Talk by His Holiness the Dalai Lama (1991)</h4> <p>In 1991, His Holiness the Dalai Lama gave a transformative talk titled <a href="https://www.youtube.com/watch?v=_2G-4m4y8Ss">"Overcoming Differences"</a>. This experience inspired me to begin reading his work.</p></li> <li><h4>Qigong (1989 - Present)</h4> <p>Learned a Qigong (Chi Kung) set from Robert Tangora, focusing on spinal stretching and
 				healing.</p></li> <li><h4>Tai Chi (1988 - Present)</h4> <p>Tai Chi is also moving meditation. Practicing mainly the Yang Style Short Form of Prof.
 				Tseng Man Ts'ing, under the instruction of Katherine Hannah, Maggie Newman, William Dere,
-				and since the late 80's, William C. C. Chen.</p></li> <li><h4>Breathwork &amp; Body Scans (Mid 1980's - Present)</h4> <p>Practicing yoga breathing exercises to calm the body, using abdominal breathing, counting,
-				and visualization. I also began practicing body scan techniques.</p></li></ul></div><!----><!----></main></div><!----><!--]--> <!--[!--><!--]--><!--]--></div>
-	</body>
-</html>
+				and since the late 80's, William C. C. Chen.</p></li> <li><h4>Breathwork & Body Scans (Mid 1980's - Present)</h4> <p>Practicing yoga breathing exercises to calm the body, using abdominal breathing, counting,
+				and visualization. I also began practicing body scan techniques.</p></li></ul></div>`);function y(a){var i=c();h(n=>{var r=p();s.title="About Doron Tal",e(n,r)}),e(a,i)}export{y as component,w as universal};
