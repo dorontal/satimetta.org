@@ -41,9 +41,10 @@
 			<li>
 				<b>Whole Body Awareness With Breath</b>
 				<p>
-					Rather than focusing on the tension, expand your awareness to the entire body as a whole,
-					while noting each in-breath and out-breath. Breathing in, feel the entire body; breathing
-					out, feel the entire body.
+					Expand your awareness to the entire body as a whole, while noting each in-breath and
+					out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
+					Sometimes focusing on the body as a whole can distract the mind away from any specific
+					location where there is pain or tension.
 				</p>
 			</li>
 		</ul>
