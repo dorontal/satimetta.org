@@ -8,7 +8,7 @@
 	<h3>Miscellaneous</h3>
 	<ul>
 		<li>
-			<a href="/resources/mindfulness-questions-and-answers"> Mindfulness questions and answers</a>
+			<a href="/resources/mindfulness-questions-and-answers/"> Mindfulness Questions and Answers</a>
 		</li>
 		<li>
 			<a
@@ -43,7 +43,12 @@
 	<h3>Mindfulness Related Research</h3>
 	<ul>
 		<li>
-			<a href="https://goamra.org/" target="_blank"> American Mindfulness Research Association </a>
+			<a
+				href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
+				target="_blank"
+			>
+				Link Between Mindfulness and Happiness - Matt Killingsworth
+			</a>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=br8-qebjIgs" target="_blank">
@@ -51,12 +56,7 @@
 			</a>
 		</li>
 		<li>
-			<a
-				href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
-				target="_blank"
-			>
-				Link Between Mindfulness and Happiness - Matt Killingsworth
-			</a>
+			<a href="https://goamra.org/" target="_blank"> American Mindfulness Research Association </a>
 		</li>
 	</ul>
 	<h3>Guided Body Scan Meditations</h3>
@@ -97,26 +97,17 @@
 	<h3>Guided Awareness of Breath Meditations</h3>
 	<ul>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
 				5-minute guided breath meditation - Diana Winston</a
 			>
 		</li>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=Z80Om2UkF6o"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=Z80Om2UkF6o" target="_blank">
 				12-minute guided breath meditation - Diana Winston</a
 			>
 		</li>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=1tgZojaSyrk"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=1tgZojaSyrk" target="_blank">
 				10-minute guided breath meditation - Jack Kornfield</a
 			>
 		</li>
@@ -129,10 +120,7 @@
 			>
 		</li>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=2GjZanuXWWk"
-				target="_blank"
-			>
+			<a href="https://www.youtube.com/watch?v=2GjZanuXWWk" target="_blank">
 				10-minute guided breath meditation - Jon Kabat Zinn</a
 			>
 		</li>
@@ -161,10 +149,7 @@
 			>
 		</li>
 		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/sets/seated-meditation"
-				target="_blank"
-			>
+			<a href="https://soundcloud.com/ucsdmindfulness/sets/seated-meditation" target="_blank">
 				More seated meditations curated by UCSD's Center for Integrative Health</a
 			>
 		</li>
@@ -172,11 +157,8 @@
 	<h3>Walking Meditation</h3>
 	<ul>
 		<li>
-			<a
-				href="https://www.youtube.com/watch?v=_IFvablc6EI"
-				target="_blank"
-			>
-			Basic Walking meditation instructions - Yuttadhammo Bhikkhu</a
+			<a href="https://www.youtube.com/watch?v=_IFvablc6EI" target="_blank">
+				Basic Walking Meditation Instructions - Yuttadhammo Bhikkhu</a
 			>
 		</li>
 	</ul>
