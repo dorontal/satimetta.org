@@ -111,12 +111,12 @@
 		<li>
 			<h4>Metta Practice (2015 - Present)</h4>
 			<p>
-				Practicing Metta at Tibet House in New York City under the guidance of <a
+				Practiced Metta at Tibet House in New York City under the guidance of <a
 					href="https://www.rachelhammerman.com/">Rachel Hammerman</a
-				>. Since 2019, I’ve joined
+				>. Since 2019, I’ve been attending
 				<a href="https://www.baus.org/en/group-meditation-over-zoom/"
 					>Bhikkhu Bodhi's weekly Metta
-				</a>
+				</a> sessions.
 			</p>
 		</li>
 		<li>
@@ -171,7 +171,7 @@
 			<h4>Breathwork & Body Scans (Mid 1980's - Present)</h4>
 			<p>
 				Practicing yoga breathing exercises to calm the body, using abdominal breathing, counting,
-				and visualization. I also began practicing body scan techniques.
+				and visualization; also started practicing the body scan.
 			</p>
 		</li>
 	</ul>
