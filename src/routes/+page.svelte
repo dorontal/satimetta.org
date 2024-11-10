@@ -1,5 +1,4 @@
 <script>
-	import { base } from '$app/paths';
 	import doronPhotoSrc from '$lib/images/doron.jpg';
 </script>
 
@@ -13,16 +12,18 @@
 	<div class="intro-container">
 		<div class="intro-container">
 			<div class="circle-image">
-				<img src={doronPhotoSrc} alt="Doron Tal" />
+				<a href="/about-doron-tal">
+					<img src={doronPhotoSrc} alt="Doron Tal" />
+				</a>
 			</div>
 			<p class="intro-text">
 				This space offers resources for developing mindfulness and loving kindness. These practices
 				have been valued for centuries. Today their benefits are recognized from both traditional
 				and scientific perspectives. Here, you can find Doron Tal's mindfulness-related <a
-					href="{base}/about-doron-tal">background</a
+					href="/about-doron-tal">background</a
 				>, class
-				<a href="{base}/events">schedule</a> and curated
-				<a href="{base}/mindfulness-resources">resources</a>.
+				<a href="/events">schedule</a> and curated
+				<a href="/mindfulness-resources">resources</a>.
 			</p>
 		</div>
 	</div>

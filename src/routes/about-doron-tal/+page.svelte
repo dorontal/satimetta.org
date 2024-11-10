@@ -173,8 +173,8 @@
 		<li>
 			<h4>Breathwork & Body Scans (Mid 1980's - Present)</h4>
 			<p>
-				Practicing yoga breathing exercises to calm the body, using abdominal breathing, counting,
-				and visualization; also started practicing the body scan.
+				Yoga breathing exercises to calm the body via abdominal breathing, counting,
+				and visualization. Also started practicing the body scan.
 			</p>
 		</li>
 	</ul>
