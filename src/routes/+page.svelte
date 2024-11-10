@@ -19,7 +19,7 @@
 				This space offers resources for developing mindfulness and loving kindness. These practices
 				have been valued for centuries. Today their benefits are recognized from both traditional
 				and scientific perspectives. Here, you can find Doron Tal's related <a
-					href="{base}/resources/bio">background</a
+					href="{base}/bio">background</a
 				>, class
 				<a href="{base}/events">schedule</a>, or curated
 				<a href="{base}/resources">resources</a>.
