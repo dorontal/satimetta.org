@@ -106,7 +106,10 @@
 		</li>
 		<li>
 			<h4>Sutta Study Class (2017 - Present)</h4>
-			<p>Regular attendance and participation in the Saturday class and meditation sessions.</p>
+			<p>
+				Regular attendance and participation in Bhikkhu Bodhi's Saturday classes and meditation
+				sessions.
+			</p>
 		</li>
 		<li>
 			<h4>Metta Practice (2015 - Present)</h4>
