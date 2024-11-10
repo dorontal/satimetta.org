@@ -8,7 +8,7 @@
 	<h3>Miscellaneous</h3>
 	<ul>
 		<li>
-			<a href="/resources/mindfulness-questions-and-answers"> Mindfulness Questions and Answers</a>
+			<a href="/mindfulness-resources/mindfulness-questions-and-answers"> Mindfulness Questions and Answers</a>
 		</li>
 		<li>
 			<a
