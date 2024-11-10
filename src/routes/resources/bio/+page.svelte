@@ -98,7 +98,7 @@
 			</p>
 		</li>
 		<li>
-			<h4>Meditation Retreat with Toby Warzinek (2019)</h4>
+			<h4>Meditation Retreat with Tobi Warzinek (2019)</h4>
 			<p>
 				Retreat led by Tobi Warzinek at the <a href="https://phuket-meditation.com/"
 					>Phuket Meditation Center</a
