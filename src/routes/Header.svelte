@@ -14,8 +14,8 @@
 			<li aria-current={$page.url.pathname === '/events' ? 'page' : undefined}>
 				<a href="/events">Events</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/mindfulness-resources') ? 'page' : undefined}>
-				<a href="/mindfulness-resources">Resources</a>
+			<li aria-current={$page.url.pathname.startsWith('/resources') ? 'page' : undefined}>
+				<a href="/resources">Resources</a>
 			</li>
 
 		</ul>

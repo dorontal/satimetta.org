@@ -23,7 +23,7 @@
 					href="/about-doron-tal">background</a
 				>, class
 				<a href="/events">schedule</a> and curated
-				<a href="/mindfulness-resources">resources</a>.
+				<a href="/resources">resources</a>.
 			</p>
 		</div>
 	</div>
