@@ -47,6 +47,14 @@
 			</p>
 		</li>
 		<li>
+			<h4>Daily Sitting Meditation Practice Group (2023 - Present)</h4>
+			<p>
+				Daily online group meditations with <a href="https://www.clearmountainmonastery.org/"
+					>Clear Mountain Monastery</a
+				>.
+			</p>
+		</li>
+		<li>
 			<h4>Santikaro's Class: Ānāpānasati Conversations (2023)</h4>
 			<p>A year long class centered around the Buddha's 16 step meditation method.</p>
 		</li>
