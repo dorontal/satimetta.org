@@ -136,7 +136,7 @@
 			<p>
 				In 1991, His Holiness the Dalai Lama gave a transformative talk titled <a
 					href="https://www.youtube.com/watch?v=_2G-4m4y8Ss">"Overcoming Differences"</a
-				>. This experience inspired me to begin reading his work.
+				>. This experience inspired me to begin reading his work, mostly related to Metta.
 			</p>
 		</li>
 		<li>
