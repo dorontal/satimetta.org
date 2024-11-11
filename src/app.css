@@ -16,6 +16,11 @@
 	color: var(--color-text);
 }
 
+/* NOTE: replacing body { ... } section of the original scaffolded Svelte app with two
+         sections: one for body { ... } and one for body::before { ... } - this was done
+		 to ensure that the background does not scroll together with the text when the
+		 page scrolls but remains fixed. 
+
 body {
 	min-height: 100vh;
 	margin: 0;
@@ -28,6 +33,34 @@ body {
 			rgba(255, 255, 255, 0) 100%
 		),
 		linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
+}
+*/
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    font-family: var(--font-body);
+    color: var(--color-text);
+    overflow-x: hidden;
+    position: relative; /* Set up positioning for the ::before element */
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: radial-gradient(
+            50% 50% at 50% 50%,
+            rgba(255, 255, 255, 0.75) 0%,
+            rgba(255, 255, 255, 0) 100%
+        ),
+        linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
+    z-index: -1; /* Ensures the background stays behind all other content */
 }
 
 h1,
