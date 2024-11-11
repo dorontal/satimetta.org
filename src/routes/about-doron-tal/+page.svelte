@@ -127,7 +127,9 @@
 		</li>
 		<li>
 			<h4>Teaching Qigong (2005)</h4>
-			<p>After the Tai Chi teacher at our workplace gym left, I taught a Qigong class.</p>
+			<p>
+				After the Tai Chi teacher at our workplace gym left, I taught a Qigong (Chi Kung) class.
+			</p>
 		</li>
 		<li>
 			<h4>Neuroscience Ph.D. (1997)</h4>
