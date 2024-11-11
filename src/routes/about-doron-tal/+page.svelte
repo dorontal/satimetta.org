@@ -35,7 +35,7 @@
 			<p>A year long class where Santikaro guides Ānāpānasati meditations.</p>
 		</li>
 		<li>
-			<h4>Santikaro Retreat (January 2024)</h4>
+			<h4>Santikaro Retreat (January 21-27, 2024)</h4>
 			<p>
 				Virtual online retreat titled
 				<a href="https://www.kevalaretreat.org/santikaros-2024-on-line-retreat-schedule/"
@@ -61,7 +61,7 @@
 			</p>
 		</li>
 		<li>
-			<h4>4-Day Virtual Silent Retreat with Bhikkhu Bodhi (March, 2023)</h4>
+			<h4>4-Day Virtual Silent Retreat with Bhikkhu Bodhi (March 17-20, 2023)</h4>
 			<p>
 				Online retreat titled
 				<a
