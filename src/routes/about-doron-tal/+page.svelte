@@ -23,7 +23,10 @@
 				Attended the 10-week MBSR Teacher Training class offered by University of California, San
 				Diego (UCSD)'s <a href="https://cih.ucsd.edu/">Centers for Integrative Health</a>, taught by
 				<a href="https://cih.ucsd.edu/mindfulness/team/noriko-morita-harth">Noriko Morita Harth</a>
-				and <a href="https://cih.ucsd.edu/mbpti/our-trainers">Korantema Pierce Wiliams</a>.
+				and
+				<a href="https://www.mindful-way.com/teachers/korantemah-pierce-williams/"
+					>Korantema Pierce Wiliams</a
+				>.
 			</p>
 		</li>
 		<li>
@@ -173,8 +176,8 @@
 		<li>
 			<h4>Breathwork & Body Scans (Mid 1980's - Present)</h4>
 			<p>
-				Yoga breathing exercises to calm the body via abdominal breathing, counting,
-				and visualization. Also started practicing the body scan.
+				Yoga breathing exercises to calm the body via abdominal breathing, counting, and
+				visualization. Also started practicing the body scan.
 			</p>
 		</li>
 	</ul>
