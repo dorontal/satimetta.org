@@ -25,7 +25,7 @@
 				<b>Posture Adjustment</b>
 				<p>
 					Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
-					disrupt focus.
+					can distract the mind.
 				</p>
 			</li>
 			<li>
