@@ -23,7 +23,10 @@
 			</li>
 			<li>
 				<b>Posture Adjustment</b>
-				<p>A small posture adjustment can sometimes relieve muscle tension.</p>
+				<p>
+					Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
+					disrupt focus.
+				</p>
 			</li>
 			<li>
 				<b>Awareness of Tension with Breath</b>
