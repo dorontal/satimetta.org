@@ -132,15 +132,6 @@
 			</p>
 		</li>
 		<li>
-			<h4>Neuroscience Ph.D. (1997)</h4>
-			<p>
-				Indirectly related - allows an understanding of the modern narratives that try to explain
-				how mindfulness works from a science perspective. My graduate advisor was <a
-					href="https://en.wikipedia.org/wiki/Eric_L._Schwartz">Eric L. Schwartz</a
-				>. We worked mainly on models of early visual function in visual cortex area V1.
-			</p>
-		</li>
-		<li>
 			<h4>A Talk by His Holiness the Dalai Lama (1991)</h4>
 			<p>
 				In 1991, His Holiness the Dalai Lama gave a transformative talk titled <a
