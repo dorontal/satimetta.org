@@ -96,7 +96,7 @@
 			</p>
 		</li>
 		<li>
-			<h4>Meditation Retreat with Tobi Warzinek (2019)</h4>
+			<h4>Meditation Retreat with Tobi Warzinek (March 5-9, 2019)</h4>
 			<p>
 				Five day retreat at <a href="https://phuket-meditation.com/">Phuket Meditation Center</a>.
 				Tobi taught a meditation method based on Ajahn Brahm’s. After the retreat, I picked up
