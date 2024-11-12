@@ -1,6 +1,10 @@
 <!--script>
 	import Accordion from './Accordion.svelte';
 </script-->
+<script>
+	import { page } from '$app/stores';
+	console.log('mindfulness-questions-and-answers page path: '+$page.url.pathname);
+</script>
 
 <svelte:head>
 	<title>Mindfulness Questions and Answers</title>

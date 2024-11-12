@@ -1,3 +1,8 @@
+<script>
+	import { page } from '$app/stores';
+	console.log('events page path: '+$page.url.pathname);
+</script>
+
 <svelte:head>
 	<title>Events</title>
 	<meta name="description" content="Event announcements and calendar" />

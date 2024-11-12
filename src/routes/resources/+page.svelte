@@ -1,3 +1,8 @@
+<script>
+	import { page } from '$app/stores';
+	console.log('resources page path: '+$page.url.pathname);
+</script>
+
 <svelte:head>
 	<title>Mindfulness Resources</title>
 	<meta name="description" content="Mindfulness Resources" />

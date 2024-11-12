@@ -1,3 +1,8 @@
+<script>
+	import { page } from '$app/stores';
+	console.log('about-doron-tal page path: '+$page.url.pathname);
+</script>
+
 <svelte:head>
 	<title>About Doron Tal</title>
 	<meta name="description" content="About Doron Tal" />

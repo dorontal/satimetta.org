@@ -1,5 +1,6 @@
 <script>
 	import { page } from '$app/stores';
+	console.log('header path: '+$page.url.pathname);
 </script>
 
 <header>
