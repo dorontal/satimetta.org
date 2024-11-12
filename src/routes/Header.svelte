@@ -1,6 +1,9 @@
 <script>
 	import { page } from '$app/stores';
-	console.log('header path: '+$page.url.pathname);
+	import { derived } from 'svelte/store';
+
+	// Derive the current path from the page store to ensure reactivity
+	const currentPath = derived(page, $page => $page.url.pathname);
 </script>
 
 <header>
@@ -9,16 +12,15 @@
 			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
 		</svg>
 		<ul>
-			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
+			<li aria-current={$currentPath === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/events' ? 'page' : undefined}>
+			<li aria-current={$currentPath === '/events' ? 'page' : undefined}>
 				<a href="/events">Events</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/resources') ? 'page' : undefined}>
+			<li aria-current={$currentPath.startsWith('/resources') ? 'page' : undefined}>
 				<a href="/resources">Resources</a>
 			</li>
-
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
@@ -77,7 +79,12 @@
 		top: 0;
 		left: calc(50% - var(--size));
 		border: var(--size) solid transparent;
-		border-top: var(--size) solid var(--color-theme-1);
+		border-top: var(--size) solid red; /* Active indicator color */
+	}
+
+	/* Style the active link text color */
+	li[aria-current='page'] a {
+		color: red; /* Active text color */
 	}
 
 	nav a {
