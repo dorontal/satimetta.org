@@ -12,6 +12,27 @@
 </svelte:head>
 
 <details>
+	<summary>Compare formal and informal mindfulness practice?</summary>
+	<div>
+		<p>
+			Formal mindfulness practice involves intentionally setting aside time to focus on a specific
+			method or exercise, while informal mindfulness practice is about weaving mindfulness into
+			everyday activities such as brushing your teeth, washing the dishes or eating. Both types
+			start with the intention to be mindful, but formal practice is more structured, with the
+			place, time, and type of practice decided ahead of time.
+		</p>
+		<p>
+			Formal practice has the potential to bring the mind to deeper states of collectedness and
+			tranquility (and therefore it also can lead to greater insight and mind training) as it allows
+			us to use refined methods that we cultivate over time.
+		</p>
+		<p>
+			Informal practice alone isn’t enough for real progress; formal practice creates the depth and
+			continuity that make informal mindfulness more effective and meaningful.
+		</p>
+	</div>
+</details>
+<details>
 	<summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary>
 	<div>
 		When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
@@ -67,8 +88,9 @@
 				<b>Mindfulness is not the same as mindfulness practice</b>
 				<p>
 					Mindfulness is a faculty of the mind, a "muscle" of the mind that can be strengthened by
-					mindfulness practice. Mindfulness practice is meditation - formal practice that leads to
-					the strengthening of the midnfulness faculty.
+					mindfulness practice. Mindfulness practice could either be meditation (formal practice) or
+					it can be informal, when we intentionally that leads to the strengthening of the
+					midnfulness faculty.
 				</p>
 			</li>
 			<li>
@@ -165,7 +187,7 @@
 	summary {
 		padding: 0.5em 1.3rem;
 		/* color: var(--color-theme-1); */
-		font-size: 1.5rem;
+		font-size: 1.3rem;
 		list-style: none;
 		display: flex;
 		justify-content: space-between;
