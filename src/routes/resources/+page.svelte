@@ -20,7 +20,7 @@
 				href="https://docs.google.com/document/d/1AbaENWFLB3iBQWI5bz0LJOSeWt2_TwZBcuon3xqMHj8"
 				target="_blank"
 			>
-				Daily Experiences Questionnaire Form
+			Mindful Attention Awareness Scale (MAAS)
 			</a>
 		</li>
 		<li>
