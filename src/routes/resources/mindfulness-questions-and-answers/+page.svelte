@@ -12,6 +12,53 @@
 </svelte:head>
 
 <details>
+	<summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary>
+	<div>
+		When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
+		we’re in the passenger seat while our thoughts do the driving. In mindfulness practice, however,
+		we notice our thoughts when they appear, but we don’t let them drive us. Instead, we gently and
+		kindly return our focus to our main object of meditation. Here are some important differences
+		between the two:
+		<ul>
+			<li>
+				<b>Intention and Control</b>
+				<p>
+					Mindfulness involves a deliberate choice to stay in the present moment, while
+					mind-wandering happens unintentionally and often leads to distraction. With mindfulness,
+					our attention is guided intentionally. In mind-wandering, however, attention operates on
+					its own, without conscious direction.
+				</p>
+			</li>
+			<li>
+				<b>Present Moment Awareneess</b>
+				<p>
+					Mindfulness anchors us in the present, helping us see reality as it is, whereas
+					mind-wandering is often about the past or future. This contrast could clarify how
+					mindfulness practice strengthens our ability to engage fully with life as it unfolds.
+				</p>
+			</li>
+			<li>
+				<b>Emotional Awareness</b>
+				<p>
+					Mind-wandering might trigger emotional reactions that go unnoticed. For instance, thoughts
+					can drift toward worries or regrets, creating stress or anxiety, while mindfulness invites
+					us to notice and be with these emotions.
+				</p>
+			</li>
+			<li>
+				<b>Brain and Health Benefits</b>
+				<p>
+					Mindfulness not only enhances focus and emotional resilience but also has proven benefits
+					for brain health. By training the mind to stay present, mindfulness reduces stress,
+					improves cognitive function, and fosters greater emotional regulation. In contrast,
+					mind-wandering can often lead to rumination and heightened anxiety, which can negatively
+					impact both mental well-being and overall brain function.
+				</p>
+			</li>
+		</ul>
+	</div>
+</details>
+<details>
 	<summary>What Mindfulness is Not</summary>
 	<div>
 		Some common misconceptions about mindfulness:
@@ -29,7 +76,7 @@
 				<p>
 					While mindfulness practice can lead to a sense of calm, its purpose is not to make you
 					relax. It’s about paying attention to the present moment, whatever it may hold, with
-					curiosity.
+					openness, curiosity and kindness.
 				</p>
 			</li>
 			<li>
