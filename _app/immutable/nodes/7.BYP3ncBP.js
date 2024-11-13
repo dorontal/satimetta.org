@@ -1,4 +1,11 @@
-import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as h}from"../chunks/disclose-version.C9uqBDiV.js";import{p as u,a as c,$ as m,U as g}from"../chunks/utils.BEwApGvT.js";import{h as p}from"../chunks/svelte-head.CRopZkQB.js";import{i as f,p as y}from"../chunks/stores.D91kXW6q.js";const b=l,w=!0,B=Object.freeze(Object.defineProperty({__proto__:null,csr:b,prerender:w},Symbol.toStringTag,{value:"Module"}));var v=t('<meta name="description" content="Mindfulness Questions and Answers">'),x=t(`<details class="svelte-10ygxyl"><summary class="svelte-10ygxyl">How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div class="svelte-10ygxyl">When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
+import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as c}from"../chunks/disclose-version.C9uqBDiV.js";import{p as h,a as u,$ as m,U as p}from"../chunks/utils.BEwApGvT.js";import{h as f}from"../chunks/svelte-head.CRopZkQB.js";import{i as g,p as b}from"../chunks/stores.DvR6xa7T.js";const y=l,w=!0,_=Object.freeze(Object.defineProperty({__proto__:null,csr:y,prerender:w},Symbol.toStringTag,{value:"Module"}));var v=t('<meta name="description" content="Mindfulness Questions and Answers">'),M=t(`<details class="svelte-1c964t7"><summary class="svelte-1c964t7">Compare formal and informal mindfulness practice?</summary> <div class="svelte-1c964t7"><p>Formal mindfulness practice involves intentionally setting aside time to focus on a specific
+			method or exercise, while informal mindfulness practice is about weaving mindfulness into
+			everyday activities such as brushing your teeth, washing the dishes or eating. Both types
+			start with the intention to be mindful, but formal practice is more structured, with the
+			place, time, and type of practice decided ahead of time.</p> <p>Formal practice has the potential to bring the mind to deeper states of collectedness and
+			tranquility (and therefore it also can lead to greater insight and mind training) as it allows
+			us to use refined methods that we cultivate over time.</p> <p>Informal practice alone isn’t enough for real progress; formal practice creates the depth and
+			continuity that make informal mindfulness more effective and meaningful.</p></div></details> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div class="svelte-1c964t7">When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
 		we’re in the passenger seat while our thoughts do the driving. In mindfulness practice, however,
 		we notice our thoughts when they appear, but we don’t let them drive us. Instead, we gently and
 		kindly return our focus to our main object of meditation. Here are some important differences
@@ -13,9 +20,10 @@ import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as h}fr
 					for brain health. By training the mind to stay present, mindfulness reduces stress,
 					improves cognitive function, and fosters greater emotional regulation. In contrast,
 					mind-wandering can often lead to rumination and heightened anxiety, which can negatively
-					impact both mental well-being and overall brain function.</p></li></ul></div></details> <details class="svelte-10ygxyl"><summary class="svelte-10ygxyl">What Mindfulness is Not</summary> <div class="svelte-10ygxyl">Some common misconceptions about mindfulness: <ul><li><b>Mindfulness is not the same as mindfulness practice</b> <p>Mindfulness is a faculty of the mind, a "muscle" of the mind that can be strengthened by
-					mindfulness practice. Mindfulness practice is meditation - formal practice that leads to
-					the strengthening of the midnfulness faculty.</p></li> <li><b>Mindfulness practice is not the same as relaxation</b> <p>While mindfulness practice can lead to a sense of calm, its purpose is not to make you
+					impact both mental well-being and overall brain function.</p></li></ul></div></details> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">What Mindfulness is Not</summary> <div class="svelte-1c964t7">Some common misconceptions about mindfulness: <ul><li><b>Mindfulness is not the same as mindfulness practice</b> <p>Mindfulness is a faculty of the mind, a "muscle" of the mind that can be strengthened by
+					mindfulness practice. Mindfulness practice could either be meditation (formal practice) or
+					it can be informal, when we intentionally that leads to the strengthening of the
+					midnfulness faculty.</p></li> <li><b>Mindfulness practice is not the same as relaxation</b> <p>While mindfulness practice can lead to a sense of calm, its purpose is not to make you
 					relax. It’s about paying attention to the present moment, whatever it may hold, with
 					openness, curiosity and kindness.</p></li> <li><b>Mindfulness practice is not a quick fix</b> <p>Mindfulness is a skill that develops gradually, like building strength at the gym. With
 					consistent, disciplined practice, mindfulness grows stronger over time. Just as muscles
@@ -24,7 +32,7 @@ import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as h}fr
 					accepting them as they arise, without attaching too much meaning or reacting to them.</p></li> <li><b>Mindfulness practice is not a mental escape</b> <p>In mindfulness practice, we bravely engage with whatever arises in the mind, rather than
 					avoiding it. We stay alert and attentive to our thoughts and feelings. This awareness
 					distinguishes mindfulness from forms of mental escape, like using substances or getting
-					lost in mind-wandering.</p></li></ul></div></details> <details class="svelte-10ygxyl"><summary class="svelte-10ygxyl">Feeling body tension during meditation</summary> <div class="svelte-10ygxyl">It’s common for tension to build in the body during meditation. Here are some brief suggestions
+					lost in mind-wandering.</p></li></ul></div></details> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">Feeling body tension during meditation</summary> <div class="svelte-1c964t7">It’s common for tension to build in the body during meditation. Here are some brief suggestions
 		for managing body tension during meditation: <ul><li><b>Intentional Breathing Reset</b> <p>Temporarily shift to intentional breathing: gently take full, long breaths with a longer
 					out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
 					This reset procedure often makes the mind less distractible, even by body tension.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however, can
@@ -35,4 +43,4 @@ import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as h}fr
 					longer needs, perhaps picturing how the carbon dioxide nourishes plants.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 					out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 					Sometimes focusing on the body as a whole can distract the mind away from any specific
-					location where there is pain or tension.</p></li></ul></div></details>`,1);function $(n,i){u(i,!1);const s=d();console.log("mindfulness-questions-and-answers page path: "+h(y,"$page",s).url.pathname),f();var a=x();p(o=>{var r=v();m.title="Mindfulness Questions and Answers",e(o,r)}),g(4),e(n,a),c()}export{$ as component,B as universal};
+					location where there is pain or tension.</p></li></ul></div></details>`,1);function $(n,i){h(i,!1);const s=d();console.log("mindfulness-questions-and-answers page path: "+c(b,"$page",s).url.pathname),g();var a=M();f(o=>{var r=v();m.title="Mindfulness Questions and Answers",e(o,r)}),p(6),e(n,a),u()}export{$ as component,_ as universal};
