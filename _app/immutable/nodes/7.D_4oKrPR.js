@@ -1,15 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="../_app/immutable/assets/0.ZuCCM3UB.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/7.ypIYzf70.css" rel="stylesheet"><!--[--><meta name="description" content="Mindfulness Questions and Answers"><!--]--><title>Mindfulness Questions and Answers</title>
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="app svelte-120yfbx"><header class="svelte-1xunyw6"><nav class="svelte-1xunyw6"><svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-1xunyw6"><path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" class="svelte-1xunyw6"></path></svg> <ul class="svelte-1xunyw6"><li class="svelte-1xunyw6"><a href="/" class="svelte-1xunyw6">Home</a></li> <li class="svelte-1xunyw6"><a href="/events" class="svelte-1xunyw6">Events</a></li> <li aria-current="page" class="svelte-1xunyw6"><a href="/resources" class="svelte-1xunyw6">Resources</a></li></ul> <svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-1xunyw6"><path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" class="svelte-1xunyw6"></path></svg></nav></header><!----> <main class="svelte-120yfbx"><!----><!----><details class="svelte-10ygxyl"><summary class="svelte-10ygxyl">How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div class="svelte-10ygxyl">When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
+import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as h}from"../chunks/disclose-version.C9uqBDiV.js";import{p as u,a as c,$ as m,U as g}from"../chunks/utils.BEwApGvT.js";import{h as p}from"../chunks/svelte-head.CRopZkQB.js";import{i as f,p as y}from"../chunks/stores.e2nGUoon.js";const b=l,w=!0,B=Object.freeze(Object.defineProperty({__proto__:null,csr:b,prerender:w},Symbol.toStringTag,{value:"Module"}));var v=t('<meta name="description" content="Mindfulness Questions and Answers">'),x=t(`<details class="svelte-10ygxyl"><summary class="svelte-10ygxyl">How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div class="svelte-10ygxyl">When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
 		we’re in the passenger seat while our thoughts do the driving. In mindfulness practice, however,
 		we notice our thoughts when they appear, but we don’t let them drive us. Instead, we gently and
 		kindly return our focus to our main object of meditation. Here are some important differences
@@ -46,6 +35,4 @@
 					longer needs, perhaps picturing how the carbon dioxide nourishes plants.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 					out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 					Sometimes focusing on the body as a whole can distract the mind away from any specific
-					location where there is pain or tension.</p></li></ul></div></details><!----><!----></main></div><!----><!--]--> <!--[!--><!--]--><!--]--></div>
-	</body>
-</html>
+					location where there is pain or tension.</p></li></ul></div></details>`,1);function $(n,i){u(i,!1);const s=d();console.log("mindfulness-questions-and-answers page path: "+h(y,"$page",s).url.pathname),f();var a=x();p(o=>{var r=v();m.title="Mindfulness Questions and Answers",e(o,r)}),g(4),e(n,a),c()}export{$ as component,B as universal};
