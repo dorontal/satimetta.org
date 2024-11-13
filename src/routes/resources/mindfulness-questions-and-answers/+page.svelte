@@ -3,7 +3,7 @@
 </script-->
 <script>
 	import { page } from '$app/stores';
-	console.log('mindfulness-questions-and-answers page path: '+$page.url.pathname);
+	console.log('mindfulness-questions-and-answers page path: ' + $page.url.pathname);
 </script>
 
 <svelte:head>
@@ -11,6 +11,55 @@
 	<meta name="description" content="Mindfulness Questions and Answers" />
 </svelte:head>
 
+<details>
+	<summary>What Mindfulness is Not</summary>
+	<div>
+		Some common misconceptions about mindfulness:
+		<ul>
+			<li>
+				<b>Mindfulness is not the same as mindfulness practice</b>
+				<p>
+					Mindfulness is a faculty of the mind, a "muscle" of the mind that can be strengthened by
+					mindfulness practice. Mindfulness practice is meditation - formal practice that leads to
+					the strengthening of the midnfulness faculty.
+				</p>
+			</li>
+			<li>
+				<b>Mindfulness practice is not the same as relaxation</b>
+				<p>
+					While mindfulness practice can lead to a sense of calm, its purpose is not to make you
+					relax. It’s about paying attention to the present moment, whatever it may hold, with
+					curiosity.
+				</p>
+			</li>
+			<li>
+				<b>Mindfulness practice is not a quick fix</b>
+				<p>
+					Mindfulness is a skill that develops gradually, like building strength at the gym. With
+					consistent, disciplined practice, mindfulness grows stronger over time. Just as muscles
+					can weaken without regular exercise, our ability to stay mindful can fade if we don't keep
+					practicing. Only steady, ongoing practice creates lasting benefits.
+				</p>
+			</li>
+			<li>
+				<b>Mindfulness is not about getting rid of thoughts or emotions</b>
+				<p>
+					Instead of trying to stop thinking or avoid feelings, mindfulness involves noticing and
+					accepting them as they arise, without attaching too much meaning or reacting to them.
+				</p>
+			</li>
+			<li>
+				<b>Mindfulness practice is not a mental escape</b>
+				<p>
+					In mindfulness practice, we bravely engage with whatever arises in the mind, rather than
+					avoiding it. We stay alert and attentive to our thoughts and feelings. This awareness
+					distinguishes mindfulness from forms of mental escape, like using substances or getting
+					lost in mind-wandering.
+				</p>
+			</li>
+		</ul>
+	</div>
+</details>
 <details>
 	<summary>Feeling body tension during meditation</summary>
 	<div>
@@ -28,8 +77,8 @@
 			<li>
 				<b>Posture Adjustment</b>
 				<p>
-					Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
-					can distract the mind.
+					Adjusting your posture may help relieve muscle tension. Frequent adjustments, however, can
+					distract the mind.
 				</p>
 			</li>
 			<li>
