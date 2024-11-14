@@ -43,11 +43,13 @@
 <details>
 	<summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary>
 	<div>
-		When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
-		we’re in the passenger seat while our thoughts do the driving. In mindfulness practice, however,
-		we notice our thoughts when they appear, but we don’t let them drive us. Instead, we gently and
-		kindly return our focus to our main object of meditation. Here are some important differences
-		between the two:
+		<p>
+			When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
+			if we’re in the passenger seat while our thoughts do the driving. In mindfulness practice,
+			however, we notice our thoughts when they appear, but we don’t let them drive us. Instead, we
+			gently and kindly return our focus to our main object of meditation. Here are some important
+			differences between the two:
+		</p>
 		<ul>
 			<li>
 				<b>Intention and Control</b>
