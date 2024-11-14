@@ -11,15 +11,14 @@
 	<meta name="description" content="Mindfulness Questions and Answers" />
 </svelte:head>
 
-<details>
+<!--details>
 	<summary>Compare formal and informal mindfulness practice?</summary>
 	<div>
 		<p>
-			Formal mindfulness practice involves intentionally setting aside time to focus on a specific
-			method or exercise, while informal mindfulness practice is about weaving mindfulness into
-			everyday activities such as brushing your teeth, washing the dishes or eating. Both types
-			start with the intention to be mindful, but formal practice is more structured, with the
-			place, time, and type of practice decided ahead of time.
+			Formal mindfulness practice involves intentionally setting aside a time and a place to focus
+			on a specific method or exercise, while informal mindfulness practice is about weaving
+			mindfulness into everyday activities such as brushing your teeth, washing the dishes or
+			eating. Both types start with the intention to be mindful.
 		</p>
 		<p>
 			Formal practice has the potential to bring the mind to deeper states of collectedness and
@@ -27,11 +26,40 @@
 			us to use refined methods that we cultivate over time.
 		</p>
 		<p>
-			Informal practice alone isn’t enough for real progress; formal practice creates the depth and
+			Informal practice alone isn’t enough for real progres s; formal practice creates the depth and
 			continuity that make informal mindfulness more effective and meaningful.
+		</p>
+		<p>
+			Formal practice alone isn’t enough either; we would greatly benefit if we were more mindful in
+			all our activities.
+		</p>
+		<p>
+			Both types of practice help each other: formal practice helps strenthen the mental capacity of
+			mindfulness that makes it easier to be more mindful in daily activities. The reverse is
+			equally important: being mindful continuously is what strengthens the mental muscle of
+			mindfulness, threfore being more mindful throughout daily activities greatly helps your
+			meditation.
+		</p>
+	</div>
+</details-->
+<details>
+	<summary>Compare formal and informal mindfulness practice?</summary>
+	<div>
+		<p>
+			Formal mindfulness practice involves intentionally setting aside time and space to focus on a specific method or exercise, while informal mindfulness practice is about weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes, or eating. Both types of practice begin with the intention to be mindful.
+		</p>
+		<p>
+			Informal practice helps life flow more smoothly, with greater ease and presence. It supports a calm, attentive state that enhances daily interactions, decisions, and overall well-being, but on its own may not lead to real progress; formal practice provides depth and continuity that make informal mindfulness more effective.
+		</p>
+		<p>
+			Formal practice has the potential to bring the mind to deeper states of collectedness and tranquility, which can lead to greater insight and enhanced mind training, as it allows us to use refined methods that are cultivated over time.
+		</p>
+		<p>
+			Both types of practice reinforce each other: formal practice strengthens the mental capacity for mindfulness, making it easier to remain mindful in daily activities. The reverse is equally important: being continuously mindful throughout daily activities strengthens the “mental muscle” of mindfulness, which in turn supports meditation practice.
 		</p>
 	</div>
 </details>
+
 <details>
 	<summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary>
 	<div>
