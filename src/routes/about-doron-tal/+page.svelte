@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	console.log('about-doron-tal page path: '+$page.url.pathname);
+	console.log('about-doron-tal page path: ' + $page.url.pathname);
 </script>
 
 <svelte:head>
@@ -22,6 +22,19 @@
 				requirements and hope to be certified by May, 2025.
 			</p>
 		</li>
+		<li>
+			<h4>
+				Prison Mindfulness Institute's "Path of Freedom" - Prison Mindfulness Facilitation Training
+				(July - August, 2024)
+			</h4>
+			<p>
+				The Path of Freedom prison mindfulness facilitator training is a mindfulness-based emotional
+				intelligence (MBEI) program developed for incarcerated individuals. It integrates
+				mindfulness practices, emotional intelligence topics and exercises, and cognitive behavioral
+				methods.
+			</p>
+		</li>
+
 		<li>
 			<h4>MBSR 10-Week Teacher Training Foundations Class (2024)</h4>
 			<p>
