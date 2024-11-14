@@ -1,6 +1,3 @@
-<!--script>
-	import Accordion from './Accordion.svelte';
-</script-->
 <script>
 	import { page } from '$app/stores';
 	console.log('mindfulness-questions-and-answers page path: ' + $page.url.pathname);
@@ -92,7 +89,7 @@
 <details>
 	<summary>What Mindfulness is Not</summary>
 	<div>
-		Some common misconceptions about mindfulness:
+		<p>Some common misconceptions about mindfulness:</p>
 		<ul>
 			<li>
 				<b>Mindfulness is not the same as mindfulness practice</b>
@@ -142,8 +139,10 @@
 <details>
 	<summary>Feeling body tension during meditation</summary>
 	<div>
-		It’s common for tension to build in the body during meditation. Here are some brief suggestions
-		for managing body tension during meditation:
+		<p>
+			It’s common for tension to build in the body during meditation. Here are some brief
+			suggestions for managing body tension during meditation:
+		</p>
 		<ul>
 			<li>
 				<b>Intentional Breathing Reset</b>
