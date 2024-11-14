@@ -1,4 +1,4 @@
-import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as c}from"../chunks/disclose-version.C9uqBDiV.js";import{p as h,a as u,$ as m,U as p}from"../chunks/utils.BEwApGvT.js";import{h as f}from"../chunks/svelte-head.CRopZkQB.js";import{i as g,p as b}from"../chunks/stores.CA_2DDcE.js";const y=l,w=!0,_=Object.freeze(Object.defineProperty({__proto__:null,csr:y,prerender:w},Symbol.toStringTag,{value:"Module"}));var v=t('<meta name="description" content="Mindfulness Questions and Answers">'),M=t(`<details class="svelte-1c964t7"><summary class="svelte-1c964t7">What is the difference between formal and informal mindfulness practice?</summary> <div class="svelte-1c964t7"><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on a
+import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as c}from"../chunks/disclose-version.C9uqBDiV.js";import{p as h,a as u,$ as m,U as p}from"../chunks/utils.BEwApGvT.js";import{h as f}from"../chunks/svelte-head.CRopZkQB.js";import{i as g,p as b}from"../chunks/stores.Md5Bcs7X.js";const y=l,w=!0,_=Object.freeze(Object.defineProperty({__proto__:null,csr:y,prerender:w},Symbol.toStringTag,{value:"Module"}));var v=t('<meta name="description" content="Mindfulness Questions and Answers">'),M=t(`<details class="svelte-1c964t7"><summary class="svelte-1c964t7">What is the difference between formal and informal mindfulness practice?</summary> <div class="svelte-1c964t7"><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on a
 			specific method or exercise, while informal mindfulness practice is about weaving mindfulness
 			into everyday activities, like brushing your teeth, washing the dishes, or eating. Both types
 			of practice begin with the intention to be mindful.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports a
@@ -9,11 +9,11 @@ import{d as l}from"../chunks/index.DOcJHmy8.js";import{s as d,a as e,t,b as c}fr
 			use refined methods that are cultivated over time.</p> <p>Both types of practice reinforce each other: formal practice strengthens the mental capacity
 			for mindfulness, making it easier to remain mindful in daily activities. The reverse is
 			equally important: being continuously mindful throughout daily activities strengthens the
-			“mental muscle” of mindfulness, which in turn supports meditation practice.</p></div></details> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div class="svelte-1c964t7">When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as if
-		we’re in the passenger seat while our thoughts do the driving. In mindfulness practice, however,
-		we notice our thoughts when they appear, but we don’t let them drive us. Instead, we gently and
-		kindly return our focus to our main object of meditation. Here are some important differences
-		between the two: <ul><li><b>Intention and Control</b> <p>Mindfulness involves a deliberate choice to stay in the present moment, while
+			“mental muscle” of mindfulness, which in turn supports meditation practice.</p></div></details> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div class="svelte-1c964t7"><p>When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
+			if we’re in the passenger seat while our thoughts do the driving. In mindfulness practice,
+			however, we notice our thoughts when they appear, but we don’t let them drive us. Instead, we
+			gently and kindly return our focus to our main object of meditation. Here are some important
+			differences between the two:</p> <ul><li><b>Intention and Control</b> <p>Mindfulness involves a deliberate choice to stay in the present moment, while
 					mind-wandering happens unintentionally and often leads to distraction. With mindfulness,
 					our attention is guided intentionally. In mind-wandering, however, attention operates on
 					its own, without conscious direction.</p></li> <li><b>Present Moment Awareneess</b> <p>Mindfulness anchors us in the present, helping us see reality as it is, whereas
