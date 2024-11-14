@@ -15,16 +15,27 @@
 	<summary>What is the difference between formal and informal mindfulness practice?</summary>
 	<div>
 		<p>
-			Formal mindfulness practice involves intentionally setting aside time and space to focus on a specific method or exercise, while informal mindfulness practice is about weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes, or eating. Both types of practice begin with the intention to be mindful.
+			Formal mindfulness practice involves intentionally setting aside time and space to focus on a
+			specific method or exercise, while informal mindfulness practice is about weaving mindfulness
+			into everyday activities, like brushing your teeth, washing the dishes, or eating. Both types
+			of practice begin with the intention to be mindful.
 		</p>
 		<p>
-			Informal practice helps life flow more smoothly, with greater ease and presence. It supports a calm, attentive state that enhances daily interactions, decisions, and overall well-being, but on its own may not lead to real progress; formal practice provides depth and continuity that make informal mindfulness more effective.
+			Informal practice helps life flow more smoothly, with greater ease and presence. It supports a
+			calm, attentive state that enhances daily interactions, decisions, and overall well-being, but
+			on its own may not lead to real progress. Formal practice provides depth and continuity that
+			strengthen informal mindfulness and make it more effective throughout the day.
 		</p>
 		<p>
-			Formal practice has the potential to bring the mind to deeper states of collectedness and tranquility, which can lead to greater insight and enhanced mind training, as it allows us to use refined methods that are cultivated over time.
+			Formal practice has the potential to bring the mind to deeper states of collectedness and
+			tranquility, which can lead to greater insight and enhanced mind training, as it allows us to
+			use refined methods that are cultivated over time.
 		</p>
 		<p>
-			Both types of practice reinforce each other: formal practice strengthens the mental capacity for mindfulness, making it easier to remain mindful in daily activities. The reverse is equally important: being continuously mindful throughout daily activities strengthens the “mental muscle” of mindfulness, which in turn supports meditation practice.
+			Both types of practice reinforce each other: formal practice strengthens the mental capacity
+			for mindfulness, making it easier to remain mindful in daily activities. The reverse is
+			equally important: being continuously mindful throughout daily activities strengthens the
+			“mental muscle” of mindfulness, which in turn supports meditation practice.
 		</p>
 	</div>
 </details>
