@@ -24,10 +24,7 @@
 		</li>
 		<li>
 			<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
-			<p>
-				Virtual online retreat - three hour morning meditations - offered by Clear Mountain
-				Monastery.
-			</p>
+			<p>Virtual online retreat offered by Clear Mountain Monastery.</p>
 		</li>
 		<li>
 			<h4>
