@@ -23,6 +23,13 @@
 			</p>
 		</li>
 		<li>
+			<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
+			<p>
+				Virtual online retreat - three hour morning meditations - offered by Clear Mountain
+				Monastery.
+			</p>
+		</li>
+		<li>
 			<h4>
 				Prison Mindfulness Institute's "Path of Freedom" - Prison Mindfulness Facilitation Training
 				(July - August, 2024)
@@ -56,7 +63,7 @@
 			<p>A year long class where Santikaro guides Ānāpānasati meditations.</p>
 		</li>
 		<li>
-			<h4>Santikaro Retreat (January 21-27, 2024)</h4>
+			<h4>Retreat with Santikaro (January 21-27, 2024)</h4>
 			<p>
 				Virtual online retreat titled
 				<a href="https://www.kevalaretreat.org/santikaros-2024-on-line-retreat-schedule/"
@@ -90,9 +97,9 @@
 			</p>
 		</li>
 		<li>
-			<h4>4-Day Virtual Silent Retreat with Bhikkhu Bodhi (March 17-20, 2023)</h4>
+			<h4>Silent Retreat with Bhikkhu Bodhi (March 17-20, 2023)</h4>
 			<p>
-				Online retreat titled
+				Participated and volunteered in this online silent retreat, titled
 				<a
 					href="https://4nqqe.r.ag.d.sendibm3.com/mk/mr/mSFedAVBuMUCXhE_LqNU_CdoRSZwIcHpQ8ppyKnwbUClA8-HbYKyIeZ1rpfTQrx7yV4YAkolm1DECzKj6Su_KjvXLSxAca6SDDWwtdybmcNqN_OPvmTTbYVtnLhWFK8sH0c5MZIidQ"
 					>From Contemplation of the Body to Contemplation of the Mind</a
@@ -125,7 +132,7 @@
 			</p>
 		</li>
 		<li>
-			<h4>Meditation Retreat with Tobi Warzinek (March 5-9, 2019)</h4>
+			<h4>Retreat with Tobi Warzinek (March 5-9, 2019)</h4>
 			<p>
 				Five day retreat at <a href="https://phuket-meditation.com/">Phuket Meditation Center</a>.
 				Tobi taught a meditation method based on Ajahn Brahm’s. After the retreat, I picked up
