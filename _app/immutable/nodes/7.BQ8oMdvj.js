@@ -1,15 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="../_app/immutable/assets/0.ZuCCM3UB.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/7.DXrlMgoQ.css" rel="stylesheet"><!--[--><meta name="description" content="Mindfulness Questions and Answers"><!--]--><title>Mindfulness Questions and Answers</title>
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="app svelte-120yfbx"><header class="svelte-1xunyw6"><nav class="svelte-1xunyw6"><svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-1xunyw6"><path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" class="svelte-1xunyw6"></path></svg> <ul class="svelte-1xunyw6"><li class="svelte-1xunyw6"><a href="/" class="svelte-1xunyw6">Home</a></li> <li class="svelte-1xunyw6"><a href="/events" class="svelte-1xunyw6">Events</a></li> <li aria-current="page" class="svelte-1xunyw6"><a href="/resources" class="svelte-1xunyw6">Resources</a></li></ul> <svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-1xunyw6"><path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" class="svelte-1xunyw6"></path></svg></nav></header><!----> <main class="svelte-120yfbx"><!----><!----><div class="text-column"><h1>Mindfulness Questions and Answers</h1> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">What is the difference between formal and informal mindfulness practice?</summary> <div class="svelte-1c964t7"><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
+import{d as l}from"../chunks/index.Csg6f8Ah.js";import{s as d,a as e,t,b as c}from"../chunks/disclose-version.DN_3-sjK.js";import{i as h,p as u}from"../chunks/stores.BCUwB3Z9.js";import{p as m,a as p,$ as f}from"../chunks/utils.DPRmjBpf.js";import{h as g}from"../chunks/svelte-head.Cv0cQMYo.js";const b=l,y=!0,W=Object.freeze(Object.defineProperty({__proto__:null,csr:b,prerender:y},Symbol.toStringTag,{value:"Module"}));var w=t('<meta name="description" content="Mindfulness Questions and Answers">'),v=t(`<div class="text-column"><h1>Mindfulness Questions and Answers</h1> <details class="svelte-1c964t7"><summary class="svelte-1c964t7">What is the difference between formal and informal mindfulness practice?</summary> <div class="svelte-1c964t7"><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
 				a specific method or exercise, while informal mindfulness practice is about weaving
 				mindfulness into everyday activities, like brushing your teeth, washing the dishes, or
 				eating. Both types of practice begin with the intention to be mindful.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
@@ -58,6 +47,4 @@
 						longer needs, perhaps picturing how the carbon dioxide nourishes plants.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details></div><!----><!----></main></div><!----><!--]--> <!--[!--><!--]--><!--]--></div>
-	</body>
-</html>
+						location where there is pain or tension.</p></li></ul></div></details></div>`);function _(n,i){m(i,!1);const s=d();console.log("mindfulness-questions-and-answers page path: "+c(u,"$page",s).url.pathname),h();var a=v();g(o=>{var r=w();f.title="Mindfulness Questions and Answers",e(o,r)}),e(n,a),p()}export{_ as component,W as universal};
