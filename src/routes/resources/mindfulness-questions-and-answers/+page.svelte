@@ -134,7 +134,7 @@
 		</div>
 	</details>
 	<details>
-		<summary>Feeling body tension during meditation</summary>
+		<summary>What to do about body tension during meditation?</summary>
 		<div>
 			<p>
 				It’s common for tension to build in the body during meditation. Here are some brief
