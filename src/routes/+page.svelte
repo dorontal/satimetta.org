@@ -1,7 +1,5 @@
 <script>
 	import doronPhotoSrc from '$lib/images/doron.jpg';
-	import { page } from '$app/stores';
-	console.log('home page path: '+$page.url.pathname);
 </script>
 
 <svelte:head>
