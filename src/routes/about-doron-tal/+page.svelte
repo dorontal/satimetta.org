@@ -107,9 +107,6 @@
 			<ul>
 				<li>
 					<h4>NASA Ames Research Center Qigong class (Spring, 2005)</h4>
-					<p>
-						After the Tai Chi teacher at the gym left, I taught a Qigong (Chi Kung) class.
-					</p>
 				</li>
 			</ul>
 		</div>
