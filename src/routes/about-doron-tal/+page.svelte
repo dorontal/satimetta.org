@@ -7,11 +7,27 @@
 	<h1>Practice and Training History - Doron Tal</h1>
 	<ul>
 		<li>
+			<h4>Engaged Mindfulness Institute Retreat (October 11-13, 2024)</h4>
+			<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+		</li>
+		<li>
+			<h4>Engaged Mindfulness Institute Retreat (September 13-15, 2024)</h4>
+			<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+		</li>
+		<li>
+			<h4>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</h4>
+			<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+		</li>
+		<li>
+			<h4>Engaged Mindfulness Institute Retreat (May 3-5, 2024)</h4>
+			<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+		</li>
+		<li>
 			<h4>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Present)</h4>
 			<p>
 				The <a href="https://www.engagedmindfulness.org/">Engaged Mindfulness Institute</a>
-				(EMI) trains its students to facilitate mindfulness instruction in trauma-informed manner. The
-				EMI mindfulness teacher training certifies its graduates via the
+				trains its students to facilitate mindfulness instruction in trauma-informed manner. The EMI
+				mindfulness teacher training certifies its graduates via the
 				<a href="https://imta.org">International Mindfulness Teacher Association</a>'s accreditation
 				as a Certified Mindfulness Teaching Professional (CMT-P). I have completed most of the
 				requirements and hope to be certified by May, 2025.
@@ -19,7 +35,7 @@
 		</li>
 		<li>
 			<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
-			<p>Virtual online retreat offered by Clear Mountain Monastery.</p>
+			<p>Monthlong virtual online retreat offered by Clear Mountain Monastery.</p>
 		</li>
 		<li>
 			<h4>
