@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>Practice and Training History</h1>
+	<h1>Practice and Training</h1>
 	<details>
 		<summary>Practice</summary>
 		<div>
