@@ -33,7 +33,6 @@
 			</p>
 		</div>
 	</details>
-
 	<details>
 		<summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary>
 		<div>
