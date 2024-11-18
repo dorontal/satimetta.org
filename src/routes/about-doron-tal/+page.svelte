@@ -106,7 +106,23 @@
 		<div>
 			<ul>
 				<li>
+					<h4>
+						Philadelphia Industrial Correctional Center (November 12, 2024 - January 21, 2025)
+					</h4>
+					<p>
+						Teaching the Path of Freedom curriculum of the Prison Mindfulness Institute to
+						incarcerated individuals.
+					</p>
+				</li>
+				<li>
+					<h4>
+						Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - January 2, 2025)
+					</h4>
+					<p>ntroduction to Mindfulness class offered to local residents.</p>
+				</li>
+				<li>
 					<h4>NASA Ames Research Center Qigong class (Spring, 2005)</h4>
+					<p>Taught a Qigong set designed for spine maintenance.</p>
 				</li>
 			</ul>
 		</div>
@@ -246,6 +262,7 @@
 		</div>
 	</details>
 </div>
+
 <style>
-        @import '../accordion.css';
+	@import '../accordion.css';
 </style>
