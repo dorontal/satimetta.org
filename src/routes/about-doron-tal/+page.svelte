@@ -246,44 +246,6 @@
 		</div>
 	</details>
 </div>
-
 <style>
-	details {
-		background-color: var(--color-bg-0); /* text background */
-		/* color: var(--color-text) text color */
-		font-size: 1.1rem;
-		margin-bottom: 0.5em; /*separation of each question from another */
-	}
-
-	summary {
-		padding: 0.5em 1.3rem;
-		/* color: var(--color-theme-1); */
-		font-size: 1.3rem;
-		list-style: none;
-		display: flex;
-		justify-content: space-between;
-		transition: height 1s ease;
-		cursor: pointer;
-	}
-
-	summary::-webkit-details-marker {
-		display: none;
-	}
-
-	summary:after {
-		content: '\002B';
-	}
-
-	details[open] summary {
-		border-bottom: 1px solid #aaa;
-		margin-bottom: 0.5em;
-	}
-
-	details[open] summary:after {
-		content: '\00D7';
-	}
-
-	details[open] div {
-		padding: 0.5em 1em;
-	}
+        @import '../accordion.css';
 </style>
