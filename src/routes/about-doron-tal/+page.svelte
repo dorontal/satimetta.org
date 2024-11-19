@@ -196,13 +196,6 @@
 						>.
 					</p>
 				</li>
-				<li>
-					<h4>Bhikkhu Bodhi's Sutta Study Class (2017 - Present)</h4>
-					<p>
-						Regular attendance and participation in Bhikkhu Bodhi's Saturday classes and meditation
-						sessions.
-					</p>
-				</li>
 			</ul>
 		</div>
 	</details>
