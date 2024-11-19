@@ -22,7 +22,7 @@
 					<p>
 						Practice of the sixteen-step meditation instructions of the Buddha. These steps are
 						somewhat open to interpretation - multiple perspectives have helped form an approach and
-						interpretation of these instructions.
+						an interpretation of these instructions.
 					</p>
 				</li>
 				<li>
