@@ -262,7 +262,3 @@
 		</div>
 	</details>
 </div>
-
-<style>
-	@import '../accordion.css';
-</style>
