@@ -1,14 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="../_app/immutable/assets/0.Bs1xchmC.css" rel="stylesheet"><!--[--><meta name="description" content="Mindfulness Questions and Answers"><!--]--><title>Mindfulness Questions and Answers</title>
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="app svelte-120yfbx"><header class="svelte-1xunyw6"><nav class="svelte-1xunyw6"><svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-1xunyw6"><path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" class="svelte-1xunyw6"></path></svg> <ul class="svelte-1xunyw6"><li class="svelte-1xunyw6"><a href="/" class="svelte-1xunyw6">Home</a></li> <li class="svelte-1xunyw6"><a href="/events" class="svelte-1xunyw6">Events</a></li> <li aria-current="page" class="svelte-1xunyw6"><a href="/resources" class="svelte-1xunyw6">Resources</a></li></ul> <svg viewBox="0 0 2 3" aria-hidden="true" class="svelte-1xunyw6"><path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" class="svelte-1xunyw6"></path></svg></nav></header><!----> <main class="svelte-120yfbx"><!----><!----><div class="text-column"><h1>Mindfulness Questions and Answers</h1> <details><summary>What Mindfulness is Not</summary> <div><p>Some common misconceptions about mindfulness:</p> <ul><li><b>Mindfulness is not the same as mindfulness practice</b> <p>Mindfulness is a faculty or quality of the mind, like a "muscle" of the mind. This
+import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/disclose-version.yovMqGUX.js";import"../chunks/legacy.1Gjox2Bb.js";import{$ as r}from"../chunks/runtime.BKwOscGd.js";import{h as l}from"../chunks/svelte-head.C2-TBBHu.js";const d=o,h=!0,y=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:h},Symbol.toStringTag,{value:"Module"}));var u=t('<meta name="description" content="Mindfulness Questions and Answers">'),c=t(`<div class="text-column"><h1>Mindfulness Questions and Answers</h1> <details><summary>What Mindfulness is Not</summary> <div><p>Some common misconceptions about mindfulness:</p> <ul><li><b>Mindfulness is not the same as mindfulness practice</b> <p>Mindfulness is a faculty or quality of the mind, like a "muscle" of the mind. This
 						quality of mindfulness can be strengthened by mindfulness practice. Mindfulness practice
 						is either formal practice (meditation) or it can be an informal practice: it is not a
 						faculty of the mind but it is something that we do.</p></li> <li><b>Mindfulness practice is not the same as relaxation</b> <p>While mindfulness practice can lead to a sense of calm, its purpose is not to make you
@@ -57,6 +47,4 @@
 						longer needs, perhaps picturing how the carbon dioxide nourishes plants.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details></div><!----><!----></main></div><!----><!--]--> <!--[!--><!--]--><!--]--></div>
-	</body>
-</html>
+						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=c();l(s=>{var a=u();r.title="Mindfulness Questions and Answers",e(s,a)}),e(n,i)}export{w as component,y as universal};
