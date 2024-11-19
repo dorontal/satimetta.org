@@ -29,9 +29,9 @@
 					<h4>Ajahn Brahm's Meditation Method (2019 - 2020)</h4>
 					<p>
 						Following a 2019 retreat in Thailand based on Ajahn Brahm's approach from his book
-						"Mindfulness, Bliss and Beyond," I practiced his method for about two years. I now
-						incorporate some elements from it, though I currently follow the Buddha's 16-step method
-						as described in the Ānāpānasati Sutta MN 118.
+						"Mindfulness, Bliss and Beyond", practiced Brahm's method for about two years. Since
+						then, I follow the Buddha's 16-step method as described in the Ānāpānasati Sutta,
+						(Majjhima Nikaya 118).
 					</p>
 				</li>
 				<li>
