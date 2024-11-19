@@ -6,6 +6,18 @@
 <div class="text-column">
 	<h1>Mindfulness Questions and Answers</h1>
 	<details>
+		<summary>What's a Basic Working Definition of Mindfulness?</summary>
+		<div>
+			<p>
+				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
+					>John Kabat Zinn's Definition:</a
+				>
+				Mindfulness is awareness that arises through paying attention, on purpose, in the present moment,
+				non judgmentally.
+			</p>
+		</div>
+	</details>
+	<details>
 		<summary>What Mindfulness is Not</summary>
 		<div>
 			<p>Some common misconceptions about mindfulness:</p>
