@@ -10,10 +10,9 @@
 		<div>
 			<p>
 				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
-					>John Kabat Zinn's Definition:</a
-				>
-				Mindfulness is awareness that arises through paying attention, on purpose, in the present moment,
-				non judgmentally.
+					>John Kabat Zinn's Definition</a
+				>: Mindfulness is awareness that arises through paying attention, on purpose, in the present
+				moment, non judgmentally.
 			</p>
 		</div>
 	</details>
