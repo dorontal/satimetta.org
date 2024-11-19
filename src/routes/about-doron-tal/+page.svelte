@@ -37,11 +37,11 @@
 				<li>
 					<h4>Walking Meditation (2019 - Present)</h4>
 					<p>
-						Started with a Theravada walking meditation method described in
-						<a href="https://www.youtube.com/watch?v=_IFvablc6EI"
-							>this video by Yuttadhammo Bhikkhu</a
-						>. Later, I incorporated two more refined techniques, for more choice in different
-						contexts.
+						Began with Yuttadhammo Bhikkhu's Theravada <a
+							href="https://www.youtube.com/watch?v=_IFvablc6EI">walking meditation instructions</a
+						> (one note per step), added Bhikkhu Bodhi's three-note method (picking, pushing, placing)
+						and a six-step technique (helps crowd out thoughts). The approach varies depending on the
+						mental state at the start of each session.
 					</p>
 				</li>
 				<li>
