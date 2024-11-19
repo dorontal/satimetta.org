@@ -170,6 +170,18 @@
 					</p>
 				</li>
 				<li>
+					<h4>Santikaro's Class: Ānāpānasati Conversations (2024)</h4>
+					<p>A year long class centered around the Buddha's 16 step meditation method.</p>
+				</li>
+				<li>
+					<h4>Santikaro's Class: Monday Morning Guided Ānāpānasati Meditations (2024)</h4>
+					<p>A year long class where Santikaro guides Ānāpānasati meditations.</p>
+				</li>
+				<li>
+					<h4>Santikaro's Class: Ānāpānasati Conversations (2023)</h4>
+					<p>A year long class centered around the Buddha's 16 step meditation method.</p>
+				</li>
+				<li>
 					<h4>MBSR Class (September 2023)</h4>
 					<p>
 						Attended an MBSR class, in exploration of teaching MBSR later. This was a University of
@@ -183,18 +195,6 @@
 							>Jennifer A. Miller</a
 						>.
 					</p>
-				</li>
-				<li>
-					<h4>Santikaro's Class: Ānāpānasati Conversations (2024)</h4>
-					<p>A year long class centered around the Buddha's 16 step meditation method.</p>
-				</li>
-				<li>
-					<h4>Santikaro's Class: Monday Morning Guided Ānāpānasati Meditations (2024)</h4>
-					<p>A year long class where Santikaro guides Ānāpānasati meditations.</p>
-				</li>
-				<li>
-					<h4>Santikaro's Class: Ānāpānasati Conversations (2023)</h4>
-					<p>A year long class centered around the Buddha's 16 step meditation method.</p>
 				</li>
 				<li>
 					<h4>Bhikkhu Bodhi's Sutta Study Class (2017 - Present)</h4>
