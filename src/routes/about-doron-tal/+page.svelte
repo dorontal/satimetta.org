@@ -106,18 +106,14 @@
 		<div>
 			<ul>
 				<li>
-					<h4>
-						Philadelphia Industrial Correctional Center (November 12, 2024 - Present)
-					</h4>
+					<h4>Philadelphia Industrial Correctional Center (November 12, 2024 - Present)</h4>
 					<p>
 						Teaching the Path of Freedom curriculum of the Prison Mindfulness Institute to
 						incarcerated individuals.
 					</p>
 				</li>
 				<li>
-					<h4>
-						Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - Present)
-					</h4>
+					<h4>Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - Present)</h4>
 					<p>Introductory Mindfulness class offered to local residents.</p>
 				</li>
 				<li>
@@ -205,23 +201,26 @@
 			<ul>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (October 11-13, 2024)</h4>
-					<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+					<p>Virtual online retreat, part of EMI's CMT-P certification.</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (September 13-15, 2024)</h4>
-					<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+					<p>Virtual online retreat, part of EMI's CMT-P certification.</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</h4>
-					<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+					<p>Virtual online retreat, part of EMI's CMT-P certification.</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (May 3-5, 2024)</h4>
-					<p>Virtual online retreat, part of EMI's CMT-P certification requirements.</p>
+					<p>Virtual online retreat, part of EMI's CMT-P certification.</p>
 				</li>
 				<li>
 					<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
-					<p>Virtual online retreat offered by Clear Mountain Monastery.</p>
+					<p>
+						Virtual online retreat offered by Clear Mountain Monastery. (participated in the 3-hour
+						morning sit - first part (of three) of the daily routine).
+					</p>
 				</li>
 				<li>
 					<h4>Retreat with Santikaro (January 21-27, 2024)</h4>
