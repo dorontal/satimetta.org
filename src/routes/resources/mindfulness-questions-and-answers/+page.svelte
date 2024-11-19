@@ -9,53 +9,34 @@
 		<summary>What Mindfulness is Not</summary>
 		<div>
 			<p>Some common misconceptions about mindfulness:</p>
-			<ul>
-				<li>
-					<b>Mindfulness is not the same as mindfulness practice</b>
-					<p>
-						Mindfulness is a faculty or quality of the mind, like a "muscle" of the mind. This
-						quality of mindfulness can be strengthened by mindfulness practice. Mindfulness practice
-						is either formal practice (meditation) or it can be an informal practice: it is not a
-						faculty of the mind but it is something that we do.
-					</p>
-				</li>
-				<li>
-					<b>Mindfulness practice is not the same as relaxation</b>
-					<p>
-						While mindfulness practice can lead to a sense of calm, its purpose is not to make you
-						relax. It’s about paying attention to the present moment, whatever it may hold, with
-						openness, curiosity and kindness.
-					</p>
-				</li>
-				<li>
-					<b>Mindfulness practice is not a quick fix</b>
-					<p>
-						Mindfulness is a skill that develops gradually, like building strength at the gym. With
-						consistent, disciplined practice, mindfulness grows stronger over time. Just as muscles
-						can weaken without regular exercise, our ability to stay mindful can fade if we don't
-						keep practicing. Only steady, ongoing practice creates lasting benefits.
-					</p>
-				</li>
-				<li>
-					<b>Mindfulness is not about getting rid of thoughts or emotions</b>
-					<p>
-						Instead of trying to stop thinking or avoid feelings, mindfulness involves noticing and
-						accepting them as they arise, without attaching too much meaning or reacting to them.
-					</p>
-				</li>
-				<li>
-					<b>Mindfulness practice is not a mental escape</b>
-					<p>
-						In mindfulness practice, we bravely engage with whatever arises in the mind, rather than
-						avoiding it. We stay alert and attentive to our thoughts and feelings. This awareness
-						distinguishes mindfulness from forms of mental escape, like using substances or getting
-						lost in mind-wandering.
-					</p>
-				</li>
-			</ul>
+			<p>
+				<b>Mindfulness is not the same as mindfulness practice:</b>
+				Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
+				practice, which is a regular routine to cultivate this skill.
+			</p>
+			<p>
+				<b>Mindfulness practice is not the same as relaxation:</b>
+				While mindfulness practice may lead to calmness, its purpose is not relaxation. It’s about paying
+				attention to the present moment—whatever it holds—with openness, curiosity, and kindness.
+			</p>
+			<p>
+				<b>Mindfulness practice is not a quick fix:</b>
+				Like building physical strength at the gym, mindfulness develops gradually with consistent practice.
+				Without regular effort, mindfulness may weaken. Steady, ongoing practice creates lasting benefits.
+			</p>
+			<p>
+				<b>Mindfulness is not about getting rid of thoughts or emotions:</b>
+				Instead of avoiding or suppressing thoughts and feelings, mindfulness involves noticing and accepting
+				them as they arise, without attaching meaning or reacting to them.
+			</p>
+			<p>
+				<b>Mindfulness practice is not a mental escape:</b>
+				Mindfulness encourages engagement with whatever arises in the mind, rather than avoiding it.
+				This distinguishes mindfulness from mental escapes like using substances or getting lost in daydreams.
+			</p>
 		</div>
 	</details>
-		<details>
+	<details>
 		<summary>What is the difference between formal and informal mindfulness practice?</summary>
 		<div>
 			<p>
