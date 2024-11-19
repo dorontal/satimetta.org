@@ -107,7 +107,7 @@
 			<ul>
 				<li>
 					<h4>
-						Philadelphia Industrial Correctional Center (November 12, 2024 - January 21, 2025)
+						Philadelphia Industrial Correctional Center (November 12, 2024 - Present)
 					</h4>
 					<p>
 						Teaching the Path of Freedom curriculum of the Prison Mindfulness Institute to
@@ -116,7 +116,7 @@
 				</li>
 				<li>
 					<h4>
-						Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - January 2, 2025)
+						Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - Present)
 					</h4>
 					<p>Introductory Mindfulness class offered to local residents.</p>
 				</li>
