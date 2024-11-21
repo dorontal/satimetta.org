@@ -154,16 +154,19 @@
 					</p>
 				</li>
 				<li>
-					<h4>Santikaro's Class: Ānāpānasati Conversations (2024)</h4>
-					<p>A year long class centered around the Buddha's 16 step meditation method.</p>
-				</li>
-				<li>
 					<h4>Santikaro's Class: Monday Morning Guided Ānāpānasati Meditations (2024)</h4>
-					<p>A year long class where Santikaro guides Ānāpānasati meditations.</p>
+					<p>
+						A year long class where Santikaro guides Ānāpānasati meditations, offered online via <a
+							href="https://kevalaretreat.org">Kevala Retreat</a
+						>.
+					</p>
 				</li>
 				<li>
-					<h4>Santikaro's Class: Ānāpānasati Conversations (2023)</h4>
-					<p>A year long class centered around the Buddha's 16 step meditation method.</p>
+					<h4>Santikaro's Class: Ānāpānasati Conversations (2023-2024)</h4>
+					<p>
+						A year long class centered around the Buddha's 16 step meditation method, offered online
+						via <a href="https://kevalaretreat.org">Kevala Retreat</a>.
+					</p>
 				</li>
 				<li>
 					<h4>MBSR Class (September 2023)</h4>
