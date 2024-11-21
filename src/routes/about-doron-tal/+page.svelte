@@ -99,17 +99,20 @@
 				<li>
 					<h4>Philadelphia Industrial Correctional Center (November 12, 2024 - Present)</h4>
 					<p>
-						Teaching the Path of Freedom curriculum of the Prison Mindfulness Institute to
-						incarcerated individuals.
+						Facilitating the Path of Freedom curriculum of the Prison Mindfulness Institute to
+						incarcerated individuals - one hour a week for ten weeks.
 					</p>
 				</li>
 				<li>
 					<h4>Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - Present)</h4>
-					<p>Introductory Mindfulness class offered to local residents.</p>
+					<p>Introductory Mindfulness class - one hour a week for ten weeks.</p>
 				</li>
 				<li>
-					<h4>NASA Ames Research Center Qigong class (Spring, 2005)</h4>
-					<p>Taught Qigong - a set for spine stretching and strengthening.</p>
+					<h4>Qigong class, Ames Research Center (Spring, 2005)</h4>
+					<p>
+						Taught a Qigong set for spine stretching and strengthening - fourty minutes a week for
+						twelve weeks.
+					</p>
 				</li>
 			</ul>
 		</div>
