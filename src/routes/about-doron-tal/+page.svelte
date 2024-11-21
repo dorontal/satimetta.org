@@ -21,7 +21,7 @@
 					<h4>Ānāpānasati Meditation Method (2020 - Present)</h4>
 					<p>
 						The sixteen-step meditation instructions of the Buddha - an interpretation of the
-						description in Majjhima Nikaya sutta 118.
+						description in Majjhima Nikaya Sutta 118.
 					</p>
 				</li>
 				<li>
