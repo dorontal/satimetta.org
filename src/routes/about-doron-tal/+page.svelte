@@ -31,7 +31,7 @@
 						Following a 2019 retreat in Thailand based on Ajahn Brahm's approach from his book
 						"Mindfulness, Bliss and Beyond", practiced Brahm's method for about two years. Since
 						then, I follow the Buddha's 16-step method as described in the Ānāpānasati Sutta,
-						(Majjhima Nikaya 118), more or less along the Ajahn Buddhadasa's interpretation.
+						(Majjhima Nikaya 118).
 					</p>
 				</li>
 				<li>
