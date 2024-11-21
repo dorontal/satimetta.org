@@ -31,7 +31,7 @@
 						Following a 2019 retreat in Thailand based on Ajahn Brahm's approach from his book
 						"Mindfulness, Bliss and Beyond", practiced Brahm's method for about two years. Since
 						then, I follow the Buddha's 16-step method as described in the Ānāpānasati Sutta,
-						(Majjhima Nikaya 118), more or less along the instruction of Ajahn Buddhadasa
+						(Majjhima Nikaya 118), more or less along the Ajahn Buddhadasa's interpretation.
 					</p>
 				</li>
 				<li>
@@ -39,9 +39,9 @@
 					<p>
 						Began with Yuttadhammo Bhikkhu's Theravada <a
 							href="https://www.youtube.com/watch?v=_IFvablc6EI">walking meditation instructions</a
-						> (one note per step), added Bhikkhu Bodhi's three-note method (picking, pushing, placing)
-						and a six-step technique (helps crowd out thoughts). The approach varies depending on the
-						mental state at the start of each session.
+						> (one note per step), added Bhikkhu Bodhi's three-point technique (picking, placing, shifting)
+						and a six-point method. The approach varies depending on the mental state at the start of
+						each session.
 					</p>
 				</li>
 				<li>
