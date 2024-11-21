@@ -23,12 +23,13 @@
 			<p>
 				<b>Mindfulness is not the same as mindfulness practice:</b>
 				Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
-				practice, which is a regular routine to cultivate this skill.
+				practice, which is a regular routine to cultivate this skill. 'Mindfulness practice' is also used
+				as a synonym to 'meditation', of which there are many different kinds. 
 			</p>
 			<p>
 				<b>Mindfulness practice is not the same as relaxation:</b>
 				While mindfulness practice may lead to calmness, its purpose is not relaxation. It’s about paying
-				attention to the present moment—whatever it holds—with openness, curiosity, and kindness.
+				attention to the present moment - whatever it holds - with openness, curiosity, and kindness.
 			</p>
 			<p>
 				<b>Mindfulness practice is not a quick fix:</b>
