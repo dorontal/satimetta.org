@@ -19,9 +19,7 @@
 				</li>
 				<li>
 					<h4>Ānāpānasati Meditation Method (2020 - Present)</h4>
-					<p>
-						The sixteen-step meditation instructions of the Buddha.
-					</p>
+					<p>The sixteen-step meditation instructions of the Buddha.</p>
 				</li>
 				<li>
 					<h4>Ajahn Brahm's Meditation Method (2019 - 2020)</h4>
@@ -33,8 +31,8 @@
 						Began with Yuttadhammo Bhikkhu's Theravada <a
 							href="https://www.youtube.com/watch?v=_IFvablc6EI">walking meditation instructions</a
 						> (one note per step), added Bhikkhu Bodhi's three-point technique (picking, placing, shifting)
-						and a six-point method. The approach varies depending on the mental state at the start of
-						each session.
+						and a six-point method. The approach varies depending on mental state at the start of each
+						session.
 					</p>
 				</li>
 				<li>
