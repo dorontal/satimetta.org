@@ -36,9 +36,9 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						This reset procedure generally tends to make the mind less distractible.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
 						can distract the mind.</p></li> <li><b>Awareness of Tension with Breath</b> <p>Focus on the area of tension, noticing its sensations and location while noting each leg
 						of the breath. Acknowledge the tension without trying to change it, with kindness,
-						patience, and self-compassion.</p> <p>Visualizations can support this. E.g, imagine oxygen nourishing your body, especially
-						tense areas, on each in-breath. On the out-breath, envision releasing what your body no
-						longer needs.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
+						patience, and self-compassion.</p> <p>Visualizations can support this, e.g, imagine oxygen nourishing your body, especially
+						tense areas, on each in-breath. On the out-breath, envision that releasing what your
+						body no longer needs helps further release the tension.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
 						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=m();l(s=>{var a=u();r.title="Mindfulness Questions and Answers",e(s,a)}),e(n,i)}export{w as component,y as universal};
