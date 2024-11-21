@@ -26,7 +26,7 @@
 				</li>
 				<li>
 					<h4>Ajahn Brahm's Meditation Method (2019 - 2020)</h4>
-					<p>Based on the description in Ajahn Brahm's book "Mindfulness, Bliss and Beyond".</p>
+					<p>Followed the description in Ajahn Brahm's book "Mindfulness, Bliss and Beyond".</p>
 				</li>
 				<li>
 					<h4>Walking Meditation (2019 - Present)</h4>
