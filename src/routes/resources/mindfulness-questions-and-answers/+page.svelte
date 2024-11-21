@@ -137,7 +137,7 @@
 					<p>
 						Temporarily shift to intentional breathing: gently take full, long breaths with a longer
 						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
-						This reset procedure tends to make the mind less distractible.
+						This reset procedure generally tends to make the mind less distractible.
 					</p>
 				</li>
 				<li>
