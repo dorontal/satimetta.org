@@ -157,7 +157,7 @@
 					<p>
 						Visualizations can support this. E.g, imagine oxygen nourishing your body, especially
 						tense areas, on each in-breath. On the out-breath, envision releasing what your body no
-						longer needs, perhaps picturing how the carbon dioxide nourishes plants.
+						longer needs.
 					</p>
 				</li>
 				<li>
