@@ -20,19 +20,12 @@
 				<li>
 					<h4>Ānāpānasati Meditation Method (2020 - Present)</h4>
 					<p>
-						Practice of the sixteen-step meditation instructions of the Buddha. These steps are
-						somewhat open to interpretation - multiple perspectives have helped form an approach and
-						an interpretation of these instructions.
+						The sixteen-step meditation instructions of the Buddha.
 					</p>
 				</li>
 				<li>
 					<h4>Ajahn Brahm's Meditation Method (2019 - 2020)</h4>
-					<p>
-						Following a 2019 retreat in Thailand based on Ajahn Brahm's approach from his book
-						"Mindfulness, Bliss and Beyond", practiced Brahm's method for about two years. Since
-						then, I follow the Buddha's 16-step method as described in the Ānāpānasati Sutta,
-						(Majjhima Nikaya 118).
-					</p>
+					<p>Based on the description in Ajahn Brahm's book "Mindfulness, Bliss and Beyond".</p>
 				</li>
 				<li>
 					<h4>Walking Meditation (2019 - Present)</h4>
