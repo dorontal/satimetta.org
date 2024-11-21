@@ -185,8 +185,8 @@
 					<p>
 						In 1991, I went to a talk by his Holiness the Dalai Lama, titled <a
 							href="https://www.youtube.com/watch?v=_2G-4m4y8Ss">"Overcoming Differences"</a
-						>. This experience inspired me to try follow his advice to relinquish anger and to read
-						some of his work.
+						>. This experience inspired me to try follow his advice regarding sources of happiness
+						and unhappiness and to read some of his work.
 					</p>
 				</li>
 			</ul>
