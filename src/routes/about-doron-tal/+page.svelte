@@ -50,15 +50,6 @@
 					</p>
 				</li>
 				<li>
-					<h4>A Talk by His Holiness the Dalai Lama (1991)</h4>
-					<p>
-						In 1991, His Holiness the Dalai Lama gave a transformative talk titled <a
-							href="https://www.youtube.com/watch?v=_2G-4m4y8Ss">"Overcoming Differences"</a
-						>. This experience inspired me to try follow his advice to relinquish anger, and to read
-						some of his work.
-					</p>
-				</li>
-				<li>
 					<h4>Qigong (1989 - Present)</h4>
 					<p>
 						Learned a Qigong (Chi Kung) set for spine healing, strengthening and stretching, created
