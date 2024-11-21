@@ -43,10 +43,10 @@
 					<p>
 						Practiced Metta at Tibet House in New York City under the guidance of <a
 							href="https://www.rachelhammerman.com/">Rachel Hammerman</a
-						>. Since 2019, I’ve been attending
+						>. Regularly attending
 						<a href="https://www.baus.org/en/group-meditation-over-zoom/"
 							>Bhikkhu Bodhi's weekly Metta
-						</a> sessions.
+						</a> sessions since 2019.
 					</p>
 				</li>
 				<li>
