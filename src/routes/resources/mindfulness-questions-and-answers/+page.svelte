@@ -155,9 +155,9 @@
 						patience, and self-compassion.
 					</p>
 					<p>
-						Visualizations can support this. E.g, imagine oxygen nourishing your body, especially
-						tense areas, on each in-breath. On the out-breath, envision releasing what your body no
-						longer needs.
+						Visualizations can support this, e.g, imagine oxygen nourishing your body, especially
+						tense areas, on each in-breath. On the out-breath, envision that releasing what your
+						body no longer needs helps further release the tension.
 					</p>
 				</li>
 				<li>
