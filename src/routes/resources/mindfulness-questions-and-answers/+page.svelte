@@ -6,13 +6,65 @@
 <div class="text-column">
 	<h1>Mindfulness Questions and Answers</h1>
 	<details>
-		<summary>What's a Basic Working Definition of Mindfulness?</summary>
+		<summary>What's the Definition of Mindfulness?</summary>
 		<div>
-			<p>
+			<!--p>
 				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
 					>John Kabat Zinn's Definition</a
 				>: Mindfulness is awareness that arises through paying attention, on purpose, in the present
-				moment, non judgmentally.
+				moment, non judgmentally. Some elaborate on 'non judgmentally'; I've heard Diana Winston say
+				'with curiosity and openness to be with each experience'
+			</p>			<p>
+				The above definition of mindfulness is the mental capacity of mindfulness. It is something
+				that the mind may have more of or less of. One's mindfulness can vary throughout the day,
+				but the baseline of mindfulness can be strengthened just like a muscle can be strengthened
+				by repeated daily formal practice. The term 'trait mindfulness' is jargon for 'baselind of
+				mindfulness' - the mindfulness baseliine of the mind - as used above.
+			</p>
+			<p>
+				'State mindfulness' is a more momentary description of a person's mindfulness. One way to
+				distingish between the above two types of mindfulness is to think of 'state mindfulness' as
+				answering 'how mindful are you right now?' and 'trait mindfulness' as answering 'how mindful
+				arre you these days?'.
+			</p>
+			<p>
+				'Mindfulness practice' is the practice of mindfuless. Mindfulness practice is what
+				strengthens 'trait mindfulness' or the average 'state mindfulness' or in general the mind's
+				ability to be mindful. 'Mindfulness practice' can mean different things: (a) the regular
+				daily routine of practicing mindfulness, (b) a specific session of practice, (c) any of many
+				different types of meditations, (d) informal practice where mindfulness is applied to daily
+				activities.
+			</p-->
+			<p>
+				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
+					>Jon Kabat-Zinn's definition
+				</a>: Mindfulness is the awareness that arises from paying attention, on purpose, in the
+				present moment, and non-judgmentally. Some expand on the idea of "non-judgmentally"; for
+				example, Diana Winston describes it as being "with curiosity and openness to each
+				experience."
+			</p>
+			<p>
+				The above definition of mindfulness refers to the mental capacity for mindfulness. This
+				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
+				like a muscle, through consistent daily formal practice. The term <em
+					>'trait mindfulness'</em
+				> is often used as jargon to describe the baseline level of mindfulness—the steady, underlying
+				mindfulness capacity of the mind.
+			</p>
+			<p>
+				<em>'State mindfulness'</em>, on the other hand, refers to the momentary experience of
+				mindfulness. A helpful way to distinguish between the two is to think of
+				<em>'state mindfulness'</em>
+				as answering the question, "How mindful are you right now?" and <em>'trait mindfulness'</em>
+				as answering, "How mindful are you these days?"
+			</p>
+			<p>
+				<em>'Mindfulness practice'</em> refers to the activities and exercises aimed at cultivating
+				mindfulness. It is the process that strengthens <em>'trait mindfulness'</em>, enhances the
+				average level of <em>'state mindfulness'</em>, and generally improves the mind’s capacity to
+				be mindful. The term <em>'mindfulness practice'</em> can refer to: (a) a regular daily routine
+				of practicing mindfulness, (b) a specific meditation session, (c) various types of mindfulness
+				meditations, or (d) informal practices where mindfulness is applied to everyday activities.
 			</p>
 		</div>
 	</details>
@@ -23,8 +75,8 @@
 			<p>
 				<b>Mindfulness is not the same as mindfulness practice:</b>
 				Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
-				practice, which is a regular routine to cultivate this skill. 'Mindfulness practice' is also used
-				as a synonym to 'meditation'. 
+				practice, which is a regular routine to cultivate this skill. 'Mindfulness practice' is also
+				used as a synonym to 'meditation'.
 			</p>
 			<p>
 				<b>Mindfulness practice is not the same as relaxation:</b>
