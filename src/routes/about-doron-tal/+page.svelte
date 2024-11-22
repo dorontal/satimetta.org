@@ -188,7 +188,7 @@
 					<p>
 						Attended a talk by his Holiness the Dalai Lama, titled <a
 							href="https://www.youtube.com/watch?v=_2G-4m4y8Ss">"Overcoming Differences"</a
-						>. This catallyzed further study of his work and the Buddha's path.
+						>. This catalyzed further study of his work and the Buddha's path.
 					</p>
 				</li>
 			</ul>
