@@ -15,7 +15,7 @@
 				href="https://docs.google.com/document/d/1AbaENWFLB3iBQWI5bz0LJOSeWt2_TwZBcuon3xqMHj8"
 				target="_blank"
 			>
-			Mindful Attention Awareness Scale (MAAS)
+				Mindful Attention Awareness Scale (MAAS)
 			</a>
 		</li>
 		<li>
@@ -63,14 +63,6 @@
 	<ul>
 		<li>
 			<a
-				href="https://insighttimer.com/dianawinston/guided-meditations/body-scan-practice-6"
-				target="_blank"
-			>
-				3-minute body scan - Diana Winston</a
-			>
-		</li>
-		<li>
-			<a
 				href="https://insighttimer.com/chelseapottenger/guided-meditations/10-minute-body-scan"
 				target="_blank"
 			>
@@ -102,34 +94,8 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=Z80Om2UkF6o" target="_blank">
-				12-minute guided breath meditation - Diana Winston</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=1tgZojaSyrk" target="_blank">
-				10-minute guided breath meditation - Jack Kornfield</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/mpeak-10-min-awareness-of-breath-meditation-by-corrie-falcon"
-				target="_blank"
-			>
-				10-minute guided breath meditation - Corrie Falcon</a
-			>
-		</li>
-		<li>
 			<a href="https://www.youtube.com/watch?v=2GjZanuXWWk" target="_blank">
 				10-minute guided breath meditation - Jon Kabat Zinn</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/mpeak-10-min-awareness-of-breath-by-pete-kirchmer"
-				target="_blank"
-			>
-				10-minute guided breath meditation - Pete Kirchmer</a
 			>
 		</li>
 		<li>
@@ -138,14 +104,6 @@
 				target="_blank"
 			>
 				20-minute guided breath meditation - Steve Hickman</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/22-min-seated-meditation-by-christy-cassisa"
-				target="_blank"
-			>
-				22-minute guided breath meditation - Christy Cassisa</a
 			>
 		</li>
 		<li>
@@ -160,6 +118,27 @@
 			<a href="https://www.youtube.com/watch?v=_IFvablc6EI" target="_blank">
 				Basic Walking Meditation Instructions - Yuttadhammo Bhikkhu</a
 			>
+		</li>
+	</ul>
+
+	<h3>Loving-Kindness Meditation</h3>
+	<ul>
+		<li>
+			<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc">
+				10-minute guided loving-kindness meditation - Sharon Salzberg</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM">
+			25-minute guided loving-kindness meditation - Jack Kornfield</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0">
+			15-minute guided guided loving-kindness meditation - Ayya Khema</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=_vT6yZe-vJQ">
+			13-minute guided guided loving-kindness meditation - Ayya Khema</a>
 		</li>
 	</ul>
 	<h3>Mindful Yoga</h3>

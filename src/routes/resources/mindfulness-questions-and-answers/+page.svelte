@@ -8,33 +8,6 @@
 	<details>
 		<summary>What's the Definition of Mindfulness?</summary>
 		<div>
-			<!--p>
-				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
-					>John Kabat Zinn's Definition</a
-				>: Mindfulness is awareness that arises through paying attention, on purpose, in the present
-				moment, non judgmentally. Some elaborate on 'non judgmentally'; I've heard Diana Winston say
-				'with curiosity and openness to be with each experience'
-			</p>			<p>
-				The above definition of mindfulness is the mental capacity of mindfulness. It is something
-				that the mind may have more of or less of. One's mindfulness can vary throughout the day,
-				but the baseline of mindfulness can be strengthened just like a muscle can be strengthened
-				by repeated daily formal practice. The term 'trait mindfulness' is jargon for 'baselind of
-				mindfulness' - the mindfulness baseliine of the mind - as used above.
-			</p>
-			<p>
-				'State mindfulness' is a more momentary description of a person's mindfulness. One way to
-				distingish between the above two types of mindfulness is to think of 'state mindfulness' as
-				answering 'how mindful are you right now?' and 'trait mindfulness' as answering 'how mindful
-				arre you these days?'.
-			</p>
-			<p>
-				'Mindfulness practice' is the practice of mindfuless. Mindfulness practice is what
-				strengthens 'trait mindfulness' or the average 'state mindfulness' or in general the mind's
-				ability to be mindful. 'Mindfulness practice' can mean different things: (a) the regular
-				daily routine of practicing mindfulness, (b) a specific session of practice, (c) any of many
-				different types of meditations, (d) informal practice where mindfulness is applied to daily
-				activities.
-			</p-->
 			<p>
 				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
 					>Jon Kabat-Zinn's definition
