@@ -132,8 +132,8 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM">
-				25-minute guided loving-kindness meditation - Jack Kornfield</a
+			<a href="https://www.youtube.com/watch?v=_vT6yZe-vJQ">
+				13-minute guided guided loving-kindness meditation - Ayya Khema</a
 			>
 		</li>
 		<li>
@@ -142,8 +142,8 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=_vT6yZe-vJQ">
-				13-minute guided guided loving-kindness meditation - Ayya Khema</a
+			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM">
+				25-minute guided loving-kindness meditation - Jack Kornfield</a
 			>
 		</li>
 	</ul>
