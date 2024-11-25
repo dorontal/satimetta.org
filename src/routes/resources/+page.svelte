@@ -11,6 +11,9 @@
 			<a href="/resources/mindfulness-questions-and-answers"> Mindfulness Questions and Answers</a>
 		</li>
 		<li>
+			<a href="https://www.youtube.com/watch?v=w6T02g5hnT4">Why Mindfulness is a Superpower </a>
+		</li>
+		<li>
 			<a
 				href="https://docs.google.com/document/d/1AbaENWFLB3iBQWI5bz0LJOSeWt2_TwZBcuon3xqMHj8"
 				target="_blank"
@@ -130,15 +133,18 @@
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM">
-			25-minute guided loving-kindness meditation - Jack Kornfield</a>
+				25-minute guided loving-kindness meditation - Jack Kornfield</a
+			>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0">
-			15-minute guided guided loving-kindness meditation - Ayya Khema</a>
+				15-minute guided guided loving-kindness meditation - Ayya Khema</a
+			>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=_vT6yZe-vJQ">
-			13-minute guided guided loving-kindness meditation - Ayya Khema</a>
+				13-minute guided guided loving-kindness meditation - Ayya Khema</a
+			>
 		</li>
 	</ul>
 	<h3>Mindful Yoga</h3>
