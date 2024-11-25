@@ -237,3 +237,9 @@
 		</li>
 	</ul>
 </div>
+
+<style>
+	ul {
+		margin-block-start: 0;
+	}
+</style>
