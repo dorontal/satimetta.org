@@ -46,7 +46,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				suggestions for managing body tension during meditation:</p> <ul><li><b>Intentional Breathing Reset</b> <p>Temporarily shift to intentional breathing: gently take full, long breaths with a longer
 						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
 						This reset procedure generally tends to make the mind less distractible.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
-						can distract the mind.</p></li> <li><b>Awareness of Tension with Breath</b> <p>Focus on the area of tension, noticing its sensations and location while noting each leg
+						tend to distract the mind. Try to limit to one adjustment, maybe two, per sit.</p></li> <li><b>Awareness of Tension with Breath</b> <p>Focus on the area of tension, noticing its sensations and location while noting each leg
 						of the breath. Acknowledge the tension without trying to change it, with kindness,
 						patience, and self-compassion.</p> <p>Visualizations can support this, e.g, imagine oxygen nourishing your body, especially
 						tense areas, on each in-breath. On the out-breath, envision that releasing what your
