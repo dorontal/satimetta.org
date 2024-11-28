@@ -109,6 +109,9 @@
 				“mental muscle” of mindfulness, which in turn supports meditation practice and allows it to
 				go deeper.
 			</p>
+			<p>
+				Steady progress requires both formal and informal practice; neither alone is sufficient.
+			</p>
 		</div>
 	</details>
 	<details>
