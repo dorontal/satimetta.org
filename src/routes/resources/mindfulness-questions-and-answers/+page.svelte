@@ -77,7 +77,7 @@
 			</p>
 			<p>
 				<b>Mindfulness practice is not a mental escape:</b>
-				When applied to daily living, mindfulness encourages engagement with whatever arises in the mind,
+				When applied to daily life, mindfulness encourages engagement with whatever arises in the mind,
 				rather than avoiding it. This distinguishes mindfulness from mental escapes like using substances
 				or getting lost in daydreams.
 			</p>
