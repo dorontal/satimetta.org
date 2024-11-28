@@ -1,16 +1,29 @@
-import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/disclose-version.yovMqGUX.js";import"../chunks/legacy.1Gjox2Bb.js";import{$ as r}from"../chunks/runtime.BKwOscGd.js";import{h as l}from"../chunks/svelte-head.C2-TBBHu.js";const d=o,h=!0,b=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:h},Symbol.toStringTag,{value:"Module"}));var u=t('<meta name="description" content="Mindfulness Questions and Answers">'),m=t(`<div class="text-column"><h1>Mindfulness Questions and Answers</h1> <details><summary>What's the Definition of Mindfulness?</summary> <div><p><a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is the awareness that arises from paying attention, on purpose, in the
+import{d as o}from"../chunks/index.CBNyrWlD.js";import{t as n,a as e}from"../chunks/disclose-version.yovMqGUX.js";import"../chunks/legacy.1Gjox2Bb.js";import{$ as r}from"../chunks/runtime.BKwOscGd.js";import{h as l}from"../chunks/svelte-head.C2-TBBHu.js";const d=o,h=!0,y=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:h},Symbol.toStringTag,{value:"Module"}));var u=n('<meta name="description" content="Mindfulness Questions and Answers">'),c=n(`<div class="text-column"><h1>Mindfulness Questions and Answers</h1> <details><summary>What's the Definition of Mindfulness?</summary> <div><p><a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is the awareness that arises from paying attention, on purpose, in the
 				present moment, and non-judgmentally. Some expand on the idea of "non-judgmentally"; for
 				example, Diana Winston describes it as being "with curiosity and openness to each
 				experience."</p> <p>The above definition of mindfulness refers to the mental capacity for mindfulness. This
 				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
-				like a muscle, through consistent daily formal practice. The term <em>'trait mindfulness'</em> is often used as jargon to describe the baseline level of mindfulness—the steady, underlying
-				mindfulness capacity of the mind.</p> <p><em>'State mindfulness'</em>, on the other hand, refers to the momentary experience of
-				mindfulness. A helpful way to distinguish between the two is to think of <em>'state mindfulness'</em> as answering the question, "How mindful are you right now?" and <em>'trait mindfulness'</em> as answering, "How mindful are you these days?"</p> <p><em>'Mindfulness practice'</em> refers to the activities and exercises aimed at cultivating
-				mindfulness. It is the process that strengthens <em>'trait mindfulness'</em>, enhances the
-				average level of <em>'state mindfulness'</em>, and generally improves the mind’s capacity to
-				be mindful. The term <em>'mindfulness practice'</em> can refer to: (a) a regular daily routine
-				of practicing mindfulness, (b) a specific meditation session, (c) various types of mindfulness
-				meditations, or (d) informal practices where mindfulness is applied to everyday activities.</p></div></details> <details><summary>What Mindfulness is Not</summary> <div><p>Some common misconceptions about mindfulness:</p> <p><b>Mindfulness is not the same as mindfulness practice:</b> Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
+				like a muscle, through consistent daily formal practice. The term <b>trait mindfulness</b> descries the baseline level of mindfulness—the steady, underlying mindfulness capacity of the
+				mind. <b>State mindfulness</b>, on the other hand, refers to the momentary experience of
+				mindfulness. A helpful way to distinguish between the two is to think of state mindfulness
+				as answering the question, "How mindful are you right now?" and trait mindfulness as
+				answering, "How mindful are you these days?"</p> <p><b>Mindfulness practice</b> refers to the activities and exercises aimed at cultivating mindfulness.
+				It is the process that strengthens trait mindfulness, enhances the average level of state mindfulness,
+				and generally improves the mind’s capacity to be mindful. The term mindfulness practice can refer
+				to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation session,
+				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is
+				applied to everyday activities.</p> <p>A key distinction in mindfulness practice is between being mindful of a specific object and
+				being mindful of the present moment as a whole. Mindfulness of an object means focusing on
+				something specific, such as a breath or a sensation, which is always happening in the
+				present moment. In contrast, mindfulness of the present moment itself - sometimes called
+				"Choiceless Awareness" (a term from J. Krishnamurti) - involves staying open to whatever
+				arises, without choosing a specific focus. This is also referred to as "open awareness",
+				"pure awareness," or "bare attention." Here, the main object of meditation keeps shifting as
+				new sensations and mental processes come up in one's mind - whatever comes up becomes the
+				new object of meditation. Unlike concentration practices, which aim to sustain attention on
+				a single object, open awareness allows for a fluid, dynamic focus. Open awareness can be a
+				standalone practice, while it is also sometimes used as a preparation for focused attention
+				on a single object.</p></div></details> <details><summary>What Mindfulness is Not</summary> <div><p>Some common misconceptions about mindfulness:</p> <p><b>Mindfulness is not the same as mindfulness practice:</b> Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
 				practice, which is a regular routine to cultivate this skill. 'Mindfulness practice' is also
 				used as a synonym to 'meditation'.</p> <p><b>Mindfulness practice is not the same as relaxation:</b> While mindfulness practice may lead to calmness, its purpose is not relaxation. It’s about paying
 				attention to the present moment - whatever it holds - with openness, curiosity, and kindness.</p> <p><b>Mindfulness practice is not a quick fix:</b> Like building physical strength at the gym, mindfulness develops gradually with consistent practice.
@@ -53,4 +66,4 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						body no longer needs helps further release the tension.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=m();l(s=>{var a=u();r.title="Mindfulness Questions and Answers",e(s,a)}),e(n,i)}export{w as component,b as universal};
+						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(t){var i=c();l(s=>{var a=u();r.title="Mindfulness Questions and Answers",e(s,a)}),e(t,i)}export{w as component,y as universal};
