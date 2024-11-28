@@ -41,7 +41,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t as n,a as e}from"../chu
 				for mindfulness, making it easier to remain mindful in daily activities. The reverse is
 				equally important: being continuously mindful throughout daily activities strengthens the
 				“mental muscle” of mindfulness, which in turn supports meditation practice and allows it to
-				go deeper.</p></div></details> <details><summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div><p>When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
+				go deeper.</p> <p>Steady progress requires both formal and informal practice; neither alone is sufficient.</p></div></details> <details><summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary> <div><p>When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
 				if we’re in the passenger seat while our thoughts do the driving. In mindfulness practice,
 				however, we notice our thoughts when they appear, but we don’t let them drive us. Instead,
 				we gently and kindly return our focus to our main object of meditation. Here are some
