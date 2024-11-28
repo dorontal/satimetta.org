@@ -19,25 +19,34 @@
 			<p>
 				The above definition of mindfulness refers to the mental capacity for mindfulness. This
 				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
-				like a muscle, through consistent daily formal practice. The term <em
-					>'trait mindfulness'</em
-				> is often used as jargon to describe the baseline level of mindfulness—the steady, underlying
-				mindfulness capacity of the mind.
+				like a muscle, through consistent daily formal practice. The term <b>trait mindfulness</b>
+				descries the baseline level of mindfulness—the steady, underlying mindfulness capacity of the
+				mind. <b>State mindfulness</b>, on the other hand, refers to the momentary experience of
+				mindfulness. A helpful way to distinguish between the two is to think of state mindfulness
+				as answering the question, "How mindful are you right now?" and trait mindfulness as
+				answering, "How mindful are you these days?"
 			</p>
 			<p>
-				<em>'State mindfulness'</em>, on the other hand, refers to the momentary experience of
-				mindfulness. A helpful way to distinguish between the two is to think of
-				<em>'state mindfulness'</em>
-				as answering the question, "How mindful are you right now?" and <em>'trait mindfulness'</em>
-				as answering, "How mindful are you these days?"
+				<b>Mindfulness practice</b> refers to the activities and exercises aimed at cultivating mindfulness.
+				It is the process that strengthens trait mindfulness, enhances the average level of state mindfulness,
+				and generally improves the mind’s capacity to be mindful. The term mindfulness practice can refer
+				to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation session,
+				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is
+				applied to everyday activities.
 			</p>
 			<p>
-				<em>'Mindfulness practice'</em> refers to the activities and exercises aimed at cultivating
-				mindfulness. It is the process that strengthens <em>'trait mindfulness'</em>, enhances the
-				average level of <em>'state mindfulness'</em>, and generally improves the mind’s capacity to
-				be mindful. The term <em>'mindfulness practice'</em> can refer to: (a) a regular daily routine
-				of practicing mindfulness, (b) a specific meditation session, (c) various types of mindfulness
-				meditations, or (d) informal practices where mindfulness is applied to everyday activities.
+				A key distinction in mindfulness practice is between being mindful of a specific object and
+				being mindful of the present moment as a whole. Mindfulness of an object means focusing on
+				something specific, such as a breath or a sensation, which is always happening in the
+				present moment. In contrast, mindfulness of the present moment itself - sometimes called
+				"Choiceless Awareness" (a term from J. Krishnamurti) - involves staying open to whatever
+				arises, without choosing a specific focus. This is also referred to as "open awareness",
+				"pure awareness," or "bare attention." Here, the main object of meditation keeps shifting as
+				new sensations and mental processes come up in one's mind - whatever comes up becomes the
+				new object of meditation. Unlike concentration practices, which aim to sustain attention on
+				a single object, open awareness allows for a fluid, dynamic focus. Open awareness can be a
+				standalone practice, while it is also sometimes used as a preparation for focused attention
+				on a single object.
 			</p>
 		</div>
 	</details>
@@ -170,7 +179,7 @@
 					<b>Posture Adjustment</b>
 					<p>
 						Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
-						can distract the mind.
+						tend to distract the mind. Try to limit adjustments to one, maybe two, per sit.
 					</p>
 				</li>
 				<li>
