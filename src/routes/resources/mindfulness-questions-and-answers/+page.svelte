@@ -99,8 +99,8 @@
 				that strengthen informal mindfulness and make it more effective throughout the day.
 			</p>
 			<p>
-				Formal practice has greater potential to bring the mind to deeper states of collectedness
-				and tranquility, which can lead to greater insight and enhanced mind training.
+				Formal practice has (much) greater potential to bring the mind to deeper states of
+				collectedness and tranquility, which can lead to greater insight and enhanced mind training.
 			</p>
 			<p>
 				Both types of practice reinforce each other: formal practice strengthens the mental capacity
