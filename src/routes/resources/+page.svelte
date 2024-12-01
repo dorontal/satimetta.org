@@ -64,7 +64,7 @@
 			<a href="https://goamra.org/" target="_blank"> American Mindfulness Research Association </a>
 		</li>
 	</ul>
-	<h3>Guided Body Scan Meditations</h3>
+	<h3>Guided Body Scan (Body Sweep) Meditations</h3>
 	<ul>
 		<li>
 			<a
@@ -91,7 +91,7 @@
 			>
 		</li>
 	</ul>
-	<h3>Guided Awareness of Breath Meditations</h3>
+	<h3>Guided Mindfulness of Breathing Meditations</h3>
 	<ul>
 		<li>
 			<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
@@ -120,8 +120,7 @@
 			>
 		</li>
 	</ul>
-
-	<h3>Loving-Kindness Meditation</h3>
+	<h3>Guided Loving-Kindness Meditations</h3>
 	<ul>
 		<li>
 			<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc" target="_blank">
