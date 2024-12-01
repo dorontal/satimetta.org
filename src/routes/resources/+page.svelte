@@ -111,11 +111,6 @@
 				20-minute guided breath meditation - Steve Hickman</a
 			>
 		</li>
-		<li>
-			<a href="https://soundcloud.com/ucsdmindfulness/sets/seated-meditation" target="_blank">
-				More seated meditations curated by UCSD's Center for Integrative Health</a
-			>
-		</li>
 	</ul>
 	<h3>Walking Meditation</h3>
 	<ul>
