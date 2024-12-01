@@ -135,7 +135,7 @@
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0" target="_blank">
-				15-minute guided guided loving-kindness meditation - Ayya Khema</a
+				15-minute guided loving-kindness meditation - Ayya Khema</a
 			>
 		</li>
 		<li>
@@ -143,12 +143,12 @@
 				href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
 				target="_blank"
 			>
-				17-minute guided guided loving-kindness meditation - Ayya Khema</a
+				17-minute guided loving-kindness meditation - Ayya Khema</a
 			>
 		</li>
 		<li>
 			<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
-				18-minute guided guided loving-kindness meditation - Thich Nhat Hanh</a
+				18-minute guided loving-kindness meditation - Thich Nhat Hanh</a
 			>
 		</li>
 		<li>
