@@ -11,7 +11,9 @@
 			<a href="/resources/mindfulness-questions-and-answers"> Mindfulness Questions and Answers</a>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=w6T02g5hnT4">Why Mindfulness is a Superpower </a>
+			<a href="https://www.youtube.com/watch?v=w6T02g5hnT4" target="_blank"
+				>Why Mindfulness is a Superpower</a
+			>
 		</li>
 		<li>
 			<a
@@ -127,22 +129,30 @@
 	<h3>Loving-Kindness Meditation</h3>
 	<ul>
 		<li>
-			<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc">
+			<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc" target="_blank">
 				10-minute guided loving-kindness meditation - Sharon Salzberg</a
 			>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=_vT6yZe-vJQ">
-				13-minute guided guided loving-kindness meditation - Ayya Khema</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0">
+			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0" target="_blank">
 				15-minute guided guided loving-kindness meditation - Ayya Khema</a
 			>
 		</li>
 		<li>
-			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM">
+			<a
+				href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
+				target="_blank"
+			>
+				17-minute guided guided loving-kindness meditation - Ayya Khema</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
+				18-minute guided guided loving-kindness meditation - Thich Nhat Hanh</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM" target="_blank">
 				25-minute guided loving-kindness meditation - Jack Kornfield</a
 			>
 		</li>
