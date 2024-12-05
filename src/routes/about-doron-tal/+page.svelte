@@ -13,7 +13,7 @@
 					<h4>Daily Sitting Meditation Practice Group (2023 - Present)</h4>
 					<p>
 						Daily online group meditations with <a
-							href="https://www.clearmountainmonastery.org/"
+							href="https://www.clearmountainmonastery.org"
 							target="_blank">Clear Mountain Monastery</a
 						>.
 					</p>
@@ -44,10 +44,10 @@
 					<h4>Metta Practice (2015 - Present)</h4>
 					<p>
 						Practiced Metta at Tibet House in New York City under the guidance of <a
-							href="https://www.rachelhammerman.com/"
+							href="https://www.rachelhammerman.com"
 							target="_blank">Rachel Hammerman</a
 						>. Regularly attending
-						<a href="https://www.baus.org/en/group-meditation-over-zoom/" target="_blank"
+						<a href="https://www.baus.org/en/group-meditation-over-zoom" target="_blank"
 							>Bhikkhu Bodhi's weekly Metta
 						</a> sessions since 2019.
 					</p>
@@ -74,10 +74,10 @@
 						and have studied under the instruction of Katherine Hannah,
 						<a href="https://www.youtube.com/watch?v=6rLG3Ys-wIU" target="_blank">Maggie Newman</a>,
 						<a
-							href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776/"
+							href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
 							target="_blank">Sifu William Dere</a
 						>, and since the late 80's, with
-						<a href="https://www.williamccchen.com/" target="_blank"
+						<a href="https://www.williamccchen.com" target="_blank"
 							>Great Grandmaster William C. C. Chen</a
 						>.
 					</p>
@@ -99,8 +99,17 @@
 				<li>
 					<h4>Philadelphia Industrial Correctional Center (November 12, 2024 - Present)</h4>
 					<p>
-						Facilitating the Path of Freedom curriculum of the Prison Mindfulness Institute to
-						incarcerated individuals - one hour a week for ten weeks.
+						Facilitating the <a
+							href="https://www.prisonmindfulness.org/path-of-freedom"
+							target="_blank"
+						>
+							Path of Freedom</a
+						>
+						curriculum of the
+						<a href="https://www.prisonmindfulness.org/" target="_blank">
+							Prison Mindfulness Institute</a
+						>
+						to incarcerated individuals - one hour a week for ten weeks.
 					</p>
 				</li>
 				<li>
@@ -124,7 +133,7 @@
 				<li>
 					<h4>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Present)</h4>
 					<p>
-						The <a href="https://www.engagedmindfulness.org/" target="_blank"
+						The <a href="https://www.engagedmindfulness.org" target="_blank"
 							>Engaged Mindfulness Institute</a
 						>
 						trains its students to facilitate mindfulness instruction in trauma-informed manner. The
@@ -137,21 +146,30 @@
 				</li>
 				<li>
 					<h4>
-						Prison Mindfulness Institute's "Path of Freedom" - Prison Mindfulness Facilitation
-						Training (July - August, 2024)
+						Prison Mindfulness Institute's <a
+							href="https://www.prisonmindfulness.org/path-of-freedom"
+							target="_blank"
+						>
+							Path of Freedom</a
+						> - Prison mindfulness teacher/facilitator Training (July - August, 2024)
 					</h4>
 					<p>
-						The Path of Freedom prison mindfulness facilitator training is a mindfulness-based
-						emotional intelligence (MBEI) program developed for incarcerated individuals. It
-						integrates mindfulness practices, emotional intelligence topics and exercises, and
-						cognitive behavioral methods.
+						The <a href="https://www.prisonmindfulness.org/path-of-freedom" target="_blank">
+							Path of Freedom</a
+						>
+						curriculum of the
+						<a href="https://www.prisonmindfulness.org/" target="_blank">
+							Prison Mindfulness Institute</a
+						> is a mindfulness-based emotional intelligence (MBEI) program developed for incarcerated
+						individuals. It integrates mindfulness practices, emotional intelligence topics and exercises,
+						and cognitive behavioral methods.
 					</p>
 				</li>
 				<li>
 					<h4>MBSR 10-Week Teacher Training Foundations Class (2024)</h4>
 					<p>
 						Attended the 10-week MBSR Teacher Training class offered by University of California,
-						San Diego (UCSD)'s <a href="https://cih.ucsd.edu/" target="_blank"
+						San Diego (UCSD)'s <a href="https://cih.ucsd.edu" target="_blank"
 							>Centers for Integrative Health</a
 						>, taught by
 						<a href="https://cih.ucsd.edu/mindfulness/team/noriko-morita-harth" target="_blank"
@@ -159,7 +177,7 @@
 						>
 						and
 						<a
-							href="https://www.mindful-way.com/teachers/korantemah-pierce-williams/"
+							href="https://www.mindful-way.com/teachers/korantemah-pierce-williams"
 							target="_blank">Korantema Pierce Wiliams</a
 						>.
 					</p>
@@ -184,7 +202,7 @@
 					<h4>MBSR Class (September 2023)</h4>
 					<p>
 						Attended an MBSR class, in exploration of teaching MBSR later. This was a University of
-						California, San Diego (UCSD)'s <a href="https://cih.ucsd.edu/" target="_blank"
+						California, San Diego (UCSD)'s <a href="https://cih.ucsd.edu" target="_blank"
 							>Centers for Integrative Health</a
 						>
 						class taugt by
@@ -216,13 +234,18 @@
 				<li>
 					<h4>Jhanas, Insight, and Dependent Origination (Nov. 22 - Dec. 2, 2024)</h4>
 					<p>
-						Online silent retreat, with Leigh Brasington and Matt Harvey, offered by Gaia House.
+						Online silent retreat, with <a href="https://leighb.com" target="_blank"
+							>Leigh Brasington</a
+						>
+						and
+						<a href="https://www.cheltenhamzen.co.uk" target="_blank">Matt Harvey</a>, offered by
+						<a href="https://gaiahouse.co.uk" target="_blank">Gaia House</a>.
 					</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (October 11-13, 2024)</h4>
 					<p>
-						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+						Online retreat, part of <a href="https://www.engagedmindfulness.org" target="_blank"
 							>Engaged Mindfulness Institute</a
 						>'s CMT-P certification.
 					</p>
@@ -230,7 +253,7 @@
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (September 13-15, 2024)</h4>
 					<p>
-						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+						Online retreat, part of <a href="https://www.engagedmindfulness.org" target="_blank"
 							>Engaged Mindfulness Institute</a
 						>'s CMT-P certification.
 					</p>
@@ -238,7 +261,7 @@
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</h4>
 					<p>
-						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+						Online retreat, part of <a href="https://www.engagedmindfulness.org" target="_blank"
 							>Engaged Mindfulness Institute</a
 						>'s CMT-P certification.
 					</p>
@@ -246,7 +269,7 @@
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (May 3-5, 2024)</h4>
 					<p>
-						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+						Online retreat, part of <a href="https://www.engagedmindfulness.org" target="_blank"
 							>Engaged Mindfulness Institute</a
 						>'s CMT-P certification.
 					</p>
@@ -255,7 +278,7 @@
 					<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
 					<p>
 						Online retreat, offered by <a
-							href="https://www.clearmountainmonastery.org/"
+							href="https://www.clearmountainmonastery.org"
 							target="_blank">Clear Mountain Monastery</a
 						>
 						(only participated in the 3-hour morning sittings).
@@ -266,11 +289,11 @@
 					<p>
 						Online silent retreat titled
 						<a
-							href="https://www.kevalaretreat.org/santikaros-2024-on-line-retreat-schedule/"
+							href="https://www.kevalaretreat.org/santikaros-2024-on-line-retreat-schedule"
 							target="_blank"
 							>Mindfulness with Breathing: Contemplating Citta (mind, heart, psyche)</a
 						>, with
-						<a href="https://www.kevalaretreat.org/who-we-are/" target="_blank">Santikaro</a>.
+						<a href="https://www.kevalaretreat.org/who-we-are" target="_blank">Santikaro</a>.
 					</p>
 				</li>
 				<li>
@@ -286,7 +309,7 @@
 				<li>
 					<h4>Retreat with Tobi Warzinek (March 5-9, 2019)</h4>
 					<p>
-						Five day retreat at <a href="https://phuket-meditation.com/" target="_blank"
+						Five day retreat at <a href="https://phuket-meditation.com" target="_blank"
 							>Phuket Meditation Center</a
 						>. Tobi taught a meditation method based on Ajahn Brahm’s. After the retreat, I picked
 						up "Mindfulness, Bliss and Beyond" by Ajahn Brahm and continued daily practice with that
