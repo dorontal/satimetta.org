@@ -215,7 +215,9 @@
 			<ul>
 				<li>
 					<h4>Jhanas, Insight, and Dependent Origination (Nov. 22 - Dec. 2, 2024)</h4>
-					<p>Online retreat, with Leigh Brasington and Matt Harvey, offered by Gaia House.</p>
+					<p>
+						Online silent retreat, with Leigh Brasington and Matt Harvey, offered by Gaia House.
+					</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (October 11-13, 2024)</h4>
@@ -234,13 +236,16 @@
 					<p>Online retreat, part of EMI's CMT-P certification.</p>
 				</li>
 				<li>
-					<h4>Online retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
-					<p>Offered by Clear Mountain Monastery (participated in all 3-hour morning sittings).</p>
+					<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
+					<p>
+						Online retreat, offered by Clear Mountain Monastery (participated in the 3-hour morning
+						sittings).
+					</p>
 				</li>
 				<li>
 					<h4>Retreat with Santikaro (January 21-27, 2024)</h4>
 					<p>
-						Online retreat titled
+						Online silent retreat titled
 						<a
 							href="https://www.kevalaretreat.org/santikaros-2024-on-line-retreat-schedule/"
 							target="_blank"
@@ -250,7 +255,7 @@
 					</p>
 				</li>
 				<li>
-					<h4>Silent Retreat with Bhikkhu Bodhi (March 17-20, 2023)</h4>
+					<h4>Retreat with Bhikkhu Bodhi (March 17-20, 2023)</h4>
 					<p>
 						Participated and volunteered in this online silent retreat, titled
 						<a
