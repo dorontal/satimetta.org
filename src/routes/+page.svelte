@@ -21,8 +21,8 @@
 				have been valued for centuries. Today their benefits are recognized from both traditional
 				and scientific perspectives. Here, you can find Doron Tal's mindfulness-related <a
 					href="/about-doron-tal">background</a
-				>, class
-				<a href="/events">schedule</a> and curated
+				><!-- , class <a href="/events">schedule</a> -->
+				and curated
 				<a href="/resources">resources</a>.
 			</p>
 		</div>
