@@ -221,25 +221,44 @@
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (October 11-13, 2024)</h4>
-					<p>Online retreat, part of EMI's CMT-P certification.</p>
+					<p>
+						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+							>Engaged Mindfulness Institute</a
+						>'s CMT-P certification.
+					</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (September 13-15, 2024)</h4>
-					<p>Online retreat, part of EMI's CMT-P certification.</p>
+					<p>
+						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+							>Engaged Mindfulness Institute</a
+						>'s CMT-P certification.
+					</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</h4>
-					<p>Online retreat, part of EMI's CMT-P certification.</p>
+					<p>
+						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+							>Engaged Mindfulness Institute</a
+						>'s CMT-P certification.
+					</p>
 				</li>
 				<li>
 					<h4>Engaged Mindfulness Institute Retreat (May 3-5, 2024)</h4>
-					<p>Online retreat, part of EMI's CMT-P certification.</p>
+					<p>
+						Online retreat, part of <a href="https://www.engagedmindfulness.org/" target="_blank"
+							>Engaged Mindfulness Institute</a
+						>'s CMT-P certification.
+					</p>
 				</li>
 				<li>
 					<h4>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</h4>
 					<p>
-						Online retreat, offered by Clear Mountain Monastery (participated in the 3-hour morning
-						sittings).
+						Online retreat, offered by <a
+							href="https://www.clearmountainmonastery.org/"
+							target="_blank">Clear Mountain Monastery</a
+						>
+						(only participated in the 3-hour morning sittings).
 					</p>
 				</li>
 				<li>
