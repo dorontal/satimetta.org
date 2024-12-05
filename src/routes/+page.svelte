@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Doron Tal Mindfulness" />
+	<meta name="description" content="Doron Tal Mindfulness Background" />
 </svelte:head>
 
 <section>
