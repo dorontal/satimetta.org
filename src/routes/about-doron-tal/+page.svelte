@@ -110,8 +110,8 @@
 				<li>
 					<h4>Qigong class, Ames Research Center (Spring, 2005)</h4>
 					<p>
-						Taught a Qigong set for spine stretching and strengthening - fourty minutes a week for
-						ten weeks.
+						Taught a Qigong set for spine stretching and strengthening - fifty five minutes a week
+						for ten weeks.
 					</p>
 				</li>
 			</ul>
@@ -203,7 +203,7 @@
 						Attended a talk by his Holiness the Dalai Lama, titled <a
 							href="https://www.youtube.com/watch?v=_2G-4m4y8Ss"
 							target="_blank">"Overcoming Differences"</a
-						>. This catalyzed further study of his work and the Buddha's path.
+						>. This catalyzed further study of his work, mostly in the area of loving-kindness.
 					</p>
 				</li>
 			</ul>
