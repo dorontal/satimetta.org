@@ -111,7 +111,7 @@
 					<h4>Qigong class, Ames Research Center (Spring, 2005)</h4>
 					<p>
 						Taught a Qigong set for spine stretching and strengthening - fourty minutes a week for
-						twelve weeks.
+						ten weeks.
 					</p>
 				</li>
 			</ul>
