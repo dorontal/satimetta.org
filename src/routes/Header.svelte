@@ -15,9 +15,9 @@
 			<li aria-current={$currentPath === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$currentPath === '/events' ? 'page' : undefined}>
+			<!--li aria-current={$currentPath === '/events' ? 'page' : undefined}>
 				<a href="/events">Events</a>
-			</li>
+			</li-->
 			<li aria-current={$currentPath.startsWith('/resources') ? 'page' : undefined}>
 				<a href="/resources">Resources</a>
 			</li>
