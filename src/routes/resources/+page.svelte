@@ -230,13 +230,13 @@
 			>
 		</li>
 		<li>
-			<a href="https://palousemindfulness.com/docs/autobio_5chapters.pdf" target="_blank">
-				Autobiography in Five Short Chapters - Portia Nelson</a
+			<a href="https://youarehere.substack.com/p/place-poem-lost-by-david-wagoner" target="_blank">
+				Lost - David Wagoner</a
 			>
 		</li>
 		<li>
-			<a href="https://youarehere.substack.com/p/place-poem-lost-by-david-wagoner" target="_blank">
-				Lost - David Wagoner</a
+			<a href="https://www.mindfulnessassociation.net/words-of-wonder/fear-kahlil-gibran/" target="_blank">
+				Fear - Khalil Gibran</a
 			>
 		</li>
 	</ul>
