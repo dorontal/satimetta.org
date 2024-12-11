@@ -117,9 +117,9 @@
 					<p>Introductory Mindfulness class - one hour a week for ten weeks.</p>
 				</li>
 				<li>
-					<h4>Qigong class, Ames Research Center (Spring, 2005)</h4>
+					<h4>Qigong class, NASA Ames Research Center (Spring, 2005)</h4>
 					<p>
-						Taught a Qigong set for spine stretching and strengthening - fifty five minutes a week
+						Taught a Qigong set for spine stretching and strengthening - fourty five minutes a week
 						for ten weeks.
 					</p>
 				</li>
