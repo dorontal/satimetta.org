@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>Mindfulness Questions and Answers</title>
-	<meta name="description" content="Mindfulness Questions and Answers" />
+	<meta name="description" content="Mindfulness Questions And Answers" />
 </svelte:head>
 
 <div class="text-column">
@@ -33,20 +33,6 @@
 				to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation session,
 				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is
 				applied to everyday activities.
-			</p>
-			<p>
-				A key distinction in mindfulness practice is between being mindful of a specific object and
-				being mindful of the present moment as a whole. Mindfulness of an object means focusing on
-				something specific, such as a breath or a sensation, which is always happening in the
-				present moment. In contrast, mindfulness of the present moment itself - sometimes called
-				"Choiceless Awareness" (a term from J. Krishnamurti) - involves staying open to whatever
-				arises, without choosing a specific focus. This is also referred to as "open awareness",
-				"pure awareness," or "bare attention." Here, the main object of meditation keeps shifting as
-				new sensations and mental processes come up in one's mind - whatever comes up becomes the
-				new object of meditation. Unlike concentration practices, which aim to sustain attention on
-				a single object, open awareness allows for a fluid, dynamic focus. Open awareness can be a
-				standalone practice, while it is also sometimes used as a preparation for focused attention
-				on a single object.
 			</p>
 		</div>
 	</details>
@@ -84,6 +70,40 @@
 		</div>
 	</details>
 	<details>
+		<summary
+			>What is the difference between focusing on a single object in mindfulness and practicing open
+			or choiceless awareness?
+		</summary>
+		<div>
+			<p>
+				In mindfulness practice, <b>open awareness</b> refers to a state of staying receptive to whatever
+				arises in the present moment, without choosing a specific object to focus on. This approach contrasts
+				with focusing on a single object, such as the breath, where attention remains steady and fixed.
+			</p>
+			<p>
+				With open awareness, the “object” of meditation naturally shifts as new sensations,
+				thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b
+					>choiceless awareness</b
+				>, coined by J. Krishnamurti, is often used to describe this practice. It emphasizes the
+				lack of preference for any particular focus, keeping the mind open and observant of the
+				entire experience as it unfolds.
+			</p>
+
+			<p>
+				Some teachers consider <b>open awareness</b> an advanced method of meditation. For individuals
+				with highly distractible minds, this practice can be particularly challenging. Instead of cultivating
+				mindful openness, the experience may turn into mind wandering. (For more on mind wandering, see
+				the related question here.)
+			</p>
+			<p>
+				However, open awareness can serve a valuable role, even for people with highly distractible
+				minds, as a preparatory step for focused meditation. By starting with a period of open
+				awareness, practitioners allow the mind to settle naturally before gently narrowing their
+				focus to a single object of attention.
+			</p>
+		</div>
+	</details>
+	<details>
 		<summary>What is the difference between formal and informal mindfulness practice?</summary>
 		<div>
 			<p>
@@ -115,7 +135,7 @@
 		</div>
 	</details>
 	<details>
-		<summary>How Does Mindfulness Practice Differ from Mind-Wandering?</summary>
+		<summary>How Does Mindfulness Practice Differ from Mind Wandering?</summary>
 		<div>
 			<p>
 				When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
@@ -129,8 +149,8 @@
 					<b>Intention and Control</b>
 					<p>
 						Mindfulness involves a deliberate choice to stay in the present moment, while
-						mind-wandering happens unintentionally and often leads to distraction. With mindfulness,
-						our attention is guided intentionally. In mind-wandering, however, attention operates on
+						mind wandering happens unintentionally and often leads to distraction. With mindfulness,
+						our attention is guided intentionally. In mind wandering, however, attention operates on
 						its own, without conscious direction.
 					</p>
 				</li>
@@ -138,14 +158,14 @@
 					<b>Present Moment Awareneess</b>
 					<p>
 						Mindfulness anchors us in the present, helping us see reality as it is, whereas
-						mind-wandering is often about the past or future. This contrast could clarify how
+						mind wandering is often about the past or future. This contrast could clarify how
 						mindfulness practice strengthens our ability to engage fully with life as it unfolds.
 					</p>
 				</li>
 				<li>
 					<b>Emotional Awareness</b>
 					<p>
-						Mind-wandering might trigger emotional reactions that go unnoticed. For instance,
+						mind wandering might trigger emotional reactions that go unnoticed. For instance,
 						thoughts can drift toward worries or regrets, creating stress or anxiety, while
 						mindfulness invites us to notice and be with these emotions.
 					</p>
@@ -156,7 +176,7 @@
 						Mindfulness not only enhances focus and emotional resilience but also has proven
 						benefits for brain health. By training the mind to stay present, mindfulness reduces
 						stress, improves cognitive function, and fosters greater emotional regulation. In
-						contrast, mind-wandering can often lead to rumination and heightened anxiety, which can
+						contrast, mind wandering can often lead to rumination and heightened anxiety, which can
 						negatively impact both mental well-being and overall brain function.
 					</p>
 				</li>

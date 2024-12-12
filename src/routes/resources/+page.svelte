@@ -5,11 +5,108 @@
 
 <div class="text-column">
 	<h1>Mindfulness Resources</h1>
-	<h3>Miscellaneous</h3>
+	<h3>Guided Body Scan Meditations</h3>
 	<ul>
 		<li>
-			<a href="/resources/mindfulness-questions-and-answers"> Mindfulness Questions and Answers</a>
+			<a
+				href="https://insighttimer.com/chelseapottenger/guided-meditations/10-minute-body-scan"
+				target="_blank"
+			>
+				10-minute body scan - Chelsea Pottenger</a
+			>
 		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/20-min-body-scan-by-steve-hickman"
+				target="_blank"
+			>
+				20-minute body scan - Steve Hickman</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/45-minute-body-scan-by-steve-hickman"
+				target="_blank"
+			>
+				45-minute body scan - Steve Hickman</a
+			>
+		</li>
+	</ul>
+	<h3>Guided Mindfulness of Breathing Meditations</h3>
+	<ul>
+		<li>
+			<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
+				5-minute guided breath meditation - Diana Winston</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=2GjZanuXWWk" target="_blank">
+				10-minute guided breath meditation - Jon Kabat Zinn</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://soundcloud.com/ucsdmindfulness/20-min-seated-meditation-by-steve-hickman"
+				target="_blank"
+			>
+				20-minute guided breath meditation - Steve Hickman</a
+			>
+		</li>
+	</ul>
+	<h3>Walking Meditation Instructions</h3>
+	<ul>
+		<li>
+			<a href="https://www.youtube.com/watch?v=_IFvablc6EI" target="_blank">
+				Basic Walking Meditation Instructions - Yuttadhammo Bhikkhu</a
+			>
+		</li>
+	</ul>
+	<h3>Guided Loving-Kindness Meditations</h3>
+	<ul>
+		<li>
+			<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc" target="_blank">
+				10-minute guided loving-kindness meditation - Sharon Salzberg</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0" target="_blank">
+				15-minute guided loving-kindness meditation - Ayya Khema</a
+			>
+		</li>
+		<li>
+			<a
+				href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
+				target="_blank"
+			>
+				17-minute guided loving-kindness meditation - Ayya Khema</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
+				18-minute guided loving-kindness meditation - Thich Nhat Hanh</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM" target="_blank">
+				25-minute guided loving-kindness meditation - Jack Kornfield</a
+			>
+		</li>
+	</ul>
+	<h3>Mindful Yoga</h3>
+	<ul>
+		<li>
+			<a href="https://www.youtube.com/watch?v=BwQXNGp-X7c" target="_blank">
+				Dr. Lynn Rossi - Mindful Yoga 1</a
+			>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=hyxtVJQmnEk" target="_blank">
+				Dr. Lynn Rossi - Mindful Yoga 2</a
+			>
+		</li>
+	</ul>
+	<h3>Miscellaneous</h3>
+	<ul>
 		<li>
 			<a href="https://www.youtube.com/watch?v=w6T02g5hnT4" target="_blank"
 				>Why Mindfulness is a Superpower</a
@@ -62,106 +159,6 @@
 		</li>
 		<li>
 			<a href="https://goamra.org/" target="_blank"> American Mindfulness Research Association </a>
-		</li>
-	</ul>
-	<h3>Guided Body Scan (Body Sweep) Meditations</h3>
-	<ul>
-		<li>
-			<a
-				href="https://insighttimer.com/chelseapottenger/guided-meditations/10-minute-body-scan"
-				target="_blank"
-			>
-				10-minute body scan - Chelsea Pottenger</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/20-min-body-scan-by-steve-hickman"
-				target="_blank"
-			>
-				20-minute body scan - Steve Hickman</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/45-minute-body-scan-by-steve-hickman"
-				target="_blank"
-			>
-				45-minute body scan - Steve Hickman</a
-			>
-		</li>
-	</ul>
-	<h3>Guided Mindfulness of Breathing Meditations</h3>
-	<ul>
-		<li>
-			<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
-				5-minute guided breath meditation - Diana Winston</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=2GjZanuXWWk" target="_blank">
-				10-minute guided breath meditation - Jon Kabat Zinn</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://soundcloud.com/ucsdmindfulness/20-min-seated-meditation-by-steve-hickman"
-				target="_blank"
-			>
-				20-minute guided breath meditation - Steve Hickman</a
-			>
-		</li>
-	</ul>
-	<h3>Walking Meditation</h3>
-	<ul>
-		<li>
-			<a href="https://www.youtube.com/watch?v=_IFvablc6EI" target="_blank">
-				Basic Walking Meditation Instructions - Yuttadhammo Bhikkhu</a
-			>
-		</li>
-	</ul>
-	<h3>Guided Loving-Kindness Meditations</h3>
-	<ul>
-		<li>
-			<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc" target="_blank">
-				10-minute guided loving-kindness meditation - Sharon Salzberg</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0" target="_blank">
-				15-minute guided loving-kindness meditation - Ayya Khema</a
-			>
-		</li>
-		<li>
-			<a
-				href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
-				target="_blank"
-			>
-				17-minute guided loving-kindness meditation - Ayya Khema</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
-				18-minute guided loving-kindness meditation - Thich Nhat Hanh</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM" target="_blank">
-				25-minute guided loving-kindness meditation - Jack Kornfield</a
-			>
-		</li>
-	</ul>
-	<h3>Mindful Yoga</h3>
-	<ul>
-		<li>
-			<a href="https://www.youtube.com/watch?v=BwQXNGp-X7c" target="_blank">
-				Dr. Lynn Rossi - Mindful Yoga 1</a
-			>
-		</li>
-		<li>
-			<a href="https://www.youtube.com/watch?v=hyxtVJQmnEk" target="_blank">
-				Dr. Lynn Rossi - Mindful Yoga 2</a
-			>
 		</li>
 	</ul>
 	<h3>Poetry</h3>
@@ -235,7 +232,10 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.mindfulnessassociation.net/words-of-wonder/fear-kahlil-gibran/" target="_blank">
+			<a
+				href="https://www.mindfulnessassociation.net/words-of-wonder/fear-kahlil-gibran/"
+				target="_blank"
+			>
 				Fear - Khalil Gibran</a
 			>
 		</li>

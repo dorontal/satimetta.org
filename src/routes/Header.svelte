@@ -21,6 +21,9 @@
 			<li aria-current={$currentPath.startsWith('/resources') ? 'page' : undefined}>
 				<a href="/resources">Resources</a>
 			</li>
+			<li aria-current={$currentPath === '/mindfulness-questions-and-answers' ? 'page' : undefined}>
+				<a href="/mindfulness-questions-and-answers">Q&A</a>
+			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
