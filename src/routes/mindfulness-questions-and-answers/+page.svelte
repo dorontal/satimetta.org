@@ -1,10 +1,10 @@
 <svelte:head>
-	<title>Mindfulness Questions and Answers</title>
+	<title>Mindfulness Questions And Answers</title>
 	<meta name="description" content="Mindfulness Questions And Answers" />
 </svelte:head>
 
 <div class="text-column">
-	<h1>Mindfulness Questions and Answers</h1>
+	<h1>Mindfulness Questions And Answers</h1>
 	<details>
 		<summary>What's the Definition of Mindfulness?</summary>
 		<div>
