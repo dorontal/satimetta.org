@@ -90,10 +90,10 @@
 			</p>
 
 			<p>
-				Some teachers consider <b>open awareness</b> an advanced method of meditation. For individuals
-				with highly distractible minds, this practice can be particularly challenging. Instead of cultivating
-				mindful openness, the experience may turn into mind wandering. (For more on mind wandering, see
-				the related question here.)
+				Some teachers consider open awareness advanced practice. For individuals with highly
+				distractible minds, this practice can be particularly challenging. Instead of cultivating
+				mindful openness, the experience may turn into mind wandering. (For more on mind wandering,
+				see the related question here.)
 			</p>
 			<p>
 				However, open awareness can serve a valuable role, even for people with highly distractible
@@ -148,18 +148,18 @@
 				<li>
 					<b>Intention and Control</b>
 					<p>
-						Mindfulness involves a deliberate choice to stay in the present moment, while
-						mind wandering happens unintentionally and often leads to distraction. With mindfulness,
-						our attention is guided intentionally. In mind wandering, however, attention operates on
-						its own, without conscious direction.
+						Mindfulness involves a deliberate choice to stay in the present moment, while mind
+						wandering happens unintentionally and often leads to distraction. With mindfulness, our
+						attention is guided intentionally. In mind wandering, however, attention operates on its
+						own, without conscious direction.
 					</p>
 				</li>
 				<li>
 					<b>Present Moment Awareneess</b>
 					<p>
-						Mindfulness anchors us in the present, helping us see reality as it is, whereas
-						mind wandering is often about the past or future. This contrast could clarify how
-						mindfulness practice strengthens our ability to engage fully with life as it unfolds.
+						Mindfulness anchors us in the present, helping us see reality as it is, whereas mind
+						wandering is often about the past or future. This contrast could clarify how mindfulness
+						practice strengthens our ability to engage fully with life as it unfolds.
 					</p>
 				</li>
 				<li>
