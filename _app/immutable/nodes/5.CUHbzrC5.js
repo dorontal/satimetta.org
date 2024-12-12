@@ -19,7 +19,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				Without regular effort, mindfulness may weaken. Steady, ongoing practice creates lasting benefits.</p> <p><b>Mindfulness is not about getting rid of thoughts or emotions:</b> Instead of avoiding or suppressing thoughts and feelings, mindfulness involves noticing and accepting
 				them as they arise, without attaching meaning or reacting to them.</p> <p><b>Mindfulness practice is not a mental escape:</b> When applied to daily life, mindfulness encourages engagement with whatever arises in the mind,
 				rather than avoiding it. This distinguishes mindfulness from mental escapes like using substances
-				or getting lost in daydreams.</p></div></details> <details><summary>What's the difference between focusing on a single object in mindfulness and practicing open
+				or getting lost in daydreams.</p></div></details> <details><summary>What's the difference between focusing on a single object in meditation and practicing open
 			or choiceless awareness?</summary> <div><p>In mindfulness practice, <b>open awareness</b> refers to a state of staying receptive to whatever
 				arises in the present moment, without choosing a specific object to focus on. This approach contrasts
 				with focusing on a single object, such as the breath, where attention remains steady and fixed.</p> <p>With open awareness, the “object” of meditation naturally shifts as new sensations,
@@ -32,9 +32,9 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				minds, as a preparatory step for focused meditation. By starting with a period of open
 				awareness, practitioners allow the mind to settle naturally before gently narrowing their
 				focus to a single object of attention.</p></div></details> <details><summary>What's the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
-				a specific method or exercise, while informal mindfulness practice is about weaving
-				mindfulness into everyday activities, like brushing your teeth, washing the dishes, or
-				eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
+				a specific meditation method or exercise, while informal mindfulness practice is about
+				weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes,
+				or eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
 				a calm, attentive state that enhances daily interactions, decisions, and overall well-being,
 				but on its own may not lead to real progress. Formal practice provides depth and continuity
 				that strengthen informal mindfulness and make it more effective throughout the day.</p> <p>Formal practice has (much) greater potential to bring the mind to deeper states of
