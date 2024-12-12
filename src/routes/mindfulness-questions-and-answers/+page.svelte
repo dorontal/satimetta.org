@@ -71,7 +71,7 @@
 	</details>
 	<details>
 		<summary
-			>What is the difference between focusing on a single object in mindfulness and practicing open
+			>What's the difference between focusing on a single object in mindfulness and practicing open
 			or choiceless awareness?
 		</summary>
 		<div>
@@ -104,7 +104,7 @@
 		</div>
 	</details>
 	<details>
-		<summary>What is the difference between formal and informal mindfulness practice?</summary>
+		<summary>What's the difference between formal and informal mindfulness practice?</summary>
 		<div>
 			<p>
 				Formal mindfulness practice involves intentionally setting aside time and space to focus on
@@ -181,6 +181,24 @@
 					</p>
 				</li>
 			</ul>
+		</div>
+	</details>
+	<details>
+		<summary> What's the difference between meditation and mindfulness practice? </summary>
+		<div>
+			<p>
+				Meditation is a formal mindfulness practice where you set aside time to focus and train your
+				mind.
+			</p>
+			<p>
+				You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
+				the application of mindfulness to any activity throughout the day, e.g, when eating,
+				walking, working or talking to someone.
+			</p>
+			<p>
+				In short: meditation is one way to cultivate mindfulness, but mindfulness can be practiced
+				at any time, not just during meditation.
+			</p>
 		</div>
 	</details>
 	<details>
