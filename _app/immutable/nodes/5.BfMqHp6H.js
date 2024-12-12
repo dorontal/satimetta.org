@@ -25,10 +25,10 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				with focusing on a single object, such as the breath, where attention remains steady and fixed.</p> <p>With open awareness, the “object” of meditation naturally shifts as new sensations,
 				thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b>choiceless awareness</b>, coined by J. Krishnamurti, is often used to describe this practice. It emphasizes the
 				lack of preference for any particular focus, keeping the mind open and observant of the
-				entire experience as it unfolds.</p> <p>Some teachers consider <b>open awareness</b> an advanced method of meditation. For individuals
-				with highly distractible minds, this practice can be particularly challenging. Instead of cultivating
-				mindful openness, the experience may turn into mind wandering. (For more on mind wandering, see
-				the related question here.)</p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
+				entire experience as it unfolds.</p> <p>Some teachers consider open awareness advanced practice. For individuals with highly
+				distractible minds, this practice can be particularly challenging. Instead of cultivating
+				mindful openness, the experience may turn into mind wandering. (For more on mind wandering,
+				see the related question here.)</p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
 				minds, as a preparatory step for focused meditation. By starting with a period of open
 				awareness, practitioners allow the mind to settle naturally before gently narrowing their
 				focus to a single object of attention.</p></div></details> <details><summary>What is the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
@@ -46,12 +46,12 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				if we’re in the passenger seat while our thoughts do the driving. In mindfulness practice,
 				however, we notice our thoughts when they appear, but we don’t let them drive us. Instead,
 				we gently and kindly return our focus to our main object of meditation. Here are some
-				important differences between the two:</p> <ul><li><b>Intention and Control</b> <p>Mindfulness involves a deliberate choice to stay in the present moment, while
-						mind wandering happens unintentionally and often leads to distraction. With mindfulness,
-						our attention is guided intentionally. In mind wandering, however, attention operates on
-						its own, without conscious direction.</p></li> <li><b>Present Moment Awareneess</b> <p>Mindfulness anchors us in the present, helping us see reality as it is, whereas
-						mind wandering is often about the past or future. This contrast could clarify how
-						mindfulness practice strengthens our ability to engage fully with life as it unfolds.</p></li> <li><b>Emotional Awareness</b> <p>mind wandering might trigger emotional reactions that go unnoticed. For instance,
+				important differences between the two:</p> <ul><li><b>Intention and Control</b> <p>Mindfulness involves a deliberate choice to stay in the present moment, while mind
+						wandering happens unintentionally and often leads to distraction. With mindfulness, our
+						attention is guided intentionally. In mind wandering, however, attention operates on its
+						own, without conscious direction.</p></li> <li><b>Present Moment Awareneess</b> <p>Mindfulness anchors us in the present, helping us see reality as it is, whereas mind
+						wandering is often about the past or future. This contrast could clarify how mindfulness
+						practice strengthens our ability to engage fully with life as it unfolds.</p></li> <li><b>Emotional Awareness</b> <p>mind wandering might trigger emotional reactions that go unnoticed. For instance,
 						thoughts can drift toward worries or regrets, creating stress or anxiety, while
 						mindfulness invites us to notice and be with these emotions.</p></li> <li><b>Brain and Health Benefits</b> <p>Mindfulness not only enhances focus and emotional resilience but also has proven
 						benefits for brain health. By training the mind to stay present, mindfulness reduces
