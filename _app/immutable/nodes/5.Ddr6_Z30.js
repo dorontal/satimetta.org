@@ -1,4 +1,4 @@
-import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/disclose-version.yovMqGUX.js";import"../chunks/legacy.1Gjox2Bb.js";import{$ as r}from"../chunks/runtime.BKwOscGd.js";import{h as l}from"../chunks/svelte-head.C2-TBBHu.js";const d=o,h=!0,b=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:h},Symbol.toStringTag,{value:"Module"}));var c=t('<meta name="description" content="Mindfulness Questions And Answers">'),u=t(`<div class="text-column"><h1>Mindfulness Questions And Answers</h1> <details><summary>What's the Definition of Mindfulness?</summary> <div><p><a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is the awareness that arises from paying attention, on purpose, in the
+import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/disclose-version.yovMqGUX.js";import"../chunks/legacy.1Gjox2Bb.js";import{$ as r}from"../chunks/runtime.BKwOscGd.js";import{h as d}from"../chunks/svelte-head.C2-TBBHu.js";const l=o,h=!0,b=Object.freeze(Object.defineProperty({__proto__:null,csr:l,prerender:h},Symbol.toStringTag,{value:"Module"}));var c=t('<meta name="description" content="Mindfulness Questions And Answers">'),u=t(`<div class="text-column"><h1>Mindfulness Questions And Answers</h1> <details><summary>What's the Definition of Mindfulness?</summary> <div><p><a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is the awareness that arises from paying attention, on purpose, in the
 				present moment, and non-judgmentally. Some expand on the idea of "non-judgmentally"; for
 				example, Diana Winston describes it as being "with curiosity and openness to each
 				experience."</p> <p>The above definition of mindfulness refers to the mental capacity for mindfulness. This
@@ -19,7 +19,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				Without regular effort, mindfulness may weaken. Steady, ongoing practice creates lasting benefits.</p> <p><b>Mindfulness is not about getting rid of thoughts or emotions:</b> Instead of avoiding or suppressing thoughts and feelings, mindfulness involves noticing and accepting
 				them as they arise, without attaching meaning or reacting to them.</p> <p><b>Mindfulness practice is not a mental escape:</b> When applied to daily life, mindfulness encourages engagement with whatever arises in the mind,
 				rather than avoiding it. This distinguishes mindfulness from mental escapes like using substances
-				or getting lost in daydreams.</p></div></details> <details><summary>What is the difference between focusing on a single object in mindfulness and practicing open
+				or getting lost in daydreams.</p></div></details> <details><summary>What's the difference between focusing on a single object in mindfulness and practicing open
 			or choiceless awareness?</summary> <div><p>In mindfulness practice, <b>open awareness</b> refers to a state of staying receptive to whatever
 				arises in the present moment, without choosing a specific object to focus on. This approach contrasts
 				with focusing on a single object, such as the breath, where attention remains steady and fixed.</p> <p>With open awareness, the “object” of meditation naturally shifts as new sensations,
@@ -31,7 +31,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				see the related question here.)</p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
 				minds, as a preparatory step for focused meditation. By starting with a period of open
 				awareness, practitioners allow the mind to settle naturally before gently narrowing their
-				focus to a single object of attention.</p></div></details> <details><summary>What is the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
+				focus to a single object of attention.</p></div></details> <details><summary>What's the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
 				a specific method or exercise, while informal mindfulness practice is about weaving
 				mindfulness into everyday activities, like brushing your teeth, washing the dishes, or
 				eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
@@ -57,7 +57,11 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						benefits for brain health. By training the mind to stay present, mindfulness reduces
 						stress, improves cognitive function, and fosters greater emotional regulation. In
 						contrast, mind wandering can often lead to rumination and heightened anxiety, which can
-						negatively impact both mental well-being and overall brain function.</p></li></ul></div></details> <details><summary>What to do about body tension during meditation?</summary> <div><p>It’s common for tension to build in the body during meditation. Here are some brief
+						negatively impact both mental well-being and overall brain function.</p></li></ul></div></details> <details><summary>What's the difference between meditation and mindfulness practice?</summary> <div><p>Meditation is a formal mindfulness practice where you set aside time to focus and train your
+				mind.</p> <p>You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
+				the application of mindfulness to any activity throughout the day, e.g, when eating,
+				walking, working or talking to someone.</p> <p>In short: meditation is one way to cultivate mindfulness, but mindfulness can be practiced
+				at any time, not just during meditation.</p></div></details> <details><summary>What to do about body tension during meditation?</summary> <div><p>It’s common for tension to build in the body during meditation. Here are some brief
 				suggestions for managing body tension during meditation:</p> <ul><li><b>Intentional Breathing Reset</b> <p>Temporarily shift to intentional breathing: gently take full, long breaths with a longer
 						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
 						This reset procedure generally tends to make the mind less distractible.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
@@ -68,4 +72,4 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						body no longer needs helps further release the tension.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=u();l(s=>{var a=c();r.title="Mindfulness Questions And Answers",e(s,a)}),e(n,i)}export{w as component,b as universal};
+						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=u();d(s=>{var a=c();r.title="Mindfulness Questions And Answers",e(s,a)}),e(n,i)}export{w as component,b as universal};
