@@ -71,7 +71,7 @@
 	</details>
 	<details>
 		<summary
-			>What's the difference between focusing on a single object in mindfulness and practicing open
+			>What's the difference between focusing on a single object in meditation and practicing open
 			or choiceless awareness?
 		</summary>
 		<div>
@@ -108,9 +108,9 @@
 		<div>
 			<p>
 				Formal mindfulness practice involves intentionally setting aside time and space to focus on
-				a specific method or exercise, while informal mindfulness practice is about weaving
-				mindfulness into everyday activities, like brushing your teeth, washing the dishes, or
-				eating. Both types of practices cultivate mindfulness.
+				a specific meditation method or exercise, while informal mindfulness practice is about
+				weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes,
+				or eating. Both types of practices cultivate mindfulness.
 			</p>
 			<p>
 				Informal practice helps life flow more smoothly, with greater ease and presence. It supports
