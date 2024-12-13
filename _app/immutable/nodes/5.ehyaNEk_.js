@@ -57,11 +57,19 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						benefits for brain health. By training the mind to stay present, mindfulness reduces
 						stress, improves cognitive function, and fosters greater emotional regulation. In
 						contrast, mind wandering can often lead to rumination and heightened anxiety, which can
-						negatively impact both mental well-being and overall brain function.</p></li></ul></div></details> <details><summary>What's the difference between meditation and mindfulness practice?</summary> <div><p>Meditation is a formal mindfulness practice where you set aside time to focus and train your
-				mind.</p> <p>You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
+						negatively impact both mental well-being and overall brain function.</p></li></ul></div></details> <details><summary>What's the difference between meditation and mindfulness practice?</summary> <div><p>Meditation can be a variety of practices, used for a variety of purposes, and the world's
+				major religions all have some form of meditation. Mindfulness practices are also varied.
+				When a particular meditation practice cultivates mindfulness either directly or as a
+				side-effect, one can call that a formal (mindfulness) pracctice.</p> <p>You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
 				the application of mindfulness to any activity throughout the day, e.g, when eating,
 				walking, working or talking to someone.</p> <p>In short: meditation is one way to cultivate mindfulness, but mindfulness can be practiced
-				at any time, not just during meditation.</p></div></details> <details><summary>What to do about body tension during meditation?</summary> <div><p>It’s common for tension to build in the body during meditation. Here are some brief
+				at any time, not just during meditation.</p></div></details> <details><summary>What's the difference between prayer and mindfulness practice?</summary> <div><p>Prayer is often a conversation, where we express gratitude, seek guidance, or ask for
+				something. In contrast, mindfulness practice involves cultivating awareness of the present
+				moment without trying to change it. Rather than asking for anything, mindfulness is about
+				learning to be with what is - observing our thoughts, emotions, and sensations without
+				reacting to or getting carried away by them. While the two practices can complement each
+				other, mindfulness offers a way to deepen our ability to meet life as it unfolds, with
+				acceptance and clarity.</p></div></details> <details><summary>What to do about body tension during meditation?</summary> <div><p>It’s common for tension to build in the body during meditation. Here are some brief
 				suggestions for managing body tension during meditation:</p> <ul><li><b>Intentional Breathing Reset</b> <p>Temporarily shift to intentional breathing: gently take full, long breaths with a longer
 						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
 						This reset procedure generally tends to make the mind less distractible.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
@@ -72,4 +80,4 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						body no longer needs helps further release the tension.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=u();d(s=>{var a=c();r.title="Mindfulness Questions And Answers",e(s,a)}),e(n,i)}export{w as component,b as universal};
+						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=u();d(a=>{var s=c();r.title="Mindfulness Questions And Answers",e(a,s)}),e(n,i)}export{w as component,b as universal};
