@@ -193,11 +193,6 @@
 			>
 		</li>
 		<li>
-			<a href="https://www.poemhunter.com/poem/when-you-see-water/" target="_blank">
-				When You See Water - Alice Walker</a
-			>
-		</li>
-		<li>
 			<a
 				href="https://www.saltproject.org/progressive-christian-blog/2015/6/29/the-summer-day"
 				target="_blank"
