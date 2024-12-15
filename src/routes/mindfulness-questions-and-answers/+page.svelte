@@ -184,22 +184,22 @@
 		</div>
 	</details>
 	<details>
-		<summary> What's the difference between meditation and mindfulness practice? </summary>
+		<summary>What's the difference between meditation and mindfulness practice?</summary>
 		<div>
 			<p>
-				Meditation can be a variety of practices, used for a variety of purposes, and the world's
-				major religions all have some form of meditation. Mindfulness practices are also varied.
-				When a particular meditation practice cultivates mindfulness either directly or as a
-				side-effect, one can call that a formal (mindfulness) pracctice.
+				Meditation encompasses a variety of practices used for different purposes across the world's
+				major religions and secular traditions. Mindfulness practice, similarly, takes many forms.
+				When a meditation practice directly cultivates mindfulness - or does so as a side effect -
+				it can be referred to as a formal mindfulness practice.
 			</p>
 			<p>
-				You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
-				the application of mindfulness to any activity throughout the day, e.g, when eating,
-				walking, working or talking to someone.
+				However, mindfulness doesn't require meditation. Informal mindfulness practice involves
+				bringing mindful awareness to any activity throughout the day - for example, eating,
+				walking, working, or talking to someone.
 			</p>
 			<p>
-				In short: meditation is one way to cultivate mindfulness, but mindfulness can be practiced
-				at any time, not just during meditation.
+				In short: meditation is one way to develop mindfulness, but mindfulness can be practiced at
+				any moment, not just during meditation.
 			</p>
 		</div>
 	</details>
