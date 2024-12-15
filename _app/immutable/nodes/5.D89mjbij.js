@@ -63,13 +63,12 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				side-effect, one can call that a formal (mindfulness) pracctice.</p> <p>You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
 				the application of mindfulness to any activity throughout the day, e.g, when eating,
 				walking, working or talking to someone.</p> <p>In short: meditation is one way to cultivate mindfulness, but mindfulness can be practiced
-				at any time, not just during meditation.</p></div></details> <details><summary>What's the difference between prayer and mindfulness practice?</summary> <div><p>Prayer is often a conversation, where we express gratitude, seek guidance, or ask for
-				something. In contrast, mindfulness practice involves cultivating awareness of the present
-				moment without trying to change it. Rather than asking for anything, mindfulness is about
-				learning to be with what is - observing our thoughts, emotions, and sensations without
-				reacting to or getting carried away by them. While the two practices can complement each
-				other, mindfulness offers a way to deepen our ability to meet life as it unfolds, with
-				acceptance and clarity.</p></div></details> <details><summary>What to do about body tension during meditation?</summary> <div><p>It’s common for tension to build in the body during meditation. Here are some brief
+				at any time, not just during meditation.</p></div></details> <details><summary>What's the difference between prayer and mindfulness practice?</summary> <div><p>Prayer can be thought of as a conversation: expressing gratitude, seeking guidance, or
+				asking for something. Mindfulness, on the other hand, involves cultivating awareness of the
+				present moment without trying to change it. Rather than asking for anything, mindfulness is
+				about being with what is - observing thoughts, emotions, and sensations without reacting or
+				getting carried away. Practicing mindfulness can deepen our ability to meet life as it
+				unfolds, with greater clarity and acceptance.</p></div></details> <details><summary>What to do about body tension during meditation?</summary> <div><p>It’s common for tension to build in the body during meditation. Here are some brief
 				suggestions for managing body tension during meditation:</p> <ul><li><b>Intentional Breathing Reset</b> <p>Temporarily shift to intentional breathing: gently take full, long breaths with a longer
 						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
 						This reset procedure generally tends to make the mind less distractible.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
