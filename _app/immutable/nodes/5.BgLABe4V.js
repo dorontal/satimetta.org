@@ -26,7 +26,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b>choiceless awareness</b>, coined by J. Krishnamurti, is often used to describe this practice. It emphasizes the
 				lack of preference for any particular focus, keeping the mind open and observant of the
 				entire experience as it unfolds.</p> <p>Some teachers consider open awareness advanced practice. For individuals with highly
-				distractible minds, this practice can be particularly challenging. Instead of cultivating
+				distractible minds, this practice can be particularly challenging: instead of cultivating
 				mindful openness, the experience may turn into mind wandering. (For more on mind wandering,
 				see the related question here.)</p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
 				minds, as a preparatory step for focused meditation. By starting with a period of open
