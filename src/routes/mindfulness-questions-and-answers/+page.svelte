@@ -207,13 +207,12 @@
 		<summary> What's the difference between prayer and mindfulness practice? </summary>
 		<div>
 			<p>
-				Prayer is often a conversation, where we express gratitude, seek guidance, or ask for
-				something. In contrast, mindfulness practice involves cultivating awareness of the present
-				moment without trying to change it. Rather than asking for anything, mindfulness is about
-				learning to be with what is - observing our thoughts, emotions, and sensations without
-				reacting to or getting carried away by them. While the two practices can complement each
-				other, mindfulness offers a way to deepen our ability to meet life as it unfolds, with
-				acceptance and clarity.
+				Prayer can be thought of as a conversation: expressing gratitude, seeking guidance, or
+				asking for something. Mindfulness, on the other hand, involves cultivating awareness of the
+				present moment without trying to change it. Rather than asking for anything, mindfulness is
+				about being with what is - observing thoughts, emotions, and sensations without reacting or
+				getting carried away. Practicing mindfulness can deepen our ability to meet life as it
+				unfolds, with greater clarity and acceptance.
 			</p>
 		</div>
 	</details>
