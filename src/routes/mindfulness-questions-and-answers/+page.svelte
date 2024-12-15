@@ -91,7 +91,7 @@
 
 			<p>
 				Some teachers consider open awareness advanced practice. For individuals with highly
-				distractible minds, this practice can be particularly challenging. Instead of cultivating
+				distractible minds, this practice can be particularly challenging: instead of cultivating
 				mindful openness, the experience may turn into mind wandering. (For more on mind wandering,
 				see the related question here.)
 			</p>
