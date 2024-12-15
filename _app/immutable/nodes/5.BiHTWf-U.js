@@ -57,13 +57,13 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						benefits for brain health. By training the mind to stay present, mindfulness reduces
 						stress, improves cognitive function, and fosters greater emotional regulation. In
 						contrast, mind wandering can often lead to rumination and heightened anxiety, which can
-						negatively impact both mental well-being and overall brain function.</p></li></ul></div></details> <details><summary>What's the difference between meditation and mindfulness practice?</summary> <div><p>Meditation can be a variety of practices, used for a variety of purposes, and the world's
-				major religions all have some form of meditation. Mindfulness practices are also varied.
-				When a particular meditation practice cultivates mindfulness either directly or as a
-				side-effect, one can call that a formal (mindfulness) pracctice.</p> <p>You don’t have to be meditating to practice mindfulness - informal mindfulness practice is
-				the application of mindfulness to any activity throughout the day, e.g, when eating,
-				walking, working or talking to someone.</p> <p>In short: meditation is one way to cultivate mindfulness, but mindfulness can be practiced
-				at any time, not just during meditation.</p></div></details> <details><summary>What's the difference between prayer and mindfulness practice?</summary> <div><p>Prayer can be thought of as a conversation: expressing gratitude, seeking guidance, or
+						negatively impact both mental well-being and overall brain function.</p></li></ul></div></details> <details><summary>What's the difference between meditation and mindfulness practice?</summary> <div><p>Meditation encompasses a variety of practices used for different purposes across the world's
+				major religions and secular traditions. Mindfulness practice, similarly, takes many forms.
+				When a meditation practice directly cultivates mindfulness - or does so as a side effect -
+				it can be referred to as a formal mindfulness practice.</p> <p>However, mindfulness doesn't require meditation. Informal mindfulness practice involves
+				bringing mindful awareness to any activity throughout the day - for example, eating,
+				walking, working, or talking to someone.</p> <p>In short: meditation is one way to develop mindfulness, but mindfulness can be practiced at
+				any moment, not just during meditation.</p></div></details> <details><summary>What's the difference between prayer and mindfulness practice?</summary> <div><p>Prayer can be thought of as a conversation: expressing gratitude, seeking guidance, or
 				asking for something. Mindfulness, on the other hand, involves cultivating awareness of the
 				present moment without trying to change it. Rather than asking for anything, mindfulness is
 				about being with what is - observing thoughts, emotions, and sensations without reacting or
@@ -79,4 +79,4 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 						body no longer needs helps further release the tension.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
 						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
 						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=u();d(a=>{var s=c();r.title="Mindfulness Questions And Answers",e(a,s)}),e(n,i)}export{w as component,b as universal};
+						location where there is pain or tension.</p></li></ul></div></details></div>`);function w(n){var i=u();d(s=>{var a=c();r.title="Mindfulness Questions And Answers",e(s,a)}),e(n,i)}export{w as component,b as universal};
