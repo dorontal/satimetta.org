@@ -97,7 +97,7 @@
 		<div>
 			<ul>
 				<li>
-					<h4>Philadelphia Industrial Correctional Center (November 12, 2024 - Present)</h4>
+					<h4>Philadelphia Industrial Correctional Center (November, 2024 - Present)</h4>
 					<p>
 						Facilitating the <a
 							href="https://www.prisonmindfulness.org/path-of-freedom"
@@ -113,7 +113,7 @@
 					</p>
 				</li>
 				<li>
-					<h4>Kennedy House, Philadelphia Mindfulness class (October 24, 2024 - Present)</h4>
+					<h4>Kennedy House, Philadelphia Mindfulness class (October, 2024 - Present)</h4>
 					<p>Introductory Mindfulness class - one hour a week for ten weeks.</p>
 				</li>
 				<li>
