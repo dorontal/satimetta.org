@@ -22,16 +22,17 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				or getting lost in daydreams.</p></div></details> <details><summary>What's the difference between focusing on a single object in meditation and practicing open
 			or choiceless awareness?</summary> <div><p>In mindfulness practice, <b>open awareness</b> refers to a state of staying receptive to whatever
 				arises in the present moment, without choosing a specific object to focus on. This approach contrasts
-				with focusing on a single object, such as the breath, where attention remains steady and fixed.</p> <p>With open awareness, the “object” of meditation naturally shifts as new sensations,
-				thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b>choiceless awareness</b>, coined by J. Krishnamurti, is often used to describe this practice. It emphasizes the
-				lack of preference for any particular focus, keeping the mind open and observant of the
-				entire experience as it unfolds.</p> <p>Some teachers consider open awareness advanced practice. For individuals with highly
-				distractible minds, this practice can be particularly challenging: instead of cultivating
-				mindful openness, the experience may turn into mind wandering. (For more on mind wandering,
-				see the related question here.)</p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
-				minds, as a preparatory step for focused meditation. By starting with a period of open
-				awareness, practitioners allow the mind to settle naturally before gently narrowing their
-				focus to a single object of attention.</p></div></details> <details><summary>What's the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
+				with focusing on a single object, such as the breath, where attention remains fixed.</p> <p>With open awareness, the “object” of meditation naturally shifts as new sensations,
+				thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b>choiceless awareness</b>, coined by J. Krishnamurti, is also used to describe this practice. It emphasizes the lack
+				of preference for any particular focus, keeping the mind open and observant of the entire
+				experience as it unfolds.</p> <p>Open awareness is an advanced practice. For individuals with highly distractible minds or
+				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
+				openness, the experience may easily slip into mind-wandering. <em>(For more on mind-wandering, see the related question here.)</em></p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
+				minds or those new to mindfulness, as an <em>initial preparatory step</em> for focused meditation.
+				By starting with open awareness, practitioners ease the transition from the scattered, everyday
+				state of thinking about anything to focusing on just one thing. Open awareness first settles
+				the mind into the present moment, creating a gentle bridge toward this more refined focus on
+				just one object.</p></div></details> <details><summary>What's the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
 				a specific meditation method or exercise, while informal mindfulness practice is about
 				weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes,
 				or eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
