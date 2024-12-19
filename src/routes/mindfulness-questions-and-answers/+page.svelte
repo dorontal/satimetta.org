@@ -92,10 +92,7 @@
 			<p>
 				Open awareness is an advanced practice. For individuals with highly distractible minds or
 				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
-				openness, the experience may easily slip into mind-wandering. <em
-					>(For more on mind-wandering, see the related question here by searching for 'mind
-					wandering' in this page.)</em
-				>
+				openness, the experience may easily slip into mind-wandering.
 			</p>
 			<p>
 				However, open awareness can serve a valuable role, even for people with highly distractible
