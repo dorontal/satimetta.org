@@ -78,28 +78,31 @@
 			<p>
 				In mindfulness practice, <b>open awareness</b> refers to a state of staying receptive to whatever
 				arises in the present moment, without choosing a specific object to focus on. This approach contrasts
-				with focusing on a single object, such as the breath, where attention remains steady and fixed.
+				with focusing on a single object, such as the breath, where attention remains fixed.
 			</p>
 			<p>
 				With open awareness, the “object” of meditation naturally shifts as new sensations,
 				thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b
 					>choiceless awareness</b
-				>, coined by J. Krishnamurti, is often used to describe this practice. It emphasizes the
-				lack of preference for any particular focus, keeping the mind open and observant of the
-				entire experience as it unfolds.
+				>, coined by J. Krishnamurti, is also used to describe this practice. It emphasizes the lack
+				of preference for any particular focus, keeping the mind open and observant of the entire
+				experience as it unfolds.
 			</p>
 
 			<p>
-				Some teachers consider open awareness advanced practice. For individuals with highly
-				distractible minds, this practice can be particularly challenging: instead of cultivating
-				mindful openness, the experience may turn into mind wandering. (For more on mind wandering,
-				see the related question here.)
+				Open awareness is an advanced practice. For individuals with highly distractible minds or
+				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
+				openness, the experience may easily slip into mind-wandering. <em
+					>(For more on mind-wandering, see the related question here.)</em
+				>
 			</p>
 			<p>
 				However, open awareness can serve a valuable role, even for people with highly distractible
-				minds, as a preparatory step for focused meditation. By starting with a period of open
-				awareness, practitioners allow the mind to settle naturally before gently narrowing their
-				focus to a single object of attention.
+				minds or those new to mindfulness, as an <em>initial preparatory step</em> for focused meditation.
+				By starting with open awareness, practitioners ease the transition from the scattered, everyday
+				state of thinking about anything to focusing on just one thing. Open awareness first settles
+				the mind into the present moment, creating a gentle bridge toward this more refined focus on
+				just one object.
 			</p>
 		</div>
 	</details>
