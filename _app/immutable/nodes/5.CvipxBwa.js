@@ -28,11 +28,11 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t,a as e}from"../chunks/d
 				experience as it unfolds.</p> <p>Open awareness is an advanced practice. For individuals with highly distractible minds or
 				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
 				openness, the experience may easily slip into mind-wandering.</p> <p>However, open awareness can serve a valuable role, even for people with highly distractible
-				minds or those new to mindfulness, as an <em>initial preparatory step</em> for focused meditation.
-				By starting with open awareness, practitioners ease the transition from the scattered, everyday
-				state of thinking about anything to focusing on just one thing. Open awareness first settles
-				the mind into the present moment, creating a gentle bridge toward this more refined focus on
-				just one object.</p></div></details> <details><summary>What's the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
+				minds or those new to mindfulness, as an initial <b>preparatory step</b> for focused meditation.
+				By starting with open awareness, practitioners can ease the transition from a scattered, everyday
+				state of thinking about anything to focusing on just one thing. Open awareness helps settle the
+				mind into the present moment, creating a gentle bridge toward a more refined focus on a single
+				object.</p></div></details> <details><summary>What's the difference between formal and informal mindfulness practice?</summary> <div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus on
 				a specific meditation method or exercise, while informal mindfulness practice is about
 				weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes,
 				or eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
