@@ -97,10 +97,10 @@
 			<p>
 				However, open awareness can serve a valuable role, even for people with highly distractible
 				minds or those new to mindfulness, as an initial <b>preparatory step</b> for focused meditation.
-				By starting with open awareness, practitioners can ease the transition from a scattered, everyday
-				state of thinking about anything to focusing on just one thing. Open awareness helps settle the
-				mind into the present moment, creating a gentle bridge toward a more refined focus on a single
-				object.
+				Starting with open awareness helps ease the transition from a scattered, everyday state of thinking
+				about anything to focusing on just one thing. A brief period of open awareness at the start of
+				a session allows the mind to settle naturally into the present moment, creating a gentle bridge
+				toward refined focus on a single object.
 			</p>
 		</div>
 	</details>
