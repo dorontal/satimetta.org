@@ -41,10 +41,14 @@
 		<div>
 			<p>Some common misconceptions about mindfulness:</p>
 			<p>
-				<b>Mindfulness is not the same as mindfulness practice:</b>
-				Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
-				practice, which is a regular routine to cultivate this skill. 'Mindfulness practice' and 'meditation'
-				are used synonymously here.
+				<b>Mindfulness</b> is not the same as <b>mindfulness practice</b>:
+				<b>Mindfulness</b> is a quality of the mind (here's a
+				<a href="#definition-of-mindfulness">more elaborate definition</a>) that can be strengthened
+				through <b>mindfulness practice</b> - a regular routine to cultivate this skill - just as a
+				muscle can be strengthened via repeated workout. <b>Mindfulness practice</b> and
+				<b>meditation</b>
+				are used synonymously here, but for a more nuanced distinction you can jump to
+				<a href="#difference-between-meditation-and-mindfulness-practicce">this question</a>.
 			</p>
 			<p>
 				<b>Mindfulness practice is not the same as relaxation:</b>
