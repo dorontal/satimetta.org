@@ -17,13 +17,12 @@
 				</a>
 			</div>
 			<p class="intro-text">
-				This space offers resources for developing mindfulness and loving kindness. These practices
-				have been valued for thousands of years. Today their benefits are recognized from both
-				traditional and scientific perspectives. Here, you can find Doron Tal's mindfulness-related <a
-					href="/about-doron-tal">background</a
-				><!-- , class <a href="/events">schedule</a> -->
+				This space provides resources for developing mindfulness and loving-kindness: practices
+				valued for thousands of years and now supported by both traditional wisdom and modern
+				science. Here, you’ll find Doron Tal’s <a href="/about-doron-tal"> related background</a>
 				and curated
-				<a href="/resources">resources</a>.
+				<a href="/resources">resources</a> to help you cultivate these qualities in daily life and to
+				support ongoing instruction.
 			</p>
 		</div>
 	</div>
