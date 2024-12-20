@@ -6,7 +6,7 @@
 <div class="text-column">
 	<h1>Mindfulness Questions And Answers</h1>
 	<details>
-		<summary>What's the Definition of Mindfulness?</summary>
+		<summary id="definition-of-mindfulness">What's the Definition of Mindfulness?</summary>
 		<div>
 			<p>
 				<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
@@ -37,7 +37,7 @@
 		</div>
 	</details>
 	<details>
-		<summary>What Mindfulness is Not</summary>
+		<summary id="what-mindfulness-is-not">What Mindfulness is Not</summary>
 		<div>
 			<p>Some common misconceptions about mindfulness:</p>
 			<p>
@@ -71,6 +71,7 @@
 	</details>
 	<details>
 		<summary
+			id="difference-between-focusing-on-a-single-object-in-meditation-and-practicing-open-awareness"
 			>What's the difference between focusing on a single object in meditation and practicing open
 			or choiceless awareness?
 		</summary>
@@ -92,7 +93,9 @@
 			<p>
 				Open awareness is an advanced practice. For individuals with highly distractible minds or
 				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
-				openness, the experience may easily slip into mind-wandering.
+				openness, the experience may easily slip into <a
+					href="#how-does-mindfulness-practice-differ-from-mind-wandering">mind-wandering</a
+				>.
 			</p>
 			<p>
 				However, open awareness can serve a valuable role, even for people with highly distractible
@@ -105,7 +108,9 @@
 		</div>
 	</details>
 	<details>
-		<summary>What's the difference between formal and informal mindfulness practice?</summary>
+		<summary id="difference-between-formal-and-informal-mindfulness-practice"
+			>What's the difference between formal and informal mindfulness practice?</summary
+		>
 		<div>
 			<p>
 				Formal mindfulness practice involves intentionally setting aside time and space to focus on
@@ -136,7 +141,9 @@
 		</div>
 	</details>
 	<details>
-		<summary>How Does Mindfulness Practice Differ from Mind Wandering?</summary>
+		<summary id="how-does-mindfulness-practice-differ-from-mind-wandering"
+			>How Does Mindfulness Practice Differ from Mind Wandering?</summary
+		>
 		<div>
 			<p>
 				When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
@@ -185,7 +192,9 @@
 		</div>
 	</details>
 	<details>
-		<summary>What's the difference between meditation and mindfulness practice?</summary>
+		<summary id="difference-between-meditation-and-mindfulness-practicce"
+			>What's the difference between meditation and mindfulness practice?</summary
+		>
 		<div>
 			<p>
 				Meditation encompasses a variety of practices used for different purposes across the world's
@@ -205,7 +214,9 @@
 		</div>
 	</details>
 	<details>
-		<summary> What's the difference between prayer and mindfulness practice? </summary>
+		<summary id="difference-between-prayer-and-mindfulness-practice">
+			What's the difference between prayer and mindfulness practice?
+		</summary>
 		<div>
 			<p>
 				Prayer can be thought of as a conversation: expressing gratitude, seeking guidance, or
@@ -218,7 +229,9 @@
 		</div>
 	</details>
 	<details>
-		<summary>What to do about body tension during meditation?</summary>
+		<summary id="what-to-do-about-body-tension-during-meditation"
+			>What to do about body tension during meditation?</summary
+		>
 		<div>
 			<p>
 				It’s common for tension to build in the body during meditation. Here are some brief
