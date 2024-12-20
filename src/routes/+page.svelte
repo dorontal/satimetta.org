@@ -18,8 +18,8 @@
 			</div>
 			<p class="intro-text">
 				This space offers resources for developing mindfulness and loving kindness. These practices
-				have been valued for centuries. Today their benefits are recognized from both traditional
-				and scientific perspectives. Here, you can find Doron Tal's mindfulness-related <a
+				have been valued for thousands of years. Today their benefits are recognized from both
+				traditional and scientific perspectives. Here, you can find Doron Tal's mindfulness-related <a
 					href="/about-doron-tal">background</a
 				><!-- , class <a href="/events">schedule</a> -->
 				and curated
