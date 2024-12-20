@@ -13,7 +13,7 @@ import{d as o}from"../chunks/index.CBNyrWlD.js";import{t as n,a as e}from"../chu
 				to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation session,
 				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is
 				applied to everyday activities.</p></div></details> <details><summary id="what-mindfulness-is-not">What Mindfulness is Not</summary> <div><p>Some common misconceptions about mindfulness:</p> <p><b>Mindfulness is not the same as mindfulness practice:</b> Mindfulness is a quality of the mind, like a "muscle." It can be strengthened through mindfulness
-				practice, which is a regular routine to cultivate this skill.'Mindfulness practice' and 'meditation'
+				practice, which is a regular routine to cultivate this skill. 'Mindfulness practice' and 'meditation'
 				are used synonymously here.</p> <p><b>Mindfulness practice is not the same as relaxation:</b> While mindfulness practice may lead to calmness, its purpose is not relaxation. It’s about paying
 				attention to the present moment - whatever it holds - with openness, curiosity, and kindness.</p> <p><b>Mindfulness practice is not a quick fix:</b> Like building physical strength at the gym, mindfulness develops gradually with consistent practice.
 				Without regular effort, mindfulness may weaken. Steady, ongoing practice creates lasting benefits.</p> <p><b>Mindfulness is not about getting rid of thoughts or emotions:</b> Instead of avoiding or suppressing thoughts and feelings, mindfulness involves noticing and accepting
