@@ -123,12 +123,10 @@
 				or eating. Both types of practices cultivate mindfulness.
 			</p>
 			<p>
-				Informal mindfulness practice is the application of mindful awareness to everyday
-				activities, for example, eating, walking, or speaking. Informal practice helps life flow
-				more smoothly, with greater ease and presence. It supports a calm, attentive state that
-				enhances daily interactions, decisions, and overall well-being, but on its own may not lead
-				to real progress. Formal practice provides depth and continuity that strengthen informal
-				mindfulness and make it more effective throughout the day.
+				Informal practice helps life flow more smoothly, with greater ease and presence. It supports
+				a calm, attentive state that enhances daily interactions, decisions, and overall well-being,
+				but on its own may not lead to real progress. Formal practice provides depth and continuity
+				that strengthen informal mindfulness and make it more effective throughout the day.
 			</p>
 			<p>
 				Formal practice has (much) greater potential to bring the mind to deeper states of
