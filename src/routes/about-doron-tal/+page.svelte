@@ -216,12 +216,41 @@
 					</p>
 				</li>
 				<li>
+					<h4>Ph. D. in Neuroscience, Boston University (1997)</h4>
+					<p>
+						Worked on mechanisms of vision in the brain, mostly from a theoretical perspective, with
+						thesis adviser Eric L. Schwartz.
+					</p>
+				</li>
+				<li>
 					<h4>A Talk by His Holiness the Dalai Lama (1991)</h4>
 					<p>
 						Attended a talk by his Holiness the Dalai Lama, titled <a
 							href="https://www.youtube.com/watch?v=_2G-4m4y8Ss"
 							target="_blank">"Overcoming Differences"</a
 						>. This catalyzed further study of his work, mostly in the area of loving-kindness.
+					</p>
+				</li>
+				<li>
+					<h4>Tai Chi and Qigong (1988 - Present)</h4>
+					<p>
+						Tai Chi is one form of moving meditation. Studied and practiced the
+						<a href="https://www.youtube.com/watch?v=3_BKwlpOAkk" target="_blank">
+							Yang Style Short Form of Prof. Chen Man Ching</a
+						>
+						under the instruction of Katherine Hannah,
+						<a href="https://www.youtube.com/watch?v=6rLG3Ys-wIU" target="_blank">Maggie Newman</a>,
+						<a
+							href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
+							target="_blank">Sifu William Dere</a
+						>, and since the late 80's, with
+						<a href="https://www.williamccchen.com" target="_blank"
+							>Great Grandmaster William C. C. Chen</a
+						>. In 1989 I learned a Qigong (Chi Kung) set for spine healing, strengthening and
+						stretching, created by Master Jiao Guo Ryu, from
+						<a href="https://www.eomega.org/workshops/teachers/robert-tangora" target="_blank">
+							Robert Tangora</a
+						>. Qigong is also a form of moving meditation.
 					</p>
 				</li>
 			</ul>
