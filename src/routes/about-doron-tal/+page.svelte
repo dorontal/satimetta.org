@@ -218,7 +218,7 @@
 				<li>
 					<h4>Neuroscience Ph. D. (1997)</h4>
 					<p>
-						With with advisor <a href="https://en.wikipedia.org/wiki/Eric_L._Schwartz"
+						With advisor <a href="https://en.wikipedia.org/wiki/Eric_L._Schwartz"
 							>Eric L. Schwartz</a
 						> at Boston University's Department of Cognitive and Neural Systems.
 					</p>
