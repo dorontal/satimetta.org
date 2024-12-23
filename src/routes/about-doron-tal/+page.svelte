@@ -127,7 +127,7 @@
 		</div>
 	</details>
 	<details>
-		<summary>Classes and Trainings</summary>
+		<summary>Training</summary>
 		<div>
 			<ul>
 				<li>
@@ -216,10 +216,11 @@
 					</p>
 				</li>
 				<li>
-					<h4>Ph. D. in Neuroscience, Boston University (1997)</h4>
+					<h4>Neuroscience Ph. D. (1997)</h4>
 					<p>
-						Worked on mechanisms of vision in the brain, mostly from a theoretical perspective, with
-						thesis adviser Eric L. Schwartz.
+						With with advisor <a href="https://en.wikipedia.org/wiki/Eric_L._Schwartz"
+							>Eric L. Schwartz</a
+						> at Boston University's Department of Cognitive and Neural Systems.
 					</p>
 				</li>
 				<li>
