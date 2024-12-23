@@ -99,15 +99,15 @@
 				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
 				openness, the experience may easily slip into <a
 					href="#how-does-mindfulness-practice-differ-from-mind-wandering">mind-wandering</a
-				>.
+				>. For such individuals, it is advisable to still the mind first, e.g, via mindfulness of
+				breathing, before switching to open awareness.
 			</p>
 			<p>
-				However, open awareness can serve a valuable role, even for people with highly distractible
-				minds or those new to mindfulness, as an initial <b>preparatory step</b> for focused meditation.
-				Starting with open awareness helps ease the transition from a scattered, everyday state of thinking
-				about anything to focusing on just one thing. A brief period of open awareness at the start of
-				a session allows the mind to settle naturally into the present moment, creating a gentle bridge
-				toward refined focus on a single object.
+				However, open awareness can serve a valuable role as an initial <b>preparatory step</b> for focused
+				meditation. Starting with open awareness helps ease the transition from a scattered, everyday
+				state of thinking about anything to focusing on just one thing. A brief period of open awareness
+				at the start of a session allows the mind to settle naturally into the present moment, creating
+				a gentle bridge toward refined focus on a single object.
 			</p>
 		</div>
 	</details>
