@@ -141,6 +141,14 @@
 				IMTA Mindfulness Infographic
 			</a>
 		</li>
+		<li>
+			<a
+				href="https://insighttimer.com/blog/back-pain-meditation-neck/"
+				target="_blank"
+			>
+				An article on body pain during meditation, with guided meditations 
+			</a>
+		</li>
 	</ul>
 	<h3>Mindfulness Related Research</h3>
 	<ul>
