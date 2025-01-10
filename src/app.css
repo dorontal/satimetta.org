@@ -1,204 +1,23 @@
-@import '@fontsource/fira-mono';
-
-/*
-@media (prefers-color-scheme: light) {
-*/
-	:root {
-		--font-body: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-			Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-		--font-mono: 'Fira Mono', monospace;
-		--color-bg-0: rgb(202, 216, 228);
-		--color-bg-1: hsl(209, 36%, 86%);
-		--color-bg-2: hsl(224, 44%, 95%);
-		--color-theme-1: #ff3e00;
-		--color-theme-2: #4075a6;
-		--color-text: rgba(0, 0, 0, 0.7);
-		--column-width: 42rem;
-		--column-margin-top: 4rem;
-		font-family: var(--font-body);
-		color: var(--color-text);
-	}
-/*
-}
-
-@media (prefers-color-scheme: dark) {
-	:root {
-		--font-body: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-			Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-		--font-mono: 'Fira Mono', monospace;
-		--color-bg-0: rgb(53, 39, 27);	
-		--color-bg-1: hsl(28.9, 80%, 39%);
-		--color-bg-2: hsl(43.6, 44%, 5%);
-		--color-theme-1: #ff3e00;
-		--color-theme-2: #4075a6;
-		--color-text: rgba(255, 255, 255, 0.7);
-		--column-width: 42rem;
-		--column-margin-top: 4rem;
-		font-family: var(--font-body);
-		color: var(--color-text);
-	}
-}
-*/
-
-/* NOTE: replacing body { ... } section of the original scaffolded Svelte app with two
-         sections: one for body { ... } and one for body::before { ... } - this was done
-		 to ensure that the background does not scroll together with the text when the
-		 page scrolls but remains fixed. 
-
-body {
-	min-height: 100vh;
-	margin: 0;
-	background-attachment: fixed;
-	background-color: var(--color-bg-1);
-	background-size: 100vw 100vh;
-	background-image: radial-gradient(
-			50% 50% at 50% 50%,
-			rgba(255, 255, 255, 0.75) 0%,
-			rgba(255, 255, 255, 0) 100%
-		),
-		linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
-}
-*/
-
-body {
-	min-height: 100vh;
-	margin: 0;
-	font-family: var(--font-body);
-	color: var(--color-text);
-	overflow-x: hidden;
-	position: relative;
-	/* Set up positioning for the ::before element */
-}
-
-body::before {
-	content: "";
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	background-attachment: fixed;
-	background-size: cover;
-	background-image: linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 35%, var(--color-bg-2) 60%);
-	z-index: -1;
-	/* Ensures the background stays behind all other content */
-}
-
-h1,
-h2,
-p {
-	font-weight: 400;
-}
-
-p {
-	line-height: 1.5;
-}
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
 a {
-	color: var(--color-theme-1);
-	text-decoration: none;
+    @apply anchor;
 }
 
-a:hover {
-	text-decoration: underline;
+dt {
+    @apply font-bold;
 }
 
-h1 {
-	font-size: 2rem;
-	text-align: center;
+dl {
+    @apply space-y-4;
 }
 
-h2 {
-	font-size: 1rem;
+p {
+    @apply mb-4;
 }
 
-pre {
-	font-size: 16px;
-	font-family: var(--font-mono);
-	background-color: rgba(255, 255, 255, 0.45);
-	border-radius: 3px;
-	box-shadow: 2px 2px 6px rgb(255 255 255 / 25%);
-	padding: 0.5em;
-	overflow-x: auto;
-	color: var(--color-text);
-}
-
-.text-column {
-	display: flex;
-	max-width: 48rem;
-	flex: 0.6;
-	flex-direction: column;
-	justify-content: center;
-	margin: 0 auto;
-}
-
-input,
-button {
-	font-size: inherit;
-	font-family: inherit;
-}
-
-button:focus:not(:focus-visible) {
-	outline: none;
-}
-
-@media (min-width: 720px) {
-	h1 {
-		font-size: 2.4rem;
-	}
-}
-
-.visually-hidden {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: auto;
-	margin: 0;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
-	white-space: nowrap;
-}
-
-/*
- <details> and <summary> are for accordions
-*/
-details {
-	background-color: var(--color-bg-0);
-	/* text background */
-	font-size: 1.1rem;
-	margin-bottom: 0.5em;
-	/*separation of each question from another */
-}
-
-summary {
-	padding: 0.5em 1.3rem;
-	font-size: 1.3rem;
-	list-style: none;
-	display: flex;
-	justify-content: space-between;
-	transition: height 1s ease;
-	cursor: pointer;
-}
-
-summary::-webkit-details-marker {
-	display: none;
-}
-
-summary:after {
-	padding-left: 1rem;
-	content: '\002B';
-}
-
-details[open] summary {
-	border-bottom: 1px solid #aaa;
-	margin-bottom: 0.5em;
-}
-
-details[open] summary:after {
-	content: '\00D7';
-}
-
-details[open] div {
-	padding: 0.5em 1em;
+ul {
+    @apply list-disc pl-6 space-y-1;
 }

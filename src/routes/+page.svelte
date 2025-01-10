@@ -3,28 +3,22 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Doron Tal Mindfulness Background" />
+	<meta name="description" content="Mindfulness Cultivation - Doron Tal" />
 </svelte:head>
 
 <section>
-	<h1>Mindfulness Cultivation</h1>
 	<div class="intro-container">
-		<div class="intro-container">
-			<div class="circle-image">
-				<a href="/about-doron-tal">
-					<img src={doronPhotoSrc} alt="Doron Tal" />
-				</a>
-			</div>
-			<p class="intro-text">
-				This space provides resources for developing mindfulness and loving-kindness: practices
-				valued for thousands of years and now supported by both traditional wisdom and modern
-				science. Here, you’ll find Doron Tal’s <a href="/about-doron-tal"> related background</a>
-				and curated
-				<a href="/resources">resources</a> to help you cultivate these qualities in daily life and to
-				support ongoing instruction.
-			</p>
+		<div class="circle-image">
+			<a href="/about-doron-tal">
+				<img src={doronPhotoSrc} alt="Doron Tal" />
+			</a>
 		</div>
+		<p class="intro-text">
+			This space provides resources for developing mindfulness and loving-kindness: practices valued
+			for thousands of years and now supported by both traditional wisdom and modern science. Here,
+			you'll find Doron Tal's related background, and curated resources to help you cultivate these
+			qualities in daily life and to support ongoing instruction.
+		</p>
 	</div>
 </section>
 
@@ -37,10 +31,6 @@
 		max-width: 90%;
 		align-items: center;
 		flex: 0.6;
-	}
-
-	section h1 {
-		max-width: 80%;
 	}
 
 	.intro-container {
