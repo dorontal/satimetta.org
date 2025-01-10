@@ -1,7 +1,7 @@
 # README.md
 
 This is the website of meditation / mindfulness teacher / facilitator
-Doron Tal, located at satimetta.org, used to support ongoing instruction.
+Doron Tal, located at `satimetta.org`, used to support ongoing instruction.
 
 ## Development notes
 
