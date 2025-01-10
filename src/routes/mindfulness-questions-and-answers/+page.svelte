@@ -116,8 +116,8 @@
 				<p>
 					Open awareness is an advanced practice. For individuals with highly distractible minds or
 					those new to mindfulness, it can be particularly challenging. Instead of cultivating
-					mindful openness, the experience may easily slip into (see question about how mindfulness
-					differs from mind-wandering). For such individuals, it is advisable to still the mind
+					mindful openness, the experience may easily slip into mind-wandering (see question about how mindfulness
+					differs from mind-wandering). For most people, it is advisable to still the mind
 					first, e.g, via mindfulness of breathing, before switching to open awareness.
 				</p>
 				<p>
