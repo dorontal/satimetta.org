@@ -1,6 +1,7 @@
 {
     "name": "satimetta.org",
-    "version": "0.0.0",
+    "author": "Doron Tal",
+    "version": "0.0.1",
     "scripts": {
         "dev": "vite dev",
         "build": "vite build",
