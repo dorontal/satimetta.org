@@ -13,7 +13,7 @@
 				<img src={doronPhotoSrc} alt="Doron Tal" />
 			</a>
 		</div>
-		<p class="intro-text">
+		<p>
 			This space provides resources for developing mindfulness and loving-kindness: practices valued
 			for thousands of years and now supported by both traditional wisdom and modern science. Here,
 			you'll find Doron Tal's related background, and curated resources to help you cultivate these

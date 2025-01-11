@@ -64,10 +64,10 @@
 			return 'Mindfulness Cultivation';
 		} else if (path === '/about-doron-tal') {
 			return 'Doron Tal - Background';
-		} else if (path === '/mindfulness-resources') {
-			return 'Mindfulness Resources';
 		} else if (path === '/mindfulness-questions-and-answers') {
 			return 'Mindfulness Q&A';
+		} else if (path === '/mindfulness-links') {
+			return 'Mindfulness Links';
 		}
 		return 'Mindfulness Cultivation'; // Default text
 	}
@@ -132,20 +132,20 @@
 							<IconHome />
 						</Navigation.Tile>
 						<Navigation.Tile
-							id="2"
-							labelExpanded="Mindfulness Resources"
-							href="/mindfulness-resources"
-							selected={page.url.pathname === '/mindfulness-resources'}
-						>
-							<IconLink />
-						</Navigation.Tile>
-						<Navigation.Tile
 							id="3"
 							labelExpanded="Mindfulness Q&A"
 							href="/mindfulness-questions-and-answers"
 							selected={page.url.pathname === '/mindfulness-questions-and-answers'}
 						>
 							<CircleHelp />
+						</Navigation.Tile>
+						<Navigation.Tile
+							id="2"
+							labelExpanded="Mindfulness Links"
+							href="/mindfulness-links"
+							selected={page.url.pathname === '/mindfulness-links'}
+						>
+							<IconLink />
 						</Navigation.Tile>
 						<Navigation.Tile
 							id="1"
