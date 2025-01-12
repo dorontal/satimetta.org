@@ -105,6 +105,10 @@
 		{#snippet panel()}
 			<dl>
 				<div>
+					<dt>Kennedy House, Philadelphia Mindfulness class (January, 2025 - Present)</dt>
+					<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
+				</div>
+				<div>
 					<dt>Philadelphia Industrial Correctional Center (November, 2024 - Present)</dt>
 					<dd>
 						Facilitating the <a
@@ -119,10 +123,6 @@
 						>
 						to incarcerated individuals - one hour a week for ten weeks.
 					</dd>
-				</div>
-				<div>
-					<dt>Kennedy House, Philadelphia Mindfulness class (January, 2025 - Present)</dt>
-					<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 				</div>
 				<div>
 					<dt>Kennedy House, Philadelphia Mindfulness class (October, 2024 - January, 2025)</dt>
