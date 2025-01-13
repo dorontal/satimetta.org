@@ -12,7 +12,7 @@
 	/>
 </svelte:head>
 
-<Accordion {value} multiple classes="opacity-70">
+<Accordion {value} multiple classes="opacity-90">
 	<Accordion.Item value="definition-of-mindfulness">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
 		{#snippet control()}What's the Definition of Mindfulness?{/snippet}
