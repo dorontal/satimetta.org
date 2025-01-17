@@ -16,7 +16,7 @@ export default {
     skeleton({
       // NOTE: each theme included will increase the size of your CSS bundle
       themes: [
-        themes.vintage
+        themes.cerberus
         /* 
         themes.catppuccin,
         themes.cerberus,
