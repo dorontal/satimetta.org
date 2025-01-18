@@ -17,10 +17,18 @@
 			<ul>
 				<li>
 					<a
-						href="https://insighttimer.com/chelseapottenger/guided-meditations/10-minute-body-scan"
+						href="https://insighttimer.com/marylovegrove/guided-meditations/10-minute-body-scan-8"
 						target="_blank"
 					>
-						10-minute body scan - Chelsea Pottenger</a
+						10-minute body scan - Mary Lovegrove</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://insighttimer.com/rubyknafo/guided-meditations/body-scan-11-minutes"
+						target="_blank"
+					>
+						11-minute body scan - Ruby Knafo</a
 					>
 				</li>
 				<li>
