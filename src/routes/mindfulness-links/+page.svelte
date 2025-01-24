@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { Accordion } from '@skeletonlabs/skeleton-svelte';
 	import Diamond from 'lucide-svelte/icons/diamond';
+	import aob22 from '$lib/audio/mindfulness-of-breathing-22-minutes.mp3';
+
 	// State - provides 'value' needed for accordion
 	const value = $state([]);
 </script>
@@ -73,6 +75,12 @@
 					>
 						20-minute guided breath meditation - Steve Hickman</a
 					>
+				</li>
+				<li>
+					22-minute mindfulness of breathing guided meditation - Doron Tal:
+					<audio src={aob22} controls>
+						<track kind="captions" />
+					</audio>
 				</li>
 			</ul>
 		{/snippet}
@@ -178,7 +186,8 @@
 					<a href="https://imta.org" target="_blank">
 						International Mindfulness Teachers Association (IMTA)
 					</a>
-					/ <a
+					/
+					<a
 						href="https://cdn.ymaws.com/imta.site-ym.com/resource/resmgr/IMTA_Infographic_final.pdf"
 						target="_blank"
 					>
@@ -186,11 +195,8 @@
 					</a>
 				</li>
 				<li>
-					<a
-						href="https://insighttimer.com/blog/back-pain-meditation-neck/"
-						target="_blank"
-					>
-						An article on body pain during meditation, with guided meditations 
+					<a href="https://insighttimer.com/blog/back-pain-meditation-neck/" target="_blank">
+						An article on body pain during meditation, with guided meditations
 					</a>
 				</li>
 			</ul>
