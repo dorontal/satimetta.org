@@ -66,8 +66,8 @@
 			return 'Doron Tal - Background';
 		} else if (path === '/mindfulness-questions-and-answers') {
 			return 'Mindfulness Q&A';
-		} else if (path === '/mindfulness-links') {
-			return 'Mindfulness Links';
+		} else if (path === '/mindfulness-resources') {
+			return 'Mindfulness Resources';
 		}
 		return 'Mindfulness Cultivation'; // Default text
 	}
@@ -141,9 +141,9 @@
 						</Navigation.Tile>
 						<Navigation.Tile
 							id="2"
-							labelExpanded="Mindfulness Links"
-							href="/mindfulness-links"
-							selected={page.url.pathname === '/mindfulness-links'}
+							labelExpanded="Mindfulness Resources"
+							href="/mindfulness-resources"
+							selected={page.url.pathname === '/mindfulness-resources'}
 						>
 							<IconLink />
 						</Navigation.Tile>
