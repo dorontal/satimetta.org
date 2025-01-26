@@ -22,7 +22,7 @@
 						href="https://insighttimer.com/marylovegrove/guided-meditations/10-minute-body-scan-8"
 						target="_blank"
 					>
-						10-minute body scan - Mary Lovegrove</a
+						10 minutes - Mary Lovegrove</a
 					>
 				</li>
 				<li>
@@ -30,7 +30,7 @@
 						href="https://insighttimer.com/rubyknafo/guided-meditations/body-scan-11-minutes"
 						target="_blank"
 					>
-						11-minute body scan - Ruby Knafo</a
+						11 minutes - Ruby Knafo</a
 					>
 				</li>
 				<li>
@@ -38,7 +38,7 @@
 						href="https://soundcloud.com/ucsdmindfulness/20-min-body-scan-by-steve-hickman"
 						target="_blank"
 					>
-						20-minute body scan - Steve Hickman</a
+						20 minutes - Steve Hickman</a
 					>
 				</li>
 				<li>
@@ -46,7 +46,7 @@
 						href="https://soundcloud.com/ucsdmindfulness/45-minute-body-scan-by-steve-hickman"
 						target="_blank"
 					>
-						45-minute body scan - Steve Hickman</a
+						45 minutes - Steve Hickman</a
 					>
 				</li>
 			</ul>
@@ -55,17 +55,17 @@
 	<hr class="hr" />
 	<Accordion.Item value="guided-breath-meditations">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}Guided Breath Meditations{/snippet}
+		{#snippet control()}Guided Mindfulness of Breathing Meditations{/snippet}
 		{#snippet panel()}
 			<ul>
 				<li>
 					<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
-						5-minute guided breath meditation - Diana Winston</a
+						5 minutes - Diana Winston</a
 					>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=2GjZanuXWWk" target="_blank">
-						10-minute guided breath meditation - Jon Kabat Zinn</a
+						10 minutes - Jon Kabat Zinn</a
 					>
 				</li>
 				<li>
@@ -73,11 +73,11 @@
 						href="https://soundcloud.com/ucsdmindfulness/20-min-seated-meditation-by-steve-hickman"
 						target="_blank"
 					>
-						20-minute guided breath meditation - Steve Hickman</a
+						20 minutes - Steve Hickman</a
 					>
 				</li>
 				<li>
-					22-minute mindfulness of breathing guided meditation - Doron Tal:
+					22 minutes - Doron Tal:
 					<audio src={aob22} controls>
 						<track kind="captions" />
 					</audio>
@@ -107,12 +107,12 @@
 			<ul>
 				<li>
 					<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc" target="_blank">
-						10-minute guided loving-kindness meditation - Sharon Salzberg</a
+						10 minutes - Sharon Salzberg</a
 					>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0" target="_blank">
-						15-minute guided loving-kindness meditation - Ayya Khema</a
+						15 minutes - Ayya Khema</a
 					>
 				</li>
 				<li>
@@ -120,17 +120,17 @@
 						href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
 						target="_blank"
 					>
-						17-minute guided loving-kindness meditation - Ayya Khema</a
+						17 minutes - Ayya Khema</a
 					>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
-						18-minute guided loving-kindness meditation - Thich Nhat Hanh</a
+						18 minutes - Thich Nhat Hanh</a
 					>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM" target="_blank">
-						25-minute guided loving-kindness meditation - Jack Kornfield</a
+						25 minutes - Jack Kornfield</a
 					>
 				</li>
 			</ul>
