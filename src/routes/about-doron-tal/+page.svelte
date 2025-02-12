@@ -105,11 +105,18 @@
 		{#snippet panel()}
 			<dl>
 				<div>
+					<dt>Philadelphia Prisons - Detention Center (February, 2025 - Present)</dt>
+					<dd>
+						Facilitating a mindfulness based stress reduction (MBSR) curriculum
+						to incarcerated individuals - one hour a week for ten weeks.
+					</dd>
+				</div>
+				<div>
 					<dt>Kennedy House, Philadelphia Mindfulness class (January, 2025 - Present)</dt>
 					<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 				</div>
 				<div>
-					<dt>Philadelphia Industrial Correctional Center (November, 2024 - Present)</dt>
+					<dt>Philadelphia Prisons - Industrial Correctional Center (November, 2024 - February, 2025)</dt>
 					<dd>
 						Facilitating the <a
 							href="https://www.prisonmindfulness.org/path-of-freedom"
@@ -121,7 +128,7 @@
 						<a href="https://www.prisonmindfulness.org/" target="_blank">
 							Prison Mindfulness Institute</a
 						>
-						to incarcerated individuals - one hour a week for ten weeks.
+						to a class of incarcerated people - one hour a week for eleven weeks.
 					</dd>
 				</div>
 				<div>

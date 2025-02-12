@@ -59,6 +59,11 @@
 		{#snippet panel()}
 			<ul>
 				<li>
+					<a href="https://docs.google.com/document/d/1iaJOrCQcZ4CqP0syJXpF2b62I9IIYmqh_Knaj9oG0qM" target="_blank">
+						Basic Mindfulness of Breathing Instructions (Document)</a
+					>
+				</li>
+				<li>
 					<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
 						5 minutes - Diana Winston</a
 					>
@@ -92,10 +97,21 @@
 		{#snippet panel()}
 			<ul>
 				<li>
-					<a href="https://www.youtube.com/watch?v=_IFvablc6EI" target="_blank">
-						Basic Walking Meditation Instructions - Yuttadhammo Bhikkhu</a
+					<a href="https://docs.google.com/document/d/1PaceixaSlw_bdk-OK1d4FindaAoz_yhKURvflqGyobc" target="_blank">
+						Basic Walking Meditation Instructions (Document)</a
 					>
 				</li>
+				<li>
+					<a href="https://www.youtube.com/watch?v=_IFvablc6EI" target="_blank">
+						Basic Walking Meditation Instructions (Video) - Yuttadhammo Bhikkhu</a
+					>
+				</li>
+				<li>
+					<a href="https://docs.google.com/document/d/1uIJtDZawpxJMOl4g3G3Ge7fP7uMAHdPmNpmYxK_vRFg" target="_blank">
+						Walking Meditation Methods - Two Refinements (Document)</a
+					>
+				</li>
+
 			</ul>
 		{/snippet}
 	</Accordion.Item>
@@ -111,11 +127,6 @@
 					>
 				</li>
 				<li>
-					<a href="https://www.youtube.com/watch?v=QkZ0zc2qCG0" target="_blank">
-						15 minutes - Ayya Khema</a
-					>
-				</li>
-				<li>
 					<a
 						href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
 						target="_blank"
@@ -126,11 +137,6 @@
 				<li>
 					<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
 						18 minutes - Thich Nhat Hanh</a
-					>
-				</li>
-				<li>
-					<a href="https://www.youtube.com/watch?v=aPiaLnWi6lM" target="_blank">
-						25 minutes - Jack Kornfield</a
 					>
 				</li>
 			</ul>

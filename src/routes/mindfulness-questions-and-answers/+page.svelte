@@ -21,10 +21,8 @@
 				<p>
 					<a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
 						>Jon Kabat-Zinn's definition
-					</a>: Mindfulness is the awareness that arises from paying attention, on purpose, in the
-					present moment, and non-judgmentally. Some expand on the idea of "non-judgmentally"; for
-					example, Diana Winston describes it as being "with curiosity and openness to each
-					experience."
+					</a>: Mindfulness is awareness that arises from paying attention, on purpose, in the
+					present moment, non-judgmentally.
 				</p>
 				<p>
 					The above definition of mindfulness refers to the mental capacity for mindfulness. This
@@ -116,9 +114,9 @@
 				<p>
 					Open awareness is an advanced practice. For individuals with highly distractible minds or
 					those new to mindfulness, it can be particularly challenging. Instead of cultivating
-					mindful openness, the experience may easily slip into mind-wandering (see question about how mindfulness
-					differs from mind-wandering). For most people, it is advisable to still the mind
-					first, e.g, via mindfulness of breathing, before switching to open awareness.
+					mindful openness, the experience may easily slip into mind-wandering (see question about
+					how mindfulness differs from mind-wandering). For most people, it is advisable to still
+					the mind first, e.g, via mindfulness of breathing, before switching to open awareness.
 				</p>
 				<p>
 					However, open awareness can serve a valuable role as an initial <b>preparatory step</b> for
