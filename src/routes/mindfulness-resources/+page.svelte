@@ -14,7 +14,7 @@
 <Accordion {value} multiple classes="opacity-90">
 	<Accordion.Item value="guided-body-scans">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}Guided Body Scans{/snippet}
+		{#snippet control()}Body Scan Meditation{/snippet}
 		{#snippet panel()}
 			<ul>
 				<li>
@@ -22,7 +22,7 @@
 						href="https://insighttimer.com/marylovegrove/guided-meditations/10-minute-body-scan-8"
 						target="_blank"
 					>
-						10 minutes - Mary Lovegrove</a
+						10 minutes Body Scan - Mary Lovegrove</a
 					>
 				</li>
 				<li>
@@ -30,15 +30,7 @@
 						href="https://insighttimer.com/rubyknafo/guided-meditations/body-scan-11-minutes"
 						target="_blank"
 					>
-						11 minutes - Ruby Knafo</a
-					>
-				</li>
-				<li>
-					<a
-						href="https://soundcloud.com/ucsdmindfulness/20-min-body-scan-by-steve-hickman"
-						target="_blank"
-					>
-						20 minutes - Steve Hickman</a
+						11 minutes Body Scan - Ruby Knafo</a
 					>
 				</li>
 				<li>
@@ -46,7 +38,7 @@
 						href="https://soundcloud.com/ucsdmindfulness/45-minute-body-scan-by-steve-hickman"
 						target="_blank"
 					>
-						45 minutes - Steve Hickman</a
+						45 minutes Body Scan - Steve Hickman</a
 					>
 				</li>
 			</ul>
@@ -55,7 +47,7 @@
 	<hr class="hr" />
 	<Accordion.Item value="guided-breath-meditations">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}Guided Mindfulness of Breathing Meditations{/snippet}
+		{#snippet control()}Mindfulness of Breathing Meditation{/snippet}
 		{#snippet panel()}
 			<ul>
 				<li>
@@ -65,12 +57,12 @@
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=YFSc7Ck0Ao0" target="_blank">
-						5 minutes - Diana Winston</a
+						5 minutes Guided Mindfulness of Breathing Meditation - Diana Winston</a
 					>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=2GjZanuXWWk" target="_blank">
-						10 minutes - Jon Kabat Zinn</a
+						10 minutes Guided Mindfulness of Breathing Meditation - Jon Kabat Zinn</a
 					>
 				</li>
 				<li>
@@ -78,11 +70,11 @@
 						href="https://soundcloud.com/ucsdmindfulness/20-min-seated-meditation-by-steve-hickman"
 						target="_blank"
 					>
-						20 minutes - Steve Hickman</a
+						20 minutes Guided Mindfulness of Breathing Meditation - Steve Hickman</a
 					>
 				</li>
 				<li>
-					22 minutes - Doron Tal:
+					22 minutes Guided Mindfulness of Breathing Meditation - Doron Tal:
 					<audio src={aob22} controls>
 						<track kind="captions" />
 					</audio>
@@ -118,12 +110,12 @@
 	<hr class="hr" />
 	<Accordion.Item value="guided-loving-kindness-meditations">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}Guided Loving Kindness Meditations{/snippet}
+		{#snippet control()}Loving Kindness Meditation{/snippet}
 		{#snippet panel()}
 			<ul>
 				<li>
 					<a href="https://www.youtube.com/watch?v=e-TeW9CI0bc" target="_blank">
-						10 minutes - Sharon Salzberg</a
+						10 minutes Guided Loving Kindness Meditation - Sharon Salzberg</a
 					>
 				</li>
 				<li>
@@ -131,12 +123,12 @@
 						href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
 						target="_blank"
 					>
-						17 minutes - Ayya Khema</a
+						17 minutes Guided Loving Kindness Meditation - Ayya Khema</a
 					>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
-						18 minutes - Thich Nhat Hanh</a
+						18 minutes Guided Loving Kindness Meditation - Thich Nhat Hanh</a
 					>
 				</li>
 			</ul>
