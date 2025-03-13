@@ -127,6 +127,14 @@
 					>
 				</li>
 				<li>
+					<a
+						href="https://www.youtube.com/playlist?list=PLv4CVwkg1WmJUN85pK3baKsvfMDAWPBtC"
+						target="_blank"
+					>
+						Guided Loving Kindness Meditation Playlist - Ayya Khema</a
+					>
+				</li>
+				<li>
 					<a href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
 						18 minutes Guided Loving Kindness Meditation - Thich Nhat Hanh</a
 					>
