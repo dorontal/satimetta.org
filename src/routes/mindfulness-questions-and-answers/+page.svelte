@@ -328,11 +328,11 @@
 					to keep practicing and stay curious about whatever shows up, with openness and kindness."
 				</p>
 				<p>
-					The key is to keep practicing regularly - not just formal practice of at least ten minutes
-					per day, everyday, but also informal practice throughout each day, such as mindfulness of
-					posture, mindfulness of breathing in and out in all activities, or mindfulness of daily
-					activities. It's also useful to know that it may take a long time until we notice the
-					positive changes that the practice brings.
+					It's also useful and important to keep practicing regularly - not just formal practice of
+					at least ten minutes per day, everyday, but also informal practice throughout each day,
+					such as mindfulness of posture, mindfulness of breathing in and out in all activities, or
+					mindfulness of daily activities. It's also useful to know that it may take a long time
+					until we notice the positive changes that the practice brings.
 				</p>
 			</div>
 		{/snippet}
