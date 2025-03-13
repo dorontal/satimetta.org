@@ -37,7 +37,7 @@
 				<p>
 					<b>Mindfulness practice</b> refers to the activities and exercises aimed at cultivating mindfulness.
 					It is the process that strengthens trait mindfulness, enhances the average level of state mindfulness,
-					and generally improves the mind’s capacity to be mindful. The term mindfulness practice can
+					and generally improves the mind's capacity to be mindful. The term mindfulness practice can
 					refer to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation
 					session, (c) various types of mindfulness meditations, or (d) informal practices where mindfulness
 					is applied to everyday activities.
@@ -64,7 +64,7 @@
 				</p>
 				<p>
 					<b>Mindfulness practice is not the same as relaxation:</b>
-					While mindfulness practice may lead to calmness, its purpose is not relaxation. It’s about
+					While mindfulness practice may lead to calmness, its purpose is not relaxation. It's about
 					paying attention to the present moment - whatever it holds - with openness, curiosity, and
 					kindness.
 				</p>
@@ -173,8 +173,8 @@
 			<div>
 				<p>
 					When we let our minds wander, our thoughts drive us from one idea or emotion to the next,
-					as if we’re in the passenger seat while our thoughts do the driving. In mindfulness
-					practice, however, we notice our thoughts when they appear, but we don’t let them drive
+					as if we're in the passenger seat while our thoughts do the driving. In mindfulness
+					practice, however, we notice our thoughts when they appear, but we don't let them drive
 					us. Instead, we gently and kindly return our focus to our main object of meditation. Here
 					are some important differences between the two:
 				</p>
@@ -268,7 +268,7 @@
 		{#snippet panel()}
 			<div>
 				<p>
-					It’s common for tension to build in the body during meditation. Here are some brief
+					It's common for tension to build in the body during meditation. Here are some brief
 					suggestions for managing body tension during meditation:
 				</p>
 				<ul>
@@ -310,6 +310,54 @@
 						</p>
 					</li>
 				</ul>
+			</div>
+		{/snippet}
+	</Accordion.Item>
+	<hr class="hr" />
+	<Accordion.Item value="i-dont-get-it">
+		{#snippet lead()}<Diamond size={14} />{/snippet}
+		{#snippet control()}"I just don't get this mindfulness of breathing practice."{/snippet}
+		{#snippet panel()}
+			<div>
+				<p>
+					It's totally understandable to feel like you don't ‘get' breath meditation. But the good
+					news is, meditation isn't about getting it right - it's about showing up. Every time you
+					sit, you're training your mind in some way, even if it doesn't feel like it. There's no
+					such thing as a bad meditation. Maybe you notice frustration, restlessness, or boredom -
+					that's insight. Maybe you notice tiny moments of focus - that's also insight. The key is
+					to keep practicing and stay curious about whatever shows up, with openness and kindness."
+				</p>
+				<p>
+					The key is to keep practicing regularly - not just formal practice of at least ten minutes
+					per day, everyday, but also informal practice throughout each day, such as mindfulness of
+					posture, mindfulness of breathing in and out in all activities, or mindfulness of daily
+					activities. It's also useful to know that it may take a long time until we notice the
+					positive changes that the practice brings.
+				</p>
+			</div>
+		{/snippet}
+	</Accordion.Item>
+	<hr class="hr" />
+	<Accordion.Item value="should-i-dissolve-issues-first">
+		{#snippet lead()}<Diamond size={14} />{/snippet}
+		{#snippet control()}"Sometimes I get such strong thoughts on my mind, that I have to deal with
+			them first, before starting to meditate."{/snippet}
+		{#snippet panel()}
+			<div>
+				<p>
+					It's natural to feel like you need to sort things out before meditating - but one of the
+					best ways to train the mind is to meditate even when it feels inconvenient. This is why
+					it's helpful to set a clear intention for practice, to schedule a start and end time,
+					never stumbling onto meditation by a fluke. For example, we might commit to meditating
+					every morning as soon as we wake up or every time we gather in class or with a group.
+					Setting this intention ahead of time helps us stick with practice even when thoughts feel
+					overwhelming - we know this is our time to put them aside, trusting that we can return to
+					them later. If we’re able to do that, then when we come back to these thoughts after
+					formal meditation, the mind will be clearer and better able to deal with them. A calmer,
+					more concentrated mind always sees things more clearly - allowing us to handle those
+					thoughts more skillfully than if we had rushed to address them and skipped meditation
+					instead.
+				</p>
 			</div>
 		{/snippet}
 	</Accordion.Item>
