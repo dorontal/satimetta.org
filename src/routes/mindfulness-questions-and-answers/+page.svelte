@@ -325,7 +325,7 @@
 					sit, you're training your mind in some way, even if it doesn't feel like it. There's no
 					such thing as a bad meditation. Maybe you notice frustration, restlessness, or boredom -
 					that's insight. Maybe you notice tiny moments of focus - that's also insight. The key is
-					to keep practicing and stay curious about whatever shows up, with openness and kindness."
+					to keep practicing and stay curious about whatever shows up, with openness and kindness.
 				</p>
 				<p>
 					It's also useful and important to keep practicing regularly - not just formal practice of
