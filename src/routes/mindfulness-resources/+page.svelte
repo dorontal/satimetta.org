@@ -238,7 +238,7 @@
 	<hr class="hr" />
 	<Accordion.Item value="mindful-poetry">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}Mindful Poetry{/snippet}
+		{#snippet control()}Poetry Related to Mindfulness{/snippet}
 		{#snippet panel()}
 			<ul>
 				<li>
