@@ -112,7 +112,7 @@
 					</dd>
 				</div>
 				<div>
-					<dt>Kennedy House, Philadelphia Mindfulness class (January, 2025 - Present)</dt>
+					<dt>Kennedy House, Philadelphia Mindfulness class (January - March, 2025)</dt>
 					<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 				</div>
 				<div>
