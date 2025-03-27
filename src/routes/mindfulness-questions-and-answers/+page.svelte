@@ -98,32 +98,43 @@
 		{#snippet panel()}
 			<div>
 				<p>
-					In mindfulness practice, <b>open awareness</b> refers to a state of staying receptive to whatever
-					arises in the present moment, without choosing a specific object to focus on. This approach
-					contrasts with focusing on a single object, such as the breath, where attention remains fixed.
+					In mindfulness practice, <strong>open awareness</strong> refers to a state of staying receptive
+					to whatever arises in the present moment, without choosing a specific object to focus on. This
+					approach contrasts with focusing on a single object, such as the breath, where attention remains
+					fixed on just one thing, known as the "anchor."
 				</p>
 				<p>
-					With open awareness, the “object” of meditation naturally shifts as new sensations,
-					thoughts, or emotions arise, allowing for a dynamic and fluid focus. The term <b
-						>choiceless awareness</b
-					>, coined by J. Krishnamurti, is also used to describe this practice. It emphasizes the
-					lack of preference for any particular focus, keeping the mind open and observant of the
-					entire experience as it unfolds.
+					With open awareness, the “object” (or "anchor") of meditation naturally shifts as new
+					sensations, thoughts, or emotions arise, allowing for a dynamic and fluid focus. In such
+					meditations, the anchor is the present moment itself, not a specific object within it. The
+					term <strong>choiceless awareness</strong>, coined by J. Krishnamurti, is also used to
+					describe this practice. It emphasizes the lack of preference for any particular focus,
+					keeping the mind open and observant of the entire experience as it unfolds.
 				</p>
-
 				<p>
 					Open awareness is an advanced practice. For individuals with highly distractible minds or
 					those new to mindfulness, it can be particularly challenging. Instead of cultivating
-					mindful openness, the experience may easily slip into mind-wandering (see question about
-					how mindfulness differs from mind-wandering). For most people, it is advisable to still
-					the mind first, e.g, via mindfulness of breathing, before switching to open awareness.
+					mindful openness, the experience may easily slip into mind-wandering (see the question
+					about how mindfulness differs from mind-wandering). For most people, it is advisable to
+					still the mind first, e.g., via mindfulness of breathing, before switching to open
+					awareness.
 				</p>
 				<p>
-					However, open awareness can serve a valuable role as an initial <b>preparatory step</b> for
-					focused meditation. Starting with open awareness helps ease the transition from a scattered,
-					everyday state of thinking about anything to focusing on just one thing. A brief period of
-					open awareness at the start of a session allows the mind to settle naturally into the present
-					moment, creating a gentle bridge toward refined focus on a single object.
+					When practiced in a specific way, however, open awareness can be a useful and beneficial
+					approach for individuals with stronger ADD or ADHD tendencies. Such minds often get bored
+					with concentration meditations where the anchor is just one thing. In open awareness
+					practice, these individuals can rotate their awareness among anything that arises, making
+					the meditation less monotonous. The key is to avoid getting carried away with any one
+					object and to rotate the objects frequently—e.g., paying attention to a sound, then
+					another sound, a thought, etc., in rapid succession, without sticking with or clinging to
+					any of these objects of attention.
+				</p>
+				<p>
+					Open awareness can also serve as a valuable <strong>preparatory step</strong> for focused meditation.
+					Starting with open awareness helps ease the transition from a scattered, everyday state of
+					mind to focusing on just one thing. A brief period of open awareness at the start of a session
+					allows the mind to settle naturally into the present moment, creating a gentle bridge toward
+					a refined focus on a single object.
 				</p>
 			</div>
 		{/snippet}
