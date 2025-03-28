@@ -18,10 +18,10 @@
 				<div>
 					<dt>Daily Sitting Meditation Practice Group (2023 - Present)</dt>
 					<dd>
-						Daily online group meditations with <a
+						Daily online group meditations with the <a
 							href="https://www.clearmountainmonastery.org"
 							target="_blank">Clear Mountain Monastery</a
-						>.
+						> community and monks.
 					</dd>
 				</div>
 				<div>
