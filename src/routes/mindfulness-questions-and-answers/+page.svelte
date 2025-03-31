@@ -254,20 +254,27 @@
 		{/snippet}
 	</Accordion.Item>
 	<hr class="hr" />
-	<Accordion.Item value="difference-between-prayer-and-mindfulness-practice">
+	<Accordion.Item value="relationship-between-prayer-and-mindfulness-practice">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
 		{#snippet control()}
-			What's the difference between prayer and mindfulness practice?
+			What's the relationship between prayer and mindfulness practice?
 		{/snippet}
 		{#snippet panel()}
 			<div>
 				<p>
-					Prayer can be thought of as a conversation: expressing gratitude, seeking guidance, or
-					asking for something. Mindfulness, on the other hand, involves cultivating awareness of
-					the present moment without trying to change it. Rather than asking for anything,
-					mindfulness is about being with what is - observing thoughts, emotions, and sensations
-					without reacting or getting carried away. Practicing mindfulness can deepen our ability to
-					meet life as it unfolds, with greater clarity and acceptance.
+					Prayer can be seen as a conversation - expressing gratitude, seeking guidance, or making
+					requests. Mindfulness, in contrast, is about being fully present without trying to change
+					anything. Instead of asking for something, mindfulness involves observing thoughts,
+					emotions, and sensations with openness and non-reactivity. Practicing mindfulness can help
+					us engage with life as it unfolds - with greater clarity and acceptance.
+				</p>
+				<p>
+					Mindfulness is not a religious practice and does not conflict with prayer. In fact, the
+					two can complement each other. Mindfulness can make prayer more intentional by helping us
+					be fully present - whether by meditating before prayer or by approaching prayer itself as
+					a mindful practice. Conversely, the repetition in some forms of prayer can foster a
+					meditative state - allowing the mind to settle and the heart to open to deeper spiritual
+					experiences.
 				</p>
 			</div>
 		{/snippet}
