@@ -15,7 +15,7 @@
 <Accordion {value} multiple classes="opacity-90">
 	<Accordion.Item value="definition-of-mindfulness">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}What's the Definition of Mindfulness?{/snippet}
+		{#snippet control()}What's the definition of mindfulness?{/snippet}
 		{#snippet panel()}
 			<div>
 				<p>
@@ -48,7 +48,7 @@
 	<hr class="hr" />
 	<Accordion.Item value="what-mindfulness-is-not">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}What Mindfulness is Not{/snippet}
+		{#snippet control()}What mindfulness is not{/snippet}
 		{#snippet panel()}
 			<div>
 				<p>Some common misconceptions about mindfulness:</p>
@@ -175,7 +175,7 @@
 	<hr class="hr" />
 	<Accordion.Item value="how-does-mindfulness-practice-differ-from-mind-wandering">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
-		{#snippet control()}How Does Mindfulness Practice Differ from Mind Wandering?{/snippet}
+		{#snippet control()}How does mindfulness practice differ from mind wandering?{/snippet}
 		{#snippet panel()}
 			<div>
 				<p>
