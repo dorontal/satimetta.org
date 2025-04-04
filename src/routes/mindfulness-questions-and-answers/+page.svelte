@@ -154,14 +154,10 @@
 				<p>
 					Informal practice helps life flow more smoothly, with greater ease and presence. It
 					supports a calm, attentive state that enhances daily interactions, decisions, and overall
-					well-being, but on its own may not lead to real progress. Formal practice provides depth
-					and continuity that strengthen informal mindfulness and make it more effective throughout
-					the day.
-				</p>
-				<p>
-					Formal practice has (much) greater potential to bring the mind to deeper states of
-					collectedness, indistractibility and tranquility, which can lead to greater insight and
-					enhanced mind training.
+					well-being, but on its own may not lead to deep progress and insight. Formal practice has
+					greater potential to bring the mind to deeper states of collectedness, indistractibility
+					and tranquility, which can lead to greater insight and enhanced mind training, but without
+					informal practice it will suffer.
 				</p>
 				<p>
 					Both types of practice reinforce each other: formal practice strengthens the mental
