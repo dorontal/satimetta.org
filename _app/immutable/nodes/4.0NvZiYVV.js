@@ -39,11 +39,11 @@ import{f as W,a as n,t as s,g as r}from"../chunks/disclose-version.C000vrfS.js";
 					the meditation less monotonous. The key is to avoid getting carried away with any one
 					object and to rotate the objects frequently - e.g., paying attention to a sound, then
 					another sound, a thought, etc., in rapid succession, without sticking with or clinging to
-					any of these objects of attention.</p> <p>Open awareness can also serve as a valuable <strong>preparatory step</strong> for focused meditation.
-					Starting with open awareness helps ease the transition from a scattered, everyday state of
-					mind to focusing on just one thing. A brief period of open awareness at the start of a session
-					allows the mind to settle naturally into the present moment, creating a gentle bridge toward
-					a refined focus on a single object.</p></div>`),O=s(`<div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus
+					any of these objects of attention.</p> <p>Open awareness can also serve as a valuable <strong>preparatory step</strong> for focused (fixed
+					anchor, e.g. breath) meditation. Starting with open awareness helps ease the transition from
+					a scattered, everyday state of mind to focusing on just one thing. A brief period of open awareness
+					at the start of a session allows the mind to settle naturally into the present moment, creating
+					a gentle bridge toward a refined focus on a single object.</p></div>`),O=s(`<div><p>Formal mindfulness practice involves intentionally setting aside time and space to focus
 					on a specific meditation method or exercise, while informal mindfulness practice is about
 					weaving mindfulness into everyday activities, like brushing your teeth, washing the
 					dishes, or eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It
