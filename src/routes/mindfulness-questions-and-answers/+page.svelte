@@ -125,7 +125,7 @@
 					with concentration meditations where the anchor is just one thing. In open awareness
 					practice, these individuals can rotate their awareness among anything that arises, making
 					the meditation less monotonous. The key is to avoid getting carried away with any one
-					object and to rotate the objects frequently—e.g., paying attention to a sound, then
+					object and to rotate the objects frequently - e.g., paying attention to a sound, then
 					another sound, a thought, etc., in rapid succession, without sticking with or clinging to
 					any of these objects of attention.
 				</p>
