@@ -107,8 +107,8 @@
 				<div>
 					<dt>Philadelphia Prisons - Detention Center (February, 2025 - Present)</dt>
 					<dd>
-						Facilitating a mindfulness based stress reduction (MBSR) curriculum
-						to incarcerated individuals - one hour a week for ten weeks.
+						Facilitating a mindfulness based stress reduction (MBSR) curriculum to incarcerated
+						people at this jail - one hour a week for ten weeks.
 					</dd>
 				</div>
 				<div>
@@ -116,7 +116,9 @@
 					<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 				</div>
 				<div>
-					<dt>Philadelphia Prisons - Industrial Correctional Center (November, 2024 - February, 2025)</dt>
+					<dt>
+						Philadelphia Prisons - Industrial Correctional Center (November, 2024 - February, 2025)
+					</dt>
 					<dd>
 						Facilitating the <a
 							href="https://www.prisonmindfulness.org/path-of-freedom"
@@ -128,7 +130,7 @@
 						<a href="https://www.prisonmindfulness.org/" target="_blank">
 							Prison Mindfulness Institute</a
 						>
-						to a class of incarcerated people - one hour a week for eleven weeks.
+						to incarcerated people at this prison - one hour a week for eleven weeks.
 					</dd>
 				</div>
 				<div>
@@ -152,17 +154,21 @@
 		{#snippet panel()}
 			<dl>
 				<div>
-					<dt>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Present)</dt>
+					<dt>
+						Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - April 2025)
+					</dt>
 					<dd>
 						The <a href="https://www.engagedmindfulness.org" target="_blank"
 							>Engaged Mindfulness Institute</a
 						>
-						trains its students to facilitate mindfulness instruction in trauma-informed manner. The
-						EMI mindfulness teacher training certifies its graduates via the
+						trains its students to facilitate mindfulness instruction in a trauma-informed manner. The
+						EMI mindfulness teacher training certifies its graduates to teach mindfulness to the general
+						population. It is also one of the teacher training institutions whose certification can be
+						accepted by the
 						<a href="https://imta.org" target="_blank"
 							>International Mindfulness Teacher Association</a
-						>'s accreditation as a Certified Mindfulness Teaching Professional (CMT-P). I have
-						completed most of the requirements and hope to be certified by May, 2025.
+						> for their Certified Mindfulness Teaching Professional (CMT-P) certification. EMI graduation
+						date: April 7, 2025.
 					</dd>
 				</div>
 				<div>
