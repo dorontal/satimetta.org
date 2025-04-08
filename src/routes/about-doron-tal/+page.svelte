@@ -294,7 +294,7 @@
 					<dt>
 						Mindfulness Teacher Certification</dt>
 					<dd>
-						Awarded by the Engaged Mindfulness Institute (April 7, 2025)
+						Awarded by the Engaged Mindfulness Institute on April 7, 2025.
 					</dd>
 				</div>
 				<div>
