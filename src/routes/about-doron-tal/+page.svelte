@@ -285,6 +285,29 @@
 		{/snippet}
 	</Accordion.Item>
 	<hr class="hr" />
+	<Accordion.Item value="certifications-and-professional-organizations">
+		{#snippet lead()}<Diamond size={14} />{/snippet}
+		{#snippet control()}Certifications and Professional Organizations{/snippet}
+		{#snippet panel()}
+			<dl>
+				<div>
+					<dt>
+						Mindfulness Teacher Certification</dt>
+					<dd>
+						Awarded by the Engaged Mindfulness Institute (April 7, 2025)
+					</dd>
+				</div>
+				<div>
+					<dt>
+						Member, International Mindfulness Teacher Association (IMTA)</dt>
+					<dd>
+						Member since May, 2024. Active member April 2025 - Present.
+					</dd>
+				</div>
+			</dl>
+		{/snippet}
+	</Accordion.Item>
+	<hr class="hr" />
 	<Accordion.Item value="retreats">
 		{#snippet lead()}<Diamond size={14} />{/snippet}
 		{#snippet control()}Retreats{/snippet}
