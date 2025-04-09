@@ -300,7 +300,9 @@
 					<dt>Certified Mindfulness Teacher - Professional Level (CMT-P)</dt>
 					<dd>
 						Certification awarded by the International Mindfulness Teacher Association (IMTA) on
-						April 9, 2025.
+						April 9, 2025. (<a href="https://directory.imta.org/?page=1&search_term=doron"
+							>Details...</a
+						>.)
 					</dd>
 				</div>
 				<div>
