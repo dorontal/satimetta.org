@@ -291,18 +291,21 @@
 		{#snippet panel()}
 			<dl>
 				<div>
-					<dt>
-						Certified Mindfulness Teacher</dt>
+					<dt>Certified Mindfulness Teacher</dt>
 					<dd>
-						Certification awarded by the Engaged Mindfulness Institute on April 7, 2025.
+						Certification awarded by the Engaged Mindfulness Institute (EMI) on April 7, 2025.
 					</dd>
 				</div>
 				<div>
-					<dt>
-						Member, International Mindfulness Teacher Association (IMTA)</dt>
+					<dt>Certified Mindfulness Teacher - Professional Level (CMT-P)</dt>
 					<dd>
-						Member since May, 2024. Active member April 2025 - Present.
+						Certification awarded by the International Mindfulness Teacher Association (IMTA) on
+						April 8, 2025.
 					</dd>
+				</div>
+				<div>
+					<dt>Member, International Mindfulness Teacher Association (IMTA)</dt>
+					<dd>Member since May, 2024. Active member April 2025 - Present.</dd>
 				</div>
 			</dl>
 		{/snippet}
