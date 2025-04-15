@@ -27,7 +27,7 @@
 				<p>
 					The above definition of mindfulness refers to the mental capacity for mindfulness. This
 					capacity can fluctuate throughout the day, but it can also be strengthened over time, much
-					like a muscle, through consistent daily formal practice. The term <b>trait mindfulness</b>
+					like a muscle, through consistent daily practice. The term <b>trait mindfulness</b>
 					descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of
 					the mind. <b>State mindfulness</b>, on the other hand, refers to the momentary experience
 					of mindfulness. A helpful way to distinguish between the two is to think of state
