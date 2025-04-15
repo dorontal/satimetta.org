@@ -1,7 +1,7 @@
 import{f as W,a as n,t as s,g as r}from"../chunks/disclose-version.C000vrfS.js";import{f as z,s as p,M as l}from"../chunks/runtime.C9aX2PfE.js";import{p as q,c as d}from"../chunks/props.BIk9m3Mw.js";import{A as o}from"../chunks/Icon.CJ1Iif7P.js";import{D as c}from"../chunks/diamond.UQ8X_98d.js";const B=!0,S=!0,X=Object.freeze(Object.defineProperty({__proto__:null,csr:B,prerender:S},Symbol.toStringTag,{value:"Module"}));var F=s('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Frequently Asked Questions / Mindfulness FAQ">'),H=s(`<div><p><a href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is awareness that arises from paying attention on purpose, in the
 					present moment, non-judgmentally.</p> <p>The above definition of mindfulness refers to the mental capacity for mindfulness. This
 					capacity can fluctuate throughout the day, but it can also be strengthened over time, much
-					like a muscle, through consistent daily formal practice. The term <b>trait mindfulness</b> descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of
+					like a muscle, through consistent daily practice. The term <b>trait mindfulness</b> descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of
 					the mind. <b>State mindfulness</b>, on the other hand, refers to the momentary experience
 					of mindfulness. A helpful way to distinguish between the two is to think of state
 					mindfulness as answering the question, "How mindful are you right now?" and trait
