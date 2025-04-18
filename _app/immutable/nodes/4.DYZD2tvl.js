@@ -124,8 +124,8 @@ import{f as z,a as n,t as o,g as r}from"../chunks/disclose-version.C000vrfS.js";
 					it's discomfort, restlessness, or distraction - and to return to the object of meditation
 					again and again, that doesn't mean you shouldn't make the experience as supportive as
 					possible. In fact, especially as a beginner, it's completely fine - and even wise - to
-					lean on helpful outer conditions like a calm environment, incense, or gentle lighting.
-					These are not crutches - they're supports.</p> <p>Even the Buddha began his meditation instructions with external conditions: “Having gone
+					lean on helpful outer conditions like a calm environment. These are not crutches - they're
+					supports.</p> <p>Even the Buddha began his meditation instructions with external conditions: “Having gone
 					to the forest, or to the root of a tree, or to an empty hut...” The setting matters. A
 					peaceful space makes it easier to settle the body and mind. And that's true whether you're
 					a beginner or not.</p> <p>In short: whatever you can do to make your meditation more comfortable, more pleasant, and
