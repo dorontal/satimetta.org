@@ -366,7 +366,7 @@
 					every morning as soon as we wake up or every time we gather in class or with a group.
 					Setting this intention ahead of time helps us stick with practice even when thoughts feel
 					overwhelming - we know this is our time to put them aside, trusting that we can return to
-					them later. If we’re able to do that, then when we come back to these thoughts after
+					them later. If we're able to do that, then when we come back to these thoughts after
 					formal meditation, the mind will be clearer and better able to deal with them. A calmer,
 					more concentrated mind always sees things more clearly - allowing us to handle those
 					thoughts more skillfully than if we had rushed to address them and skipped meditation
@@ -375,4 +375,83 @@
 			</div>
 		{/snippet}
 	</Accordion.Item>
-</Accordion>
+	<hr class="hr" />
+	<Accordion.Item value="is-it-okay-to-rely-on-external-conditions-for-setup">
+		{#snippet lead()}<Diamond size={14} />{/snippet}
+		{#snippet control()}Is it okay to rely on pleasant external conditions - like a calm
+			environment, a nice cushion or incense - to support mindfulness practice, especially as a
+			beginner? Or am I missing something by doing that?{/snippet}
+		{#snippet panel()}
+			<div>
+				<p>
+					In principle, one should be able to meditate in any situation - even in the middle of a
+					crowded train station or a household with kids yelling, TV blaring, and phones ringing.
+					But the more your senses get bombarded, the harder it is to make the mind undistractable.
+					This doesn't mean you should seek out difficult conditions - especially not if you are a
+					beginner. It just means those conditions don't have to stop you.
+				</p>
+				<p>
+					When advice is given to meditators to accept whatever comes up without judgment - whether
+					it's discomfort, restlessness, or distraction - and to return to the object of meditation
+					again and again, that doesn't mean you shouldn't make the experience as supportive as
+					possible. In fact, especially as a beginner, it's completely fine - and even wise - to
+					lean on helpful outer conditions like a calm environment, incense, or gentle lighting.
+					These are not crutches - they're supports.
+				</p>
+				<p>
+					Even the Buddha began his meditation instructions with external conditions: “Having gone
+					to the forest, or to the root of a tree, or to an empty hut...” The setting matters. A
+					peaceful space makes it easier to settle the body and mind. And that's true whether you're
+					a beginner or not.
+				</p>
+				<p>
+					In short: whatever you can do to make your meditation more comfortable, more pleasant, and
+					last longer - go for it. Just keep an eye out for a few common pitfalls:
+				</p>
+				<ul>
+					<li>
+						<p>
+							<b>Don't overdo the setup.</b>
+							If you find yourself constantly tweaking, preparing, or delaying your meditation until
+							everything is perfect, it becomes a reason not to meditate.
+						</p>
+					</li>
+					<li>
+						<p>
+							<b>Don't get attached to your setup.</b>
+							Eventually, you'll find yourself without it - when traveling, visiting family, or just
+							having a busy day. Instead of seeing that as a problem, treat it as a gift - a teacher.
+							It's a chance to train in flexibility and resilience.
+						</p>
+					</li>
+					<li>
+						<p>
+							<b>Make a commitment to stay.</b>
+							Whatever your setup, designate the minimum time you'll be meditating before you begin.
+							Once you start, <b>hold your posture</b>. If you realize mid-meditation that you
+							forgot some part of your setup - don't stop your meditation. Stay with it until the
+							end of the time period that you had committed to. Let that moment be part of the
+							practice.
+						</p>
+					</li>
+					<li>
+						<p>
+							<b>Start with a preparation phase.</b>
+							Before you meditate, but after you have already assumed a meditation posture, make sure
+							you have a preparation phase. A strong preparation sets a strong foundation that prevents
+							the meditation from collapsing too easily. In this preparation phase, allow yourself to
+							make any adjustments necessary for maximum comfort - this is your chance to tweak things,
+							before stilling the body and mind.
+						</p>
+					</li>
+				</ul>
+				<p>
+					And finally, remember that inner conditions matter too. Kindness, curiosity, patience -
+					these are at least as important as silence or other supportive external conditions. As you
+					continue, you'll build the strength to meet a wider range of conditions, inside and out,
+					with presence and ease. It's a gradual training, and you're already in it.
+				</p>
+			</div>
+		{/snippet}
+	</Accordion.Item></Accordion
+>
