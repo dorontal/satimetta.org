@@ -12,7 +12,7 @@ import{f as z,a as n,t as o,g as r}from"../chunks/disclose-version.C000vrfS.js";
 					session, (c) various types of mindfulness meditations, or (d) informal practices where mindfulness
 					is applied to everyday activities.</p></div>`),O=o(`<div><p>Some common misconceptions about mindfulness:</p> <p><b>Mindfulness</b> is not the same as <b>mindfulness practice</b>: <b>Mindfulness</b> is a quality of the mind (see the definition of mindfulness question,
 					above) that can be strengthened through <b>mindfulness practice</b> - a regular routine to
-					cultivate this skill - just as a muscle can be strengthened via repeated workout. <b>Mindfulness practice</b> and <b>meditation</b> are used synonymously here.</p> <p><b>Mindfulness practice is not the same as relaxation:</b> While mindfulness practice may lead to calmness, its purpose is not relaxation. It's about
+					cultivate this skill - just as a muscle can be strengthened via repeated workout.</p> <p><b>Mindfulness practice is not the same as relaxation:</b> While mindfulness practice may lead to calmness, its purpose is not relaxation. It's about
 					paying attention to the present moment - whatever it holds - with openness, curiosity, and
 					kindness.</p> <p><b>Mindfulness practice is not a quick fix:</b> Like building physical strength at the gym, mindfulness develops gradually with consistent
 					practice. Without regular effort, mindfulness may weaken. Steady, ongoing practice creates
