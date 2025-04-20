@@ -57,10 +57,6 @@
 					<b>Mindfulness</b> is a quality of the mind (see the definition of mindfulness question,
 					above) that can be strengthened through <b>mindfulness practice</b> - a regular routine to
 					cultivate this skill - just as a muscle can be strengthened via repeated workout.
-					<b>Mindfulness practice</b>
-					and
-					<b>meditation</b>
-					are used synonymously here.
 				</p>
 				<p>
 					<b>Mindfulness practice is not the same as relaxation:</b>
