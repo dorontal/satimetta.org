@@ -1,0 +1,2 @@
+* Make deploy script also increment the version and also do a git-push
+  with the new version as comment and say deploy in that comment too

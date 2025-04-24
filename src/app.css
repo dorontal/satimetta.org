@@ -1,23 +1,25 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import 'tailwindcss';
 
-a {
-    @apply anchor;
-}
+@import '@skeletonlabs/skeleton';
+@import '@skeletonlabs/skeleton/optional/presets';
+@import '@skeletonlabs/skeleton/themes/cerberus';
+
+@source '../node_modules/@skeletonlabs/skeleton-svelte/dist';
+
+@custom-variant dark (&:where(.dark, .dark *));
 
 dt {
     @apply font-bold;
 }
 
 dl {
-    @apply space-y-4;
+    @apply p-2 mb-4 space-y-4;
 }
 
 p {
-    @apply mb-4;
+    @apply p-2 mb-4;
 }
 
 ul {
-    @apply list-disc pl-6 space-y-1;
+    @apply list-disc pl-6 mb-2 space-y-1;
 }
