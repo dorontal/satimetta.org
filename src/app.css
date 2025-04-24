@@ -13,13 +13,13 @@ dt {
 }
 
 dl {
-    @apply p-2 mb-4 space-y-4;
+    @apply pt-2 mb-2 space-y-2   ;
 }
 
 p {
-    @apply p-2 mb-4;
+    @apply p-2;
 }
 
 ul {
-    @apply list-disc pl-6 mb-2 space-y-1;
+    @apply list-disc pl-6 pt-2 mb-2 space-y-1;
 }
