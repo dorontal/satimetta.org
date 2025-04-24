@@ -16,8 +16,8 @@ dl {
     @apply pt-2 mb-2 space-y-2;
 }
 
-p {
-    @apply pt-2;
+div.p-group {
+    @apply p-2 space-y-2;
 }
 
 ul {
