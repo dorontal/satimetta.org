@@ -4,6 +4,7 @@
 
 <svelte:head>
 	<meta name="description" content="Mindfulness Cultivation - Doron Tal" />
+	<title>Mindfulness Cultivation - Doron Tal</title>
 </svelte:head>
 
 <section>

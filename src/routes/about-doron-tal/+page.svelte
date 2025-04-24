@@ -1,5 +1,6 @@
 <svelte:head>
-	<meta name="description" content="About Doron Tal / Doron Tal Mindfulness Biography" />
+	<meta name="description" content="About Doron Tal / Doron Tal Mindfulness / Doron Mindfulness / Doron Tal Biography" />
+	<title>About Doron Tal - Mindfulness</title>
 </svelte:head>
 
 <div class="text-column">

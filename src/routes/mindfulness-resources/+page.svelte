@@ -3,7 +3,8 @@
 </script>
 
 <svelte:head>
-	<meta name="description" content="Mindfulness Resources" />
+	<meta name="description" content="Mindfulness Resources and Links / Mindfulness Resources / Mindfulness Links " />
+	<title>Mindfulness Resources and Links</title>
 </svelte:head>
 
 <div class="text-column">

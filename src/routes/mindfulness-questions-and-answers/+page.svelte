@@ -3,6 +3,7 @@
 		name="description"
 		content="Mindfulness Questions and Answers / Mindfulness Q&A / Mindfulness Q & A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"
 	/>
+	<title>Mindfulness Questions and Answers</title>
 </svelte:head>
 
 <div class="text-column">

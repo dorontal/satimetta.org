@@ -75,10 +75,6 @@
 	let { children } = $props();
 </script>
 
-<svelte:head>
-	<title>Mindfulness Cultivation</title>
-</svelte:head>
-
 <div class="flex h-screen flex-col">
 	<!-- Header -->
 	<header
