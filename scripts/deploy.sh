@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# exit on any error
+set -e
+
 # path of this script
 MY_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 

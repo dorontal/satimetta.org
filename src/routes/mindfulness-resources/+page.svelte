@@ -9,7 +9,7 @@
 <div class="text-column">
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="body-scan-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -48,7 +48,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="mindfulness-of-breathing-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -94,7 +94,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="walking-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -129,7 +129,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="loving-kindness-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -168,7 +168,10 @@
 	</details>
 	<hr class="hr" />
 	<details class="group p-2">
-		<summary class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2" id="mindful-yoga">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="mindful-yoga"
+		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">Mindful Yoga</span>
 		</summary>
@@ -188,7 +191,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="miscellaneous-mindfulness-links"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -245,7 +248,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="mindfulness-research"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -276,7 +279,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="poetry-related-to-mindfulness"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>

@@ -4,7 +4,10 @@
 
 <div class="text-column">
 	<details class="group p-2">
-		<summary class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2" id="practice">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="practice"
+		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">Practice</span>
 		</summary>
@@ -103,7 +106,10 @@
 	</details>
 	<hr class="hr" />
 	<details class="group p-2">
-		<summary class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2" id="teaching">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="teaching"
+		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">Teaching</span>
 		</summary>
@@ -153,7 +159,10 @@
 	</details>
 	<hr class="hr" />
 	<details class="group p-2">
-		<summary class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2" id="training">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="training"
+		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">Training</span>
 		</summary>
@@ -314,7 +323,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="certifications-and-professional-organizations"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -351,7 +360,10 @@
 	</details>
 	<hr class="hr" />
 	<details class="group p-2">
-		<summary class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2" id="retreats">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="retreats"
+		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">Retreats</span>
 		</summary>

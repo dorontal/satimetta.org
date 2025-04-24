@@ -8,7 +8,7 @@
 <div class="text-column">
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="definition-of-mindfulness"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -42,7 +42,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="what-mindfulness-is-not"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -80,7 +80,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="open-awareness-vs-single-object-focus"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -131,7 +131,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="formal-vs-informal-mindfulness-practice"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -165,7 +165,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="mindfulness-practice-vs-mind-wandering"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -219,7 +219,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="meditation-vs-mindfulness-practice"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -244,7 +244,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="relationship-between-prayer-and-mindfulness-practice"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -268,7 +268,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="body-tension-during-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -321,7 +321,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="i-dont-get-mindfulness-of-breathing"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -346,7 +346,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="dealing-with-strong-thoughts-before-meditating"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -371,7 +371,7 @@
 	<hr class="hr" />
 	<details class="group p-2">
 		<summary
-			class="grid cursor-pointer grid-cols-[auto_1fr] items-center p-2"
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="relying-on-pleasant-external-conditions-for-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
