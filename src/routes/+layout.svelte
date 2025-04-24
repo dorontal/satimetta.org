@@ -76,7 +76,6 @@
 </script>
 
 <div class="flex h-screen flex-col">
-	<!-- Header -->
 	<header
 		class="sticky top-0 z-10 backdrop-blur-md bg-surface-200-800"
 		role="heading"

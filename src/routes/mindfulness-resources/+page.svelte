@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<meta name="description" content="Mindfulness Resources and Links / Mindfulness Resources / Mindfulness Links " />
+	<meta name="description" content="Mindfulness resources and links: guided meditations for body-scan, awareness of breathing, walking meditation and loving kindness meditation; mindfulness research and mindfulness related poetry, curated by Doron Tal" />
 	<title>Mindfulness Resources and Links</title>
 </svelte:head>
 
