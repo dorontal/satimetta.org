@@ -7,7 +7,7 @@
 ### Features
 
 - Last version with the SkeletonUI <Accordion> before switching back
-  to plain HTML5 <details> / <summary>
+  to plain HTML5 (<details>, <summary>)
 
 <a name="1.0.0"></a>
 
