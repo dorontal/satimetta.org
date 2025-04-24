@@ -13,11 +13,11 @@ dt {
 }
 
 dl {
-    @apply pt-2 mb-2 space-y-2   ;
+    @apply pt-2 mb-2 space-y-2;
 }
 
 p {
-    @apply p-2;
+    @apply pt-2;
 }
 
 ul {
