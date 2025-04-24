@@ -1,34 +1,4 @@
-<!doctype html>
-
-<html lang="en" data-theme="cerberus">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="./_app/immutable/assets/0.CC76PdJO.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.DHkIJEHh.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CdfmzxCW.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/DGhKbix2.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/wbXl5q5Q.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.DoujnTY2.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/72I9gsAr.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CTfmCoRY.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/C4sP06lG.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/DylNQPAg.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.BQ766CAB.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BOp0WyYW.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BBxucNjF.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/B_Dp05N1.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/4.C8A5WCSo.js"><!--[--><!--]--><!--[--><meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"><!--]--><title>Mindfulness Cultivation</title>
-		<script>
-			if (document && localStorage.getItem('darkMode') === 'true') {
-				document.documentElement.classList.add('dark');
-			}
-		</script>
-	</head>
-	<body data-sveltekit-preload-data="hover" class="bg-white dark:bg-black">
-		<div style="display: contents"><!--[--><!--[--><!----><div class="flex h-screen flex-col"><header class="sticky top-0 z-10 backdrop-blur-md bg-surface-200-800" role="heading" aria-level="1"><div class="flex h-14 items-center p-2"><button type="button" class="btn-icon ml-1 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-menu"><!--[--><!----><line x1="4" x2="20" y1="12" y2="12"><!----></line><!----><!----><line x1="4" x2="20" y1="6" y2="6"><!----></line><!----><!----><line x1="4" x2="20" y1="18" y2="18"><!----></line><!----><!--]--><!----><!----><!----><!----></svg><!----></button> <div class="flex flex-auto justify-center"><span class="h6">Mindfulness Q&amp;A</span></div> <button type="button" class="btn-icon ml-auto mr-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-sun-moon"><!--[--><!----><path d="M12 8a2.83 2.83 0 0 0 4 4 4 4 0 1 1-4-4"><!----></path><!----><!----><path d="M12 2v2"><!----></path><!----><!----><path d="M12 20v2"><!----></path><!----><!----><path d="m4.9 4.9 1.4 1.4"><!----></path><!----><!----><path d="m17.7 17.7 1.4 1.4"><!----></path><!----><!----><path d="M2 12h2"><!----></path><!----><!----><path d="M20 12h2"><!----></path><!----><!----><path d="m6.3 17.7-1.4 1.4"><!----></path><!----><!----><path d="m19.1 4.9-1.4 1.4"><!----></path><!----><!--]--><!----><!----><!----><!----></svg><!----></button></div></header> <div class="relative flex flex-1 overflow-hidden"><div role="button" tabindex="-1" class="fixed inset-0 bg-gray-800 bg-opacity-50 md:hidden opacity-0 hidden"></div> <aside class="p-0 bg-surface-100-900 md:block hidden md:relative"><div><!----><aside class="h-full flex flex-col preset-filled-surface-100-900 h-full p-1 w-64 " data-testid="nav-rail"><!--[!--><!--]--> <!--[--><nav class="flex-1 flex flex-col justify-center items-center gap-1 " data-testid="nav-rail-tiles"><!----><!--#s1--><!----><a class="flex items-center w-full rounded-container  hover:preset-filled-surface-50-950 py-3 px-4 gap-4 " href="/" tabindex="0" data-testid="nav-tile"><!--[--><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-house"><!--[--><!----><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"><!----></path><!----><!----><path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"><!----></path><!----><!--]--><!----><!----><!----><!----></svg><!----></div><!--]--> <!--[!--><!--]--> <!--[--><div class=" " data-testid="nav-tile-label-expanded">Home</div><!--]--><!----></a><!----><!----> <!----><!--#s2--><!----><a class="flex items-center w-full rounded-container preset-filled-primary-500 py-3 px-4 gap-4 " href="/mindfulness-questions-and-answers" tabindex="0" data-testid="nav-tile"><!--[--><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-circle-help"><!--[--><!----><circle cx="12" cy="12" r="10"><!----></circle><!----><!----><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"><!----></path><!----><!----><path d="M12 17h.01"><!----></path><!----><!--]--><!----><!----><!----><!----></svg><!----></div><!--]--> <!--[!--><!--]--> <!--[--><div class=" " data-testid="nav-tile-label-expanded">Mindfulness Q&amp;A</div><!--]--><!----></a><!----><!----> <!----><!--#s3--><!----><a class="flex items-center w-full rounded-container  hover:preset-filled-surface-50-950 py-3 px-4 gap-4 " href="/mindfulness-resources" tabindex="0" data-testid="nav-tile"><!--[--><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-link"><!--[--><!----><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"><!----></path><!----><!----><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"><!----></path><!----><!--]--><!----><!----><!----><!----></svg><!----></div><!--]--> <!--[!--><!--]--> <!--[--><div class=" " data-testid="nav-tile-label-expanded">Mindfulness Resources</div><!--]--><!----></a><!----><!----> <!----><!--#s4--><!----><a class="flex items-center w-full rounded-container  hover:preset-filled-surface-50-950 py-3 px-4 gap-4 " href="/about-doron-tal" tabindex="0" data-testid="nav-tile"><!--[--><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-icon lucide lucide-info"><!--[--><!----><circle cx="12" cy="12" r="10"><!----></circle><!----><!----><path d="M12 16v-4"><!----></path><!----><!----><path d="M12 8h.01"><!----></path><!----><!--]--><!----><!----><!----><!----></svg><!----></div><!--]--> <!--[!--><!--]--> <!--[--><div class=" " data-testid="nav-tile-label-expanded">About</div><!--]--><!----></a><!----><!----><!----></nav><!--]--> <!--[!--><!--]--></aside><!----></div></aside> <div role="button" tabindex="-1" class="flex flex-1 flex-col overflow-hidden px-0"><main class="flex-1 overflow-y-auto p-4"><!----><div class="text-column"><details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="definition-of-mindfulness"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is awareness that arises from paying attention on purpose, in the present
+import{t,h as o,a as e}from"../chunks/C4sP06lG.js";import"../chunks/B_Dp05N1.js";const r=!0,d=!0,m=Object.freeze(Object.defineProperty({__proto__:null,csr:r,prerender:d},Symbol.toStringTag,{value:"Module"}));var l=t('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ">'),u=t(`<div class="text-column"><details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="definition-of-mindfulness"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is awareness that arises from paying attention on purpose, in the present
 				moment, non-judgmentally.</p> <p>The above definition of mindfulness refers to the mental capacity for mindfulness. This
 				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
 				like a muscle, through consistent daily practice. The term <b>trait mindfulness</b> descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of the
@@ -168,29 +138,4 @@
 						stilling the body and mind.</p></li></ul> <p>And finally, remember that inner conditions matter too. Kindness, curiosity, patience -
 				these are at least as important as silence or other supportive external conditions. As you
 				continue, you'll build the strength to meet a wider range of conditions, inside and out,
-				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div><!----><!----></main></div></div></div><!----><!--]--> <!--[!--><!--]--><!--]-->
-			
-			<script>
-				{
-					__sveltekit_16ljf08 = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					Promise.all([
-						import("./_app/immutable/entry/start.DHkIJEHh.js"),
-						import("./_app/immutable/entry/app.DoujnTY2.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 4],
-							data: [null,null],
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function p(n){var i=u();o(s=>{var a=l();e(s,a)}),e(n,i)}export{p as component,m as universal};
