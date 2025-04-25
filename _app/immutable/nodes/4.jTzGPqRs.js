@@ -47,7 +47,7 @@ import{t,h as o,a as e}from"../chunks/B7xlA_LE.js";import"../chunks/C1osf-mB.js"
 				or eating. Both types of practices cultivate mindfulness.</p> <p>Informal practice helps life flow more smoothly, with greater ease and presence. It supports
 				a calm, attentive state that enhances daily interactions, decisions, and overall well-being,
 				but on its own may not lead to deep progress and insight. Formal practice has greater
-				potential to bring the mind to deeper states of collectedness, indistractibility and
+				potential to bring the mind to deeper states of collectedness, undistractibility and
 				tranquility, which can lead to greater insight and enhanced mind training, but without
 				informal practice it will suffer.</p> <p>Both types of practice reinforce each other: formal practice strengthens the mental capacity
 				for mindfulness, making it easier to remain mindful in daily activities. The reverse is
