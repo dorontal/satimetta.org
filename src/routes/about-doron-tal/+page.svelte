@@ -116,7 +116,7 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>Philadelphia Prisons - Detention Center (February, 2025 - Present)</dt>
+				<dt>Philadelphia Prisons - Detention Center (February - April, 2025)</dt>
 				<dd>
 					Facilitating a mindfulness based stress reduction (MBSR) curriculum to incarcerated people
 					at this jail - one hour a week for ten weeks.
