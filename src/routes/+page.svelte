@@ -1,5 +1,5 @@
 <script>
-	import doronPhotoSrc from '$lib/images/doron.jpg';
+	import doronPhotoSrc from '$lib/images/doron.png';
 </script>
 
 <svelte:head>
