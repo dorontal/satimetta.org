@@ -1,5 +1,8 @@
 <svelte:head>
-	<meta name="description" content="About Doron Tal / Doron Tal Mindfulness / Doron Mindfulness / Doron Tal Biography" />
+	<meta
+		name="description"
+		content="About Doron Tal / Doron Tal Mindfulness / Doron Mindfulness / Doron Tal Biography"
+	/>
 	<title>About Doron Tal - Mindfulness</title>
 </svelte:head>
 
@@ -116,19 +119,19 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>Philadelphia Prisons - Detention Center (February - April, 2025)</dt>
+				<dt>Philadelphia Prisons - Detention Center (Feb. - Apr., 2025)</dt>
 				<dd>
 					Facilitating a mindfulness based stress reduction (MBSR) curriculum to incarcerated people
 					at this jail - one hour a week for ten weeks.
 				</dd>
 			</div>
 			<div>
-				<dt>Kennedy House, Philadelphia Mindfulness class (January - March, 2025)</dt>
+				<dt>Kennedy House, Philadelphia Mindfulness class (Jan. - Mar., 2025)</dt>
 				<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 			</div>
 			<div>
 				<dt>
-					Philadelphia Prisons - Industrial Correctional Center (November, 2024 - February, 2025)
+					Philadelphia Prisons - Industrial Correctional Center (Nov., 2024 - Feb., 2025)
 				</dt>
 				<dd>
 					Facilitating the <a
@@ -146,7 +149,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Kennedy House, Philadelphia Mindfulness class (October, 2024 - January, 2025)</dt>
+				<dt>Kennedy House, Philadelphia Mindfulness class (Oct., 2024 - Jan., 2025)</dt>
 				<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 			</div>
 			<div>
@@ -170,7 +173,7 @@
 		<dl>
 			<div>
 				<dt>
-					Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - April 2025)
+					Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Apr. 2025)
 				</dt>
 				<dd>
 					The <a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
@@ -183,7 +186,7 @@
 					<a class="anchor" href="https://imta.org" target="_blank"
 						>International Mindfulness Teachers Association</a
 					> for their Certified Mindfulness Teaching Professional (CMT-P) certification. EMI graduation
-					date: April 7, 2025.
+					date: Apr. 7, 2025.
 				</dd>
 			</div>
 			<div>
@@ -194,7 +197,7 @@
 						target="_blank"
 					>
 						Path of Freedom</a
-					> - Prison mindfulness teacher/facilitator Training (July - August, 2024)
+					> - Prison mindfulness teacher/facilitator Training (Jul. - Aug., 2024)
 				</dt>
 				<dd>
 					The <a
@@ -250,7 +253,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>MBSR Class (September 2023)</dt>
+				<dt>MBSR Class (Sep. 2023)</dt>
 				<dd>
 					Attended an MBSR class, in exploration of teaching MBSR later. This was a University of
 					California, San Diego (UCSD)'s <a
@@ -338,7 +341,7 @@
 						class="anchor"
 						href="https://www.engagedmindfulness.org"
 						target="_blank">Engaged Mindfulness Institute</a
-					> on April 7, 2025.
+					> on Apr. 7, 2025.
 				</dd>
 			</div>
 			<div>
@@ -347,7 +350,7 @@
 					Certification awarded by the <a class="anchor" href="https://imta.org"
 						>International Mindfulness Teachers Association</a
 					>
-					on April 9, 2025. (<a
+					on Apr. 8, 2025. (<a
 						class="anchor"
 						href="https://directory.imta.org/?page=1&search_term=Doron Tal">Details...</a
 					>.)
@@ -355,7 +358,7 @@
 			</div>
 			<div>
 				<dt>Member, International Mindfulness Teachers Association</dt>
-				<dd>Member since May, 2024. Active member April 2025 - Present.</dd>
+				<dd>Member since May, 2024. Active member Apr. 2025 - Present.</dd>
 			</div>
 		</dl>
 	</details>
@@ -370,6 +373,30 @@
 		</summary>
 		<dl>
 			<div>
+				<dt>
+					Self Retreat as an 8-Precept Guest at <a href="https://watmarpjan.org/en/">Wat Marp Jan</a
+					> (May 8 - 22, 2025)
+				</dt>
+				<dd>
+					A 15-day meditation retreat and immersion in monastic life as an eight-precept guest, set
+					in the midst of a thick Thai rainforest in the Rayong region of Thailand. Live simply
+					alongside the monks, joining in daily meditation, chanting, rituals, and communal work
+					while deepening mindfulness in a serene forest monastery.
+				</dd>
+			</div>
+			<div>
+				<dt>Winter Online Retreat With Clear Mountain Monastery (Feb. - Apr., 2025)</dt>
+				<dd>
+					Online retreat, offered by <a
+						class="anchor"
+						href="https://www.clearmountainmonastery.org"
+						target="_blank">Clear Mountain Monastery</a
+					>
+					Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in part of
+					this retreat).
+				</dd>
+			</div>
+			<div>
 				<dt>Jhanas, Insight, and Dependent Origination (Nov. 22 - Dec. 2, 2024)</dt>
 				<dd>
 					Online silent retreat, with <a class="anchor" href="https://leighb.com" target="_blank"
@@ -382,7 +409,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (October 11-13, 2024)</dt>
+				<dt>Engaged Mindfulness Institute Retreat (Oct. 11-13, 2024)</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -392,7 +419,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (September 13-15, 2024)</dt>
+				<dt>Engaged Mindfulness Institute Retreat (Sep. 13-15, 2024)</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -402,7 +429,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</dt>
+				<dt>Engaged Mindfulness Institute Retreat (Jun. 14-16, 2024)</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -422,7 +449,9 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Retreat With Ajahn Kovilo (August 12 - September 13, 2024)</dt>
+				<dt>
+					Summer Online Retreat With Clear Mountain Monastery (Aug. 12 - Sep. 13, 2024)
+				</dt>
 				<dd>
 					Online retreat, offered by <a
 						class="anchor"
@@ -433,7 +462,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Retreat with Santikaro (January 21-27, 2024)</dt>
+				<dt>Retreat with Santikaro (Jan. 21-27, 2024)</dt>
 				<dd>
 					Online silent retreat titled
 					<a
@@ -447,7 +476,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Retreat with Bhikkhu Bodhi (March 17-20, 2023)</dt>
+				<dt>Retreat with Bhikkhu Bodhi (Mar. 17-20, 2023)</dt>
 				<dd>
 					Participated and volunteered in this online silent retreat, titled
 					<a
@@ -458,7 +487,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Retreat with Tobi Warzinek (March 5-9, 2019)</dt>
+				<dt>Retreat with Tobi Warzinek (Mar. 5-9, 2019)</dt>
 				<dd>
 					Five day retreat at <a class="anchor" href="https://phuket-meditation.com" target="_blank"
 						>Phuket Meditation Center</a
