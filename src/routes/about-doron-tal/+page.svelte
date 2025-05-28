@@ -391,7 +391,7 @@
 						class="anchor"
 						href="https://www.clearmountainmonastery.org"
 						target="_blank">Clear Mountain Monastery</a
-					>
+					>. 
 					Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in part of
 					this retreat).
 				</dd>
