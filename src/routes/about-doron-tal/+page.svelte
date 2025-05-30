@@ -81,7 +81,9 @@
 			<div>
 				<dt>Tai Chi (1988 - Present)</dt>
 				<dd>
-					Tai Chi is moving meditation. I mainly practice the
+					Tai Chi, besides being a martial art, can be practiced as a moving meditation and this is
+					the way I have been practicing it for over three decades. The main type of Tai Chi I've
+					practiced has been the
 					<a class="anchor" href="https://www.youtube.com/watch?v=3_BKwlpOAkk" target="_blank">
 						Yang Style Short Form of Prof. Chen Man Ching</a
 					>
@@ -93,10 +95,13 @@
 						class="anchor"
 						href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
 						target="_blank">Sifu William Dere</a
-					>, and since the late 80's, with
+					>, but mainly, since the late 80's, with
 					<a class="anchor" href="https://www.williamccchen.com" target="_blank"
 						>Great Grandmaster William C. C. Chen</a
-					>.
+					>. Grandmaster William C. C. Chen's 60 movements form. Here's a
+					<a class="anchor" href="https://www.youtube.com/watch?v=-MwaUnGM7lU" target="_blank">video of the form</a
+					>
+					shot in May, 2025 during a Wat Marp Jan self retreat.
 				</dd>
 			</div>
 			<div>
@@ -130,9 +135,7 @@
 				<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
 			</div>
 			<div>
-				<dt>
-					Philadelphia Prisons - Industrial Correctional Center (Nov., 2024 - Feb., 2025)
-				</dt>
+				<dt>Philadelphia Prisons - Industrial Correctional Center (Nov., 2024 - Feb., 2025)</dt>
 				<dd>
 					Facilitating the <a
 						class="anchor"
@@ -172,9 +175,7 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>
-					Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Apr. 2025)
-				</dt>
+				<dt>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Apr. 2025)</dt>
 				<dd>
 					The <a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
 						>Engaged Mindfulness Institute</a
@@ -391,9 +392,8 @@
 						class="anchor"
 						href="https://www.clearmountainmonastery.org"
 						target="_blank">Clear Mountain Monastery</a
-					>. 
-					Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in part of
-					this retreat).
+					>. Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in
+					part of this retreat).
 				</dd>
 			</div>
 			<div>
@@ -449,9 +449,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>
-					Summer Online Retreat With Clear Mountain Monastery (Aug. 12 - Sep. 13, 2024)
-				</dt>
+				<dt>Summer Online Retreat With Clear Mountain Monastery (Aug. 12 - Sep. 13, 2024)</dt>
 				<dd>
 					Online retreat, offered by <a
 						class="anchor"
