@@ -66,10 +66,11 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Qigong (1989 - Present)</dt>
+				<dt>Qigong (Chi Kung) (1989 - Present)</dt>
 				<dd>
-					Learned a Qigong (Chi Kung) set for spine healing, strengthening and stretching, created
-					by Master Jiao Guo Ryu, from <a
+					Studied and practiced a 15-posture subset of the Shibashi Qigong (Set-1) 18-postures form
+					with
+					<a
 						class="anchor"
 						href="https://www.eomega.org/workshops/teachers/robert-tangora"
 						target="_blank"
@@ -79,15 +80,17 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Tai Chi (1988 - Present)</dt>
+				<dt>Tai Chi (Taiji) (1988 - Present)</dt>
 				<dd>
-					Tai Chi, besides being a martial art, can be practiced as a moving meditation and this is
-					the way I have been practicing it for over three decades. The main type of Tai Chi I've
-					practiced has been the
+					Tai Chi is not only a martial art but also moving meditation. Studied and practiced the
 					<a class="anchor" href="https://www.youtube.com/watch?v=3_BKwlpOAkk" target="_blank">
-						Yang Style Short Form of Prof. Chen Man Ching</a
+						Yang style 37-movement form</a
 					>
-					and have studied under the instruction of Katherine Hannah,
+					of
+					<a class="anchor" href="https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing"
+						>Chen Man-ch'ing</a
+					>
+					with several teachers (in chronological order): Katherine Hannah,
 					<a class="anchor" href="https://www.youtube.com/watch?v=6rLG3Ys-wIU" target="_blank"
 						>Maggie Newman</a
 					>,
@@ -95,13 +98,13 @@
 						class="anchor"
 						href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
 						target="_blank">Sifu William Dere</a
-					>, but mainly, since the late 80's, with
+					>. Since 1991, studied with
 					<a class="anchor" href="https://www.williamccchen.com" target="_blank"
-						>Great Grandmaster William C. C. Chen</a
-					>. Grandmaster William C. C. Chen's 60 movements form. Here's a
-					<a class="anchor" href="https://www.youtube.com/watch?v=-MwaUnGM7lU" target="_blank">video of the form</a
-					>
-					shot in May, 2025 during a Wat Marp Jan self retreat.
+						>Grandmaster William C. C. Chen</a
+					>, practicing his
+					<a class="anchor" href="https://www.youtube.com/watch?v=-MwaUnGM7lU" target="_blank"
+						>Yang style 60-movement form</a
+					> twice a day.
 				</dd>
 			</div>
 			<div>
@@ -158,8 +161,8 @@
 			<div>
 				<dt>Qigong class, NASA Ames Research Center (Spring, 2005)</dt>
 				<dd>
-					Taught a Qigong set for spine stretching and strengthening - fourty five minutes a week
-					for ten weeks.
+					Taught a 15-posture subset of the Shibashi Qigong (Set-1) 18-posture form - fourty minutes
+					a week for ten weeks.
 				</dd>
 			</div>
 		</dl>
@@ -295,13 +298,31 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Tai Chi and Qigong (1988 - Present)</dt>
+				<dt>Qigong (Chi Kung) (1989 - Present)</dt>
 				<dd>
-					Tai Chi is one form of moving meditation. Studied and practiced the
-					<a class="anchor" href="https://www.youtube.com/watch?v=3_BKwlpOAkk" target="_blank">
-						Yang Style Short Form of Prof. Chen Man Ching</a
+					Studied and practiced a 15-posture subset of the Shibashi Qigong (Set-1) 18-postures form
+					with
+					<a
+						class="anchor"
+						href="https://www.eomega.org/workshops/teachers/robert-tangora"
+						target="_blank"
 					>
-					under the instruction of Katherine Hannah,
+						Robert Tangora</a
+					>.
+				</dd>
+			</div>
+			<div>
+				<dt>Tai Chi (Taiji) (1988 - Present)</dt>
+				<dd>
+					Tai Chi is not only a martial art but also moving meditation. Studied and practiced the
+					<a class="anchor" href="https://www.youtube.com/watch?v=3_BKwlpOAkk" target="_blank">
+						Yang style 37-movement form</a
+					>
+					of
+					<a class="anchor" href="https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing"
+						>Chen Man-ch'ing</a
+					>
+					with several teachers (in chronological order): Katherine Hannah,
 					<a class="anchor" href="https://www.youtube.com/watch?v=6rLG3Ys-wIU" target="_blank"
 						>Maggie Newman</a
 					>,
@@ -309,18 +330,13 @@
 						class="anchor"
 						href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
 						target="_blank">Sifu William Dere</a
-					>, and since the late 80's, with
+					>. Since 1991, studied with
 					<a class="anchor" href="https://www.williamccchen.com" target="_blank"
-						>Great Grandmaster William C. C. Chen</a
-					>. In 1989 I learned a Qigong (Chi Kung) set for spine healing, strengthening and
-					stretching, created by Master Jiao Guo Ryu, from
-					<a
-						class="anchor"
-						href="https://www.eomega.org/workshops/teachers/robert-tangora"
-						target="_blank"
-					>
-						Robert Tangora</a
-					>. Qigong is also a form of moving meditation.
+						>Grandmaster William C. C. Chen</a
+					>, practicing his
+					<a class="anchor" href="https://www.youtube.com/watch?v=-MwaUnGM7lU" target="_blank"
+						>Yang style 60-movement form</a
+					> twice a day.
 				</dd>
 			</div>
 		</dl>
@@ -375,7 +391,8 @@
 		<dl>
 			<div>
 				<dt>
-					Self Retreat as an 8-Precept Guest at <a href="https://watmarpjan.org/en/">Wat Marp Jan</a
+					Self Retreat as an 8-Precept Guest at <a class="anchor" href="https://watmarpjan.org/en/"
+						>Wat Marp Jan</a
 					> (May 8 - 22, 2025)
 				</dt>
 				<dd>
