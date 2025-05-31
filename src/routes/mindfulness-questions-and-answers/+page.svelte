@@ -355,7 +355,7 @@
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
-				>"When I get strong thoughts on my mind, should I deal with them first, before meditating?""</span
+				>"When I get strong thoughts on my mind, should I deal with them first, before meditating?"</span
 			>
 		</summary>
 		<div class="p-group">
