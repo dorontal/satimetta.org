@@ -86,6 +86,63 @@
 	<details class="group p-2">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="meditation-vs-mindfulness-practice"
+		>
+			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
+			<span class="ml-2">What's the difference between meditation and mindfulness practice?</span>
+		</summary>
+		<div class="p-group">
+			<p>
+				Meditation encompasses a variety of practices used for different purposes across the world's
+				major religions and secular traditions. Mindfulness practice, similarly, takes many forms.
+				When a meditation practice directly cultivates mindfulness - it can be referred to as a
+				formal mindfulness practice.
+			</p>
+			<p>
+				However, mindfulness practice - e.g, informal mindfulness practice - can occur without
+				meditation (see the question below about informal mindfulness practice). Meditation can be
+				one way to develop mindfulness, but mindfulness can be practiced at any moment, not just
+				during meditation.
+			</p>
+		</div>
+	</details>
+	<hr class="hr" />
+	<details class="group p-2">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
+			id="formal-vs-informal-mindfulness-practice"
+		>
+			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
+			<span class="ml-2"
+				>What's the difference between formal and informal mindfulness practice?</span
+			>
+		</summary>
+		<div class="p-group">
+			<p>
+				Formal mindfulness practice means setting aside dedicated time to focus on a specific
+				meditation method. Informal practice is about bringing mindfulness into daily life. This
+				happens in two ways: (1) staying closely aware of everyday activities like eating or
+				brushing your teeth, or (2) maintaining continuous attention on something like the breath or
+				posture throughout the day.
+			</p>
+			<p>
+				Informal practice brings more ease, presence, and balance to daily life. It supports calm
+				and clarity but may not, on its own, lead to deep insight. Formal practice allows the mind
+				to settle more deeply - developing focus, tranquility, and insight - but without informal
+				practice, its development is hindered.
+			</p>
+			<p>
+				Both forms of practice strengthen and support each other - formal practice builds the
+				capacity for mindfulness, while informal practice keeps it alive throughout the day and
+				deepens formal meditation in return.
+			</p>
+			<p>Sustained progress depends on both. One without the other is incomplete.</p>
+		</div>
+	</details>
+	<hr class="hr" />
+	<details class="group p-2">
+		<summary
+			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 			id="open-awareness-vs-single-object-focus"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
@@ -110,66 +167,19 @@
 				keeping the mind open and observant of the entire experience as it unfolds.
 			</p>
 			<p>
-				Open awareness is an advanced practice. For individuals with highly distractible minds or
-				those new to mindfulness, it can be particularly challenging. Instead of cultivating mindful
-				openness, the experience may easily slip into mind-wandering (see the question about how
-				mindfulness differs from mind-wandering). For most people, it is advisable to still the mind
-				first, e.g., via mindfulness of breathing, before switching to open awareness.
+				Open awareness is an <strong>advanced practice</strong>. For individuals with highly
+				distractible minds or those new to mindfulness, it can be particularly challenging. Instead
+				of cultivating mindful openness, the experience may easily slip into mind-wandering (see the
+				question below about how mindfulness differs from mind-wandering). For most people, it is
+				advisable to still the mind first, e.g., via mindfulness of breathing, before switching to
+				open awareness.
 			</p>
 			<p>
-				When practiced in a specific way, however, open awareness can be a useful and beneficial
-				approach for individuals with stronger ADD or ADHD tendencies. Such minds often get bored
-				with concentration meditations where the anchor is just one thing. In open awareness
-				practice, these individuals can rotate their awareness among anything that arises, making
-				the meditation less monotonous. The key is to avoid getting carried away with any one object
-				and to rotate the objects frequently - e.g., paying attention to a sound, then another
-				sound, a thought, etc., in rapid succession, without sticking with or clinging to any of
-				these objects of attention.
-			</p>
-			<p>
-				Open awareness can also serve as a valuable <strong>preparatory step</strong> for focused (fixed
-				anchor, e.g. breath) meditation. Starting with open awareness helps ease the transition from
-				a scattered, everyday state of mind to focusing on just one thing. A brief period of open awareness
-				at the start of a session allows the mind to settle naturally into the present moment, creating
-				a gentle bridge toward a refined focus on a single object.
-			</p>
-		</div>
-	</details>
-	<hr class="hr" />
-	<details class="group p-2">
-		<summary
-			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="formal-vs-informal-mindfulness-practice"
-		>
-			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
-			<span class="ml-2"
-				>What's the difference between formal and informal mindfulness practice?</span
-			>
-		</summary>
-		<div class="p-group">
-			<p>
-				Formal mindfulness practice involves intentionally setting aside time and space to focus on
-				a specific meditation method or exercise, while informal mindfulness practice is about
-				weaving mindfulness into everyday activities, like brushing your teeth, washing the dishes,
-				or eating. Both types of practices cultivate mindfulness.
-			</p>
-			<p>
-				Informal practice helps life flow more smoothly, with greater ease and presence. It supports
-				a calm, attentive state that enhances daily interactions, decisions, and overall well-being,
-				but on its own may not lead to deep progress and insight. Formal practice has greater
-				potential to bring the mind to deeper states of collectedness, undistractibility and
-				tranquility, which can lead to greater insight and enhanced mind training, but without
-				informal practice it will suffer.
-			</p>
-			<p>
-				Both types of practice reinforce each other: formal practice strengthens the mental capacity
-				for mindfulness, making it easier to remain mindful in daily activities. The reverse is
-				equally important: being continuously mindful throughout daily activities strengthens the
-				“mental muscle” of mindfulness, which in turn supports meditation practice and allows it to
-				go deeper.
-			</p>
-			<p>
-				Steady progress requires both formal and informal practice; neither alone is sufficient.
+				Open awareness can serve as a valuable <strong>preparatory step</strong> for focused meditation
+				such as awareness of breathing. Starting with open awareness before focusing on a single object
+				helps ease the transition from a scattered, everyday state of mind to focusing on just one thing.
+				A brief period of open awareness at the start of a session allows the mind to settle naturally
+				into the present moment, creating a gentle bridge toward a refined focus on a single object.
 			</p>
 		</div>
 	</details>
@@ -227,33 +237,6 @@
 					</p>
 				</li>
 			</ul>
-		</div>
-	</details>
-	<hr class="hr" />
-	<details class="group p-2">
-		<summary
-			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="meditation-vs-mindfulness-practice"
-		>
-			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
-			<span class="ml-2">What's the difference between meditation and mindfulness practice?</span>
-		</summary>
-		<div class="p-group">
-			<p>
-				Meditation encompasses a variety of practices used for different purposes across the world's
-				major religions and secular traditions. Mindfulness practice, similarly, takes many forms.
-				When a meditation practice directly cultivates mindfulness - or does so as a side effect -
-				it can be referred to as a formal mindfulness practice.
-			</p>
-			<p>
-				However, mindfulness doesn't require meditation. Informal mindfulness practice involves
-				bringing mindful awareness to any activity throughout the day - for example, eating,
-				walking, working, or talking to someone.
-			</p>
-			<p>
-				In short: meditation is one way to develop mindfulness, but mindfulness can be practiced at
-				any moment, not just during meditation.
-			</p>
 		</div>
 	</details>
 	<hr class="hr" />
@@ -344,7 +327,7 @@
 			id="i-dont-get-mindfulness-of-breathing"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
-			<span class="ml-2">I just don't get this mindfulness of breathing practice.</span>
+			<span class="ml-2">"I just don't get this mindfulness of breathing practice."</span>
 		</summary>
 		<div class="p-group">
 			<p>
@@ -372,7 +355,7 @@
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
-				>When I get strong thoughts on my mind, should I deal with them first, before meditating?</span
+				>"When I get strong thoughts on my mind, should I deal with them first, before meditating?""</span
 			>
 		</summary>
 		<div class="p-group">
@@ -406,23 +389,21 @@
 			<p>
 				In principle, one should be able to meditate in any situation - even in the middle of a
 				crowded train station or a household with kids yelling, TV blaring, and phones ringing. But
-				the more your senses get bombarded, the harder it is to make the mind undistractable. This
-				doesn't mean you should seek out difficult conditions - especially not if you are a
-				beginner. It just means those conditions don't have to stop you.
+				the more your senses get bombarded, the harder it is for the mind to become undistractable.
 			</p>
 			<p>
 				When advice is given to meditators to accept whatever comes up without judgment - whether
 				it's discomfort, restlessness, or distraction - and to return to the object of meditation
-				again and again, that doesn't mean you shouldn't make the experience as supportive as
-				possible. In fact, especially as a beginner, it's completely fine - and even wise - to lean
-				on helpful outer conditions like a calm environment. These are not crutches - they're
-				supports.
+				again and again, that doesn't mean you shouldn't make your meditation experience as
+				supportive as possible. In fact, especially as a beginner, it's completely fine - and even
+				wise - to lean on helpful outer conditions like a calm environment. These are not crutches -
+				they're supports.
 			</p>
 			<p>
-				Even the Buddha began his meditation instructions with external conditions: “Having gone to
-				the forest, or to the root of a tree, or to an empty hut...” The setting matters. A peaceful
-				space makes it easier to settle the body and mind. And that's true whether you're a beginner
-				or not.
+				Even the Buddha began his meditation instructions encouraging finding useful external
+				conditions: “Having gone to the forest, or to the root of a tree, or to an empty hut...” The
+				setting matters. A peaceful space makes it easier to settle the body and mind. And that's
+				true whether you're a beginner or not.
 			</p>
 			<p>
 				In short: whatever you can do to make your meditation more comfortable, more pleasant, and
@@ -439,18 +420,18 @@
 				<li>
 					<p>
 						<b>Don't get attached to your setup.</b>
-						Eventually, you'll find yourself without it - when traveling, visiting family, or just having
-						a busy day. Instead of seeing that as a problem, treat it as a gift - a teacher. It's a chance
-						to train in flexibility and resilience.
+						Eventually, you'll find yourself without your setup - when traveling, visiting family, or
+						just having a busy day. Instead of seeing that as a problem, treat it as a gift - a teacher.
+						It's a chance to train in flexibility and resilience.
 					</p>
 				</li>
 				<li>
 					<p>
 						<b>Make a commitment to stay.</b>
-						Whatever your setup, designate the minimum time you'll be meditating before you begin. Once
-						you start, <b>hold your posture</b>. If you realize mid-meditation that you forgot some
-						part of your setup - don't stop your meditation. Stay with it until the end of the time
-						period that you had committed to. Let that moment be part of the practice.
+						Whatever your setup, designate the minimum time you'll be meditating before you begin. If
+						you realize mid-meditation that you forgot some part of your setup - don't stop your meditation.
+						Stay with it until the end of the time period that you had committed to. Let that moment
+						be part of the practice.
 					</p>
 				</li>
 				<li>
@@ -458,14 +439,12 @@
 						<b>Start with a preparation phase.</b>
 						Before you meditate, but after you have already assumed a meditation posture, make sure you
 						have a preparation phase. A strong preparation sets a strong foundation that prevents the
-						meditation from collapsing too easily. In this preparation phase, allow yourself to make
-						any adjustments necessary for maximum comfort - this is your chance to tweak things, before
-						stilling the body and mind.
+						meditation from collapsing too easily.
 					</p>
 				</li>
 			</ul>
 			<p>
-				And finally, remember that inner conditions matter too. Kindness, curiosity, patience -
+				And finally, remember that inner conditions matter too: kindness, curiosity, patience -
 				these are at least as important as silence or other supportive external conditions. As you
 				continue, you'll build the strength to meet a wider range of conditions, inside and out,
 				with presence and ease. It's a gradual training, and you're already in it.
