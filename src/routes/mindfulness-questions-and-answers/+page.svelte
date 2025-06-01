@@ -171,7 +171,7 @@
 				distractible minds or those new to mindfulness, it can be particularly challenging. Instead
 				of cultivating mindful openness, the experience may easily slip into mind-wandering (see the
 				question below about how mindfulness differs from mind-wandering). For most people, it is
-				advisable to still the mind first, e.g., via mindfulness of breathing, before switching to
+				advisable to still the mind first, e.g, via mindfulness of breathing, before switching to
 				open awareness.
 			</p>
 			<p>
@@ -281,40 +281,48 @@
 			</p>
 			<ul>
 				<li>
-					<b>Intentional Breathing Reset</b>
+					<b>Intentional breath reset</b>
 					<p>
-						Temporarily shift to intentional breathing: gently take full, long breaths with a longer
-						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
-						This reset procedure generally tends to make the mind less distractible.
+						Temporarily shift to intentional breathing - gently take full, long breaths, letting the
+						out-breath be slightly longer than the in-breath, for 3-4 breath cycles. Then allow the
+						breath to return to its natural rhythm - without controlling or shaping it. This kind of
+						reset often helps calm the mind and reduce distractibility.
 					</p>
 				</li>
 				<li>
-					<b>Posture Adjustment</b>
+					<b>Awareness of tension and its relation to the breath</b>
 					<p>
-						Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
-						tend to distract the mind. Try to limit adjustments to one, maybe two, per sit.
+						Bring your attention to the area of tension. Notice the sensations and where they’re
+						located, while staying aware of each in-breath and out-breath. As you breathe, observe
+						how each part of the breath - the in-breath and the out-breath - affects the tension.
+						Acknowledge the tension without trying to change it, with kindness, patience, and
+						self-compassion.
+					</p>
+					<p>
+						Visualizations can help: for example, on each in-breath, imagine oxygen nourishing every
+						cell in body, especially at the tense areas. On each out-breath, envision that releasing
+						what your body no longer needs helps further release the tension.
 					</p>
 				</li>
 				<li>
-					<b>Awareness of Tension with Breath</b>
+					<b>Whole body awareness and its relation to the breath</b>
 					<p>
-						Focus on the area of tension, noticing its sensations and location while noting each leg
-						of the breath. Acknowledge the tension without trying to change it, with kindness,
-						patience, and self-compassion.
-					</p>
-					<p>
-						Visualizations can support this, e.g, imagine oxygen nourishing your body, especially
-						tense areas, on each in-breath. On the out-breath, envision that releasing what your
-						body no longer needs helps further release the tension.
+						Expand your awareness to include the entire body, while staying connected to the
+						awareness of each in-breath and out-breath. Breathing in, feel the whole body; breathing
+						out, feel the whole body. This broader focus can sometimes help shift attention away
+						from specific areas of pain or tension.
 					</p>
 				</li>
 				<li>
-					<b>Whole Body Awareness With Breath</b>
+					<b>Posture adjustment</b>
 					<p>
-						Expand your awareness to the entire body as a whole, while noting each in-breath and
-						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
-						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.
+						Adjusting your posture can sometimes ease tension, but frequent shifting tends to
+						distract the mind. Try to minimize major movements unless truly necessary. That said,
+						even when the body seems still, it's always in motion - the breath, the heartbeat,
+						circulating fluids, and subtle muscular shifts are constantly happening. Rather than
+						trying to be perfectly still, which can create resistance and more tension, you might
+						experiment with gently tuning in to these natural movements. This shift in perspective
+						can support a more accepting and relaxed relationship with physical discomfort.
 					</p>
 				</li>
 			</ul>
