@@ -1,4 +1,4 @@
-import{f as t,h as o,a as e}from"../chunks/BlJ2dhQ4.js";import"../chunks/Cyj6oYLC.js";import{$ as r}from"../chunks/DZ6wZQZ8.js";const d=!0,l=!0,f=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:l},Symbol.toStringTag,{value:"Module"}));var u=t('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"/>'),m=t(`<div class="text-column"><details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="definition-of-mindfulness"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is awareness that arises from paying attention on purpose, in the present
+import{f as t,h as o,a as e}from"../chunks/BlJ2dhQ4.js";import"../chunks/Cyj6oYLC.js";import{$ as r}from"../chunks/DZ6wZQZ8.js";const l=!0,d=!0,f=Object.freeze(Object.defineProperty({__proto__:null,csr:l,prerender:d},Symbol.toStringTag,{value:"Module"}));var h=t('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"/>'),u=t(`<div class="text-column"><details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="definition-of-mindfulness"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is awareness that arises from paying attention on purpose, in the present
 				moment, non-judgmentally.</p> <p>The above definition of mindfulness refers to the mental capacity for mindfulness. This
 				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
 				like a muscle, through consistent daily practice. The term <b>trait mindfulness</b> descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of the
@@ -45,7 +45,7 @@ import{f as t,h as o,a as e}from"../chunks/BlJ2dhQ4.js";import"../chunks/Cyj6oYL
 				distractible minds or those new to mindfulness, it can be particularly challenging. Instead
 				of cultivating mindful openness, the experience may easily slip into mind-wandering (see the
 				question below about how mindfulness differs from mind-wandering). For most people, it is
-				advisable to still the mind first, e.g., via mindfulness of breathing, before switching to
+				advisable to still the mind first, e.g, via mindfulness of breathing, before switching to
 				open awareness.</p> <p>Open awareness can serve as a valuable <strong>preparatory step</strong> for focused meditation
 				such as awareness of breathing. Starting with open awareness before focusing on a single object
 				helps ease the transition from a scattered, everyday state of mind to focusing on just one thing.
@@ -74,17 +74,25 @@ import{f as t,h as o,a as e}from"../chunks/BlJ2dhQ4.js";import"../chunks/Cyj6oYL
 				fully present - whether by meditating before prayer or by approaching prayer itself as a
 				mindful practice. Conversely, the repetition in some forms of prayer can foster a meditative
 				state - allowing the mind to settle and the heart to open to deeper spiritual experiences.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="body-tension-during-meditation"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What to do about body tension during meditation?</span></summary> <div class="p-group"><p>It's common for tension to build in the body during meditation. Here are some brief
-				suggestions for managing body tension during meditation:</p> <ul><li><b>Intentional Breathing Reset</b> <p>Temporarily shift to intentional breathing: gently take full, long breaths with a longer
-						out-breath than the in-breath, for 3-4 breaths, then return to your meditation method.
-						This reset procedure generally tends to make the mind less distractible.</p></li> <li><b>Posture Adjustment</b> <p>Adjusting your posture may help relieve muscle tension. Frequent adjustments, however,
-						tend to distract the mind. Try to limit adjustments to one, maybe two, per sit.</p></li> <li><b>Awareness of Tension with Breath</b> <p>Focus on the area of tension, noticing its sensations and location while noting each leg
-						of the breath. Acknowledge the tension without trying to change it, with kindness,
-						patience, and self-compassion.</p> <p>Visualizations can support this, e.g, imagine oxygen nourishing your body, especially
-						tense areas, on each in-breath. On the out-breath, envision that releasing what your
-						body no longer needs helps further release the tension.</p></li> <li><b>Whole Body Awareness With Breath</b> <p>Expand your awareness to the entire body as a whole, while noting each in-breath and
-						out-breath. Breathing in, feel the entire body; breathing out, feel the entire body.
-						Sometimes focusing on the body as a whole can distract the mind away from any specific
-						location where there is pain or tension.</p></li></ul></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="i-dont-get-mindfulness-of-breathing"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"I just don't get this mindfulness of breathing practice."</span></summary> <div class="p-group"><p>It's totally understandable to feel like you don't ‘get' breath meditation. But the good
+				suggestions for managing body tension during meditation:</p> <ul><li><b>Intentional breath reset</b> <p>Temporarily shift to intentional breathing - gently take full, long breaths, letting the
+						out-breath be slightly longer than the in-breath, for 3-4 breath cycles. Then allow the
+						breath to return to its natural rhythm - without controlling or shaping it. This kind of
+						reset often helps calm the mind and reduce distractibility.</p></li> <li><b>Awareness of tension and its relation to the breath</b> <p>Bring your attention to the area of tension. Notice the sensations and where they’re
+						located, while staying aware of each in-breath and out-breath. As you breathe, observe
+						how each part of the breath - the in-breath and the out-breath - affects the tension.
+						Acknowledge the tension without trying to change it, with kindness, patience, and
+						self-compassion.</p> <p>Visualizations can help: for example, on each in-breath, imagine oxygen nourishing every
+						cell in body, especially at the tense areas. On each out-breath, envision that releasing
+						what your body no longer needs helps further release the tension.</p></li> <li><b>Whole body awareness and its relation to the breath</b> <p>Expand your awareness to include the entire body, while staying connected to the
+						awareness of each in-breath and out-breath. Breathing in, feel the whole body; breathing
+						out, feel the whole body. This broader focus can sometimes help shift attention away
+						from specific areas of pain or tension.</p></li> <li><b>Posture adjustment</b> <p>Adjusting your posture can sometimes ease tension, but frequent shifting tends to
+						distract the mind. Try to minimize major movements unless truly necessary. That said,
+						even when the body seems still, it's always in motion - the breath, the heartbeat,
+						circulating fluids, and subtle muscular shifts are constantly happening. Rather than
+						trying to be perfectly still, which can create resistance and more tension, you might
+						experiment with gently tuning in to these natural movements. This shift in perspective
+						can support a more accepting and relaxed relationship with physical discomfort.</p></li></ul></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="i-dont-get-mindfulness-of-breathing"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"I just don't get this mindfulness of breathing practice."</span></summary> <div class="p-group"><p>It's totally understandable to feel like you don't ‘get' breath meditation. But the good
 				news is, meditation isn't about getting it right - it's about showing up. Every time you
 				sit, you're training your mind in some way, even if it doesn't feel like it. There's no such
 				thing as a bad meditation. Maybe you notice frustration, restlessness, or boredom - that's
@@ -125,4 +133,4 @@ import{f as t,h as o,a as e}from"../chunks/BlJ2dhQ4.js";import"../chunks/Cyj6oYL
 						meditation from collapsing too easily.</p></li></ul> <p>And finally, remember that inner conditions matter too: kindness, curiosity, patience -
 				these are at least as important as silence or other supportive external conditions. As you
 				continue, you'll build the strength to meet a wider range of conditions, inside and out,
-				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function g(n){var i=m();o(s=>{var a=u();r.title="Mindfulness Questions and Answers",e(s,a)}),e(n,i)}export{g as component,f as universal};
+				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function g(n){var i=u();o(s=>{var a=h();r.title="Mindfulness Questions and Answers",e(s,a)}),e(n,i)}export{g as component,f as universal};
