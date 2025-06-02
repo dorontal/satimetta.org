@@ -325,8 +325,8 @@
 					> (May 8 - 22, 2025)
 				</dt>
 				<dd>
-					A 15-day meditation retreat and immersion in monastic life as an eight-precept guest, at
-					Wat Marp Jan - an Ajahn Chah branch monastery in a Thai rainforest in the Rayong region of
+					A 15-day self-retreat and immersion in monastic life as an eight-precept guest, at Wat
+					Marp Jan - an Ajahn Chah branch monastery in a Thai rainforest in the Rayong region of
 					Thailand. The retreat involved simple living alongside the monks, joining in daily
 					meditation, chanting, rituals, and communal work while deepening mindfulness in a serene
 					forest monastery.
