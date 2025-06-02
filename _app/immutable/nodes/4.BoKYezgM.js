@@ -25,7 +25,7 @@ import{f as t,h as o,a as e}from"../chunks/BlJ2dhQ4.js";import"../chunks/Cyj6oYL
 				one way to develop mindfulness, but mindfulness can be practiced at any moment, not just
 				during meditation.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="formal-vs-informal-mindfulness-practice"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the difference between formal and informal mindfulness practice?</span></summary> <div class="p-group"><p>Formal mindfulness practice means setting aside dedicated time to focus on a specific
 				meditation method. Informal practice is about bringing mindfulness into daily life. This
-				happens in two ways: (1) staying closely aware of everyday activities like eating or
+				may happen in two ways: (1) staying closely aware of everyday activities like eating or
 				brushing your teeth, or (2) maintaining continuous attention on something like the breath or
 				posture throughout the day.</p> <p>Informal practice brings more ease, presence, and balance to daily life. It supports calm
 				and clarity but may not, on its own, lead to deep insight. Formal practice allows the mind
