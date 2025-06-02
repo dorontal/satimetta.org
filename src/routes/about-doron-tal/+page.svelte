@@ -73,8 +73,7 @@
 				<dt>Yoga Practice (2010 - Present)</dt>
 				<dd>
 					Regular pracctice of a Hatha yoga set similar to the one taught in the MBSR curriculum
-					(see the guided yoga videos by Dr. Lynn Rossi in the Resources section of this
-					website).
+					(see the guided yoga videos by Dr. Lynn Rossi in the Resources section of this website).
 				</dd>
 			</div>
 			<TaijiQigong />
@@ -326,10 +325,11 @@
 					> (May 8 - 22, 2025)
 				</dt>
 				<dd>
-					A 15-day meditation retreat and immersion in monastic life as an eight-precept guest, set
-					in the midst of a thick Thai rainforest in the Rayong region of Thailand. Live simply
-					alongside the monks, joining in daily meditation, chanting, rituals, and communal work
-					while deepening mindfulness in a serene forest monastery.
+					A 15-day meditation retreat and immersion in monastic life as an eight-precept guest, at
+					Wat Marp Jan - an Ajahn Chah branch monastery in a Thai rainforest in the Rayong region of
+					Thailand. The retreat involved simple living alongside the monks, joining in daily
+					meditation, chanting, rituals, and communal work while deepening mindfulness in a serene
+					forest monastery.
 				</dd>
 			</div>
 			<div>

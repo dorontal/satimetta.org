@@ -121,7 +121,7 @@
 			<p>
 				Formal mindfulness practice means setting aside dedicated time to focus on a specific
 				meditation method. Informal practice is about bringing mindfulness into daily life. This
-				happens in two ways: (1) staying closely aware of everyday activities like eating or
+				may happen in two ways: (1) staying closely aware of everyday activities like eating or
 				brushing your teeth, or (2) maintaining continuous attention on something like the breath or
 				posture throughout the day.
 			</p>
