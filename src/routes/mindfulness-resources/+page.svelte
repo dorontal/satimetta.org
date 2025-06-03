@@ -3,7 +3,10 @@
 </script-->
 
 <svelte:head>
-	<meta name="description" content="Mindfulness resources and links: guided meditations for body-scan, awareness of breathing, walking meditation and loving kindness meditation; mindfulness research and mindfulness related poetry, curated by Doron Tal" />
+	<meta
+		name="description"
+		content="Mindfulness resources and links: guided meditations for body-scan, awareness of breathing, walking meditation and loving kindness meditation; mindfulness research and mindfulness related poetry, curated by Doron Tal"
+	/>
 	<title>Mindfulness Resources and Links</title>
 </svelte:head>
 
@@ -142,7 +145,7 @@
 					10 minutes Guided Loving Kindness Meditation - Sharon Salzberg</a
 				>
 			</li>
-			<li>
+			<!--li>
 				<a
 					class="anchor"
 					href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
@@ -150,7 +153,7 @@
 				>
 					17 minutes Guided Loving Kindness Meditation - Ayya Khema</a
 				>
-			</li>
+			</li-->
 			<li>
 				<a
 					class="anchor"
