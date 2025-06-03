@@ -1,6 +1,6 @@
-<script lang="ts">
+<!--script lang="ts">
 	import aob22 from '$lib/audio/mindfulness-of-breathing-22-minutes.mp3';
-</script>
+</script-->
 
 <svelte:head>
 	<meta name="description" content="Mindfulness resources and links: guided meditations for body-scan, awareness of breathing, walking meditation and loving kindness meditation; mindfulness research and mindfulness related poetry, curated by Doron Tal" />
@@ -84,12 +84,12 @@
 					20 minutes Guided Mindfulness of Breathing Meditation - Steve Hickman</a
 				>
 			</li>
-			<li>
+			<!--li>
 				22 minutes Guided Mindfulness of Breathing Meditation - Doron Tal:
 				<audio src={aob22} controls>
 					<track kind="captions" />
 				</audio>
-			</li>
+			</li-->
 		</ul>
 	</details>
 	<hr class="hr" />
