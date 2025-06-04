@@ -97,11 +97,15 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>Intermediate Mindfulness class <span class="bg-secondary-100">(Starting June 19, 2025)</span></dt>
+				<dt>
+					Intermediate Mindfulness class <span class="bg-secondary-100"
+						>(Starting June 19, 2025)</span
+					>
+				</dt>
 				<dd>
-					In-person Mindfulness class in which we first sit for a 30-minute guided meditation,
-					reorded by various mindfulness masters, followed by 30 minutes of sharing and inquiry -
-					one hour a week for eight weeks.
+					In-person mindfulness class that starts with a 30-minute guided meditation reorded by one
+					of various mindfulness masters, followed by 30 minutes of sharing and inquiry - one hour a
+					week for eight weeks.
 				</dd>
 			</div>
 			<div>
