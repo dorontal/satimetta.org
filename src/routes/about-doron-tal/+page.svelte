@@ -98,7 +98,7 @@
 		<dl>
 			<div>
 				<dt>
-					Intermediate Mindfulness class <span class="bg-secondary-100"
+					Intermediate Mindfulness class <span class="bg-success-100"
 						>(Starting June 19, 2025)</span
 					>
 				</dt>
