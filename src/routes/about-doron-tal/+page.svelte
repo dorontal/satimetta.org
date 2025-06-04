@@ -97,6 +97,14 @@
 		</summary>
 		<dl>
 			<div>
+				<dt>Intermediate Mindfulness class <span class="bg-secondary-100">(Starting June 19, 2025)</span></dt>
+				<dd>
+					In-person Mindfulness class in which we first sit for a 30-minute guided meditation,
+					reorded by various mindfulness masters, followed by 30 minutes of sharing and inquiry -
+					one hour a week for eight weeks.
+				</dd>
+			</div>
+			<div>
 				<dt>Philadelphia Prisons - Detention Center (Feb. - Apr., 2025)</dt>
 				<dd>
 					Facilitating a mindfulness based stress reduction (MBSR) curriculum to incarcerated people
@@ -104,8 +112,8 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Kennedy House, Philadelphia Mindfulness class (Jan. - Mar., 2025)</dt>
-				<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
+				<dt>Introduction to Mindfulness (Jan. - Mar., 2025)</dt>
+				<dd>In-person introductory Mindfulness class - one hour a week for ten weeks.</dd>
 			</div>
 			<div>
 				<dt>Philadelphia Prisons - Industrial Correctional Center (Nov., 2024 - Feb., 2025)</dt>
@@ -125,8 +133,8 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Kennedy House, Philadelphia Mindfulness class (Oct., 2024 - Jan., 2025)</dt>
-				<dd>Introductory Mindfulness class - one hour a week for ten weeks.</dd>
+				<dt>Introduction to Mindfulness class (Oct., 2024 - Jan., 2025)</dt>
+				<dd>In-person introductory Mindfulness class - one hour a week for ten weeks.</dd>
 			</div>
 			<div>
 				<dt>Qigong class, NASA Ames Research Center (Spring, 2005)</dt>
