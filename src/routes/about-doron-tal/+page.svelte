@@ -98,9 +98,7 @@
 		<dl>
 			<div>
 				<dt>
-					Intermediate Mindfulness class <span class="bg-success-100 dark:bg-success-800"
-						>(Starting June 19, 2025)</span
-					>
+					Intermediate Mindfulness class (June, 2025 - Present)
 				</dt>
 				<dd>
 					In-person mindfulness class that starts with a 30-minute guided meditation reorded by one
@@ -388,7 +386,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (Jun. 14-16, 2024)</dt>
+				<dt>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
