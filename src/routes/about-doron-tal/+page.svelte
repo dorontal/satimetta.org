@@ -97,9 +97,7 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>
-					Intermediate Mindfulness class (June, 2025 - Present)
-				</dt>
+				<dt>Intermediate Mindfulness class (June - July, 2025)</dt>
 				<dd>
 					In-person mindfulness class that starts with a 30-minute guided meditation reorded by one
 					of various mindfulness masters, followed by 30 minutes of sharing and inquiry - one hour a
@@ -291,16 +289,6 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>Certified Mindfulness Teacher</dt>
-				<dd>
-					Certification awarded by the <a
-						class="anchor"
-						href="https://www.engagedmindfulness.org"
-						target="_blank">Engaged Mindfulness Institute</a
-					> on Apr. 7, 2025.
-				</dd>
-			</div>
-			<div>
 				<dt>Certified Mindfulness Teacher - Professional Level (CMT-P)</dt>
 				<dd>
 					Certification awarded by the <a class="anchor" href="https://imta.org"
@@ -310,6 +298,16 @@
 						class="anchor"
 						href="https://directory.imta.org/?page=1&search_term=Doron Tal">Details...</a
 					>.)
+				</dd>
+			</div>
+			<div>
+				<dt>Certified Mindfulness Teacher</dt>
+				<dd>
+					Certification awarded by the <a
+						class="anchor"
+						href="https://www.engagedmindfulness.org"
+						target="_blank">Engaged Mindfulness Institute</a
+					> on Apr. 7, 2025.
 				</dd>
 			</div>
 			<div>
@@ -330,16 +328,13 @@
 		<dl>
 			<div>
 				<dt>
-					Self Retreat as an 8-Precept Guest at <a class="anchor" href="https://watmarpjan.org/en/"
-						>Wat Marp Jan</a
-					> (May 8 - 22, 2025)
+					Immersion in monastic life as a guest at Wat Marp Jan, a forest monastery in southern
+					Thailand in the Ajahn Chah tradition (May 8 - 22, 2025)
 				</dt>
 				<dd>
-					A 15-day self-retreat and immersion in monastic life as an eight-precept guest, at Wat
-					Marp Jan - an Ajahn Chah branch monastery in a Thai rainforest in the Rayong region of
-					Thailand. The retreat involved simple living alongside the monks, joining in daily
-					meditation, chanting, rituals, and communal work while deepening mindfulness in a serene
-					forest monastery.
+					The retreat involved simple living alongside the monks, extended meditation, participation
+					in monastic routines, and communal work - all while deepening mindfulness in daily life in
+					a serene rainforest setting.
 				</dd>
 			</div>
 			<div>
