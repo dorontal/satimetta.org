@@ -29,7 +29,7 @@
 					10 minutes Body Scan - Mary Lovegrove</a
 				>
 			</li>
-			<li>
+			<!--li>
 				<a
 					class="anchor"
 					href="https://insighttimer.com/rubyknafo/guided-meditations/body-scan-11-minutes"
@@ -37,13 +37,9 @@
 				>
 					11 minutes Body Scan - Ruby Knafo</a
 				>
-			</li>
+			</li-->
 			<li>
-				<a
-					class="anchor"
-					href="https://soundcloud.com/ucsdmindfulness/45-minute-body-scan-by-steve-hickman"
-					target="_blank"
-				>
+				<a class="anchor" href="https://www.youtube.com/watch?v=p5tzAMVaWgI" target="_blank">
 					45 minutes Body Scan - Steve Hickman</a
 				>
 			</li>
@@ -79,12 +75,8 @@
 				>
 			</li>
 			<li>
-				<a
-					class="anchor"
-					href="https://soundcloud.com/ucsdmindfulness/20-min-seated-meditation-by-steve-hickman"
-					target="_blank"
-				>
-					20 minutes Guided Mindfulness of Breathing Meditation - Steve Hickman</a
+				<a class="anchor" href="https://www.youtube.com/watch?v=1H2Cgc60UlU" target="_blank">
+					20 minutes Guided Mindfulness of Breathing Meditation - Jon Kabat Zinn</a
 				>
 			</li>
 			<!--li>
@@ -93,6 +85,13 @@
 					<track kind="captions" />
 				</audio>
 			</li-->
+			<li>
+				<a class="anchor" href="https://insighttimer.com/" target="_blank">InsightTimer</a> offers a
+				large collection of free guided meditations, including many on mindfulness of breathing. No registration
+				is needed to access much content. Visit the site and search for terms like “mindfulness of breathing”
+				or “awareness of breath,” then choose a duration that works for you. Try a few different ones
+				until you find a guide whose style resonates with you.
+			</li>
 		</ul>
 	</details>
 	<hr class="hr" />
