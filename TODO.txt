@@ -5,8 +5,11 @@ Content:
 * In Q&A, add something on the four foundations of mindfulness
 * Add specific foundations of mindfulness guided meditations to the
   resources page
+* In About page: modify Dalai Lama line to a single sentence.
+* Add a way to email me - add a feedback section
 
 Tech:
 
 * Make deploy script also increment the version and also do a git-push
   with the new version as comment and say deploy in that comment too
+* Add a way to email me - add a feedback section
