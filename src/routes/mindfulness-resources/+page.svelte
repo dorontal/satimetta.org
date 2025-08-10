@@ -167,6 +167,11 @@
 					18 minutes Guided Loving Kindness Meditation - Thich Nhat Hanh</a
 				>
 			</li>
+			<li>
+				<a class="anchor" href="https://www.youtube.com/watch?v=TdSgBB1dqNk" target="_blank">
+					18 minutes Guided Metta (Loving Kindness) Meditation - Samaneri Jayasara</a
+				>
+			</li>
 		</ul>
 	</details>
 	<hr class="hr" />
