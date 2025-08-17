@@ -74,11 +74,11 @@
 					10 minutes Guided Mindfulness of Breathing Meditation - Jon Kabat Zinn</a
 				>
 			</li>
-			<li>
+			<!--li>
 				<a class="anchor" href="https://www.youtube.com/watch?v=1H2Cgc60UlU" target="_blank">
 					20 minutes Guided Mindfulness of Breathing Meditation - Jon Kabat Zinn</a
 				>
-			</li>
+			</li-->
 			<!--li>
 				22 minutes Guided Mindfulness of Breathing Meditation - Doron Tal:
 				<audio src={aob22} controls>
