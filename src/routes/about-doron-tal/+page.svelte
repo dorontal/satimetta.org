@@ -156,7 +156,29 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>Engaged Mindfulness Institute - Mindfulness Teacher Training (May 2024 - Apr. 2025)</dt>
+				<dt>
+					<a class="anchor" href="https://innerstrengtheducation.org/" target="_blank"
+						>Inner Strength Education</a
+					>
+					-
+					<a
+						class="anchor"
+						href="https://www.theconsciousclassroom.com/p/teaching-inner-strength"
+						target="_blank">Teaching Inner Strength</a
+					> Mindfulness Teacher Training (August 2025 - Present)
+				</dt>
+				<dd>
+					Sixty-hour training program in the Inner Strength curriculum, preparing participants to
+					teach mindfulness and social-emotional learning to middle and high school students in the
+					School District of Philadelphia.
+				</dd>
+			</div>
+			<div>
+				<dt>
+					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
+						>Engaged Mindfulness Institute</a
+					> - Mindfulness Teacher Training (May 2024 - Apr. 2025)
+				</dt>
 				<dd>
 					The <a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
 						>Engaged Mindfulness Institute</a
@@ -173,13 +195,17 @@
 			</div>
 			<div>
 				<dt>
-					Prison Mindfulness Institute's <a
+					<a class="anchor" href="https://www.prisondmindfulness.org" target="_blank"
+						>Prison Mindfulness Institute</a
+					>
+					-
+					<a
 						class="anchor"
 						href="https://www.prisonmindfulness.org/path-of-freedom"
 						target="_blank"
 					>
 						Path of Freedom</a
-					> - Prison mindfulness teacher/facilitator Training (Jul. - Aug., 2024)
+					> - Mindfulness teacher/facilitator Training (Jul. - Aug., 2024)
 				</dt>
 				<dd>
 					The <a
@@ -268,11 +294,11 @@
 			<div>
 				<dt>A Talk by His Holiness the Dalai Lama (1991)</dt>
 				<dd>
-					Attended a talk by his Holiness the Dalai Lama, titled <a
+					This talk, titled <a
 						class="anchor"
 						href="https://www.youtube.com/watch?v=_2G-4m4y8Ss"
 						target="_blank">"Overcoming Differences"</a
-					>. This catalyzed further study of his work, mostly in the area of loving-kindness.
+					> catalyzed further study of his work, mostly in the area of loving-kindness.
 				</dd>
 			</div>
 			<TaijiQigong />

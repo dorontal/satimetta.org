@@ -28,12 +28,12 @@
 			class="anchor"
 			href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
 			target="_blank">Sifu William Dere</a
-		>. Since 1991, studied with
+		> and
 		<a class="anchor" href="https://www.williamccchen.com" target="_blank"
 			>Grandmaster William C. C. Chen</a
-		>, practicing his
+		>.  Since 1991: practiced the
 		<a class="anchor" href="https://www.youtube.com/watch?v=-MwaUnGM7lU" target="_blank"
 			>Yang style 60-movement form</a
-		> twice daily, as a moving meditation.
+		> twice daily as a moving meditation.
 	</dd>
 </div>
