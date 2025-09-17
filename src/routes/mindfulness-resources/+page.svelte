@@ -214,10 +214,15 @@
 			<li>
 				<a
 					class="anchor"
-					href="https://docs.google.com/document/d/1AbaENWFLB3iBQWI5bz0LJOSeWt2_TwZBcuon3xqMHj8"
+					href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
 					target="_blank"
 				>
-					Mindful Attention Awareness Scale (MAAS)
+					Link Between Mindfulness and Happiness - Matt Killingsworth
+				</a>
+			</li>
+			<li>
+				<a class="anchor" href="https://www.youtube.com/watch?v=br8-qebjIgs" target="_blank">
+					Polyvagal Theory: The New Science of Safety and Trauma - Seth Porges
 				</a>
 			</li>
 			<li>
@@ -227,6 +232,20 @@
 					target="_blank"
 				>
 					U.S. Online Meditation Groups
+				</a>
+			</li>
+			<li>
+				<a
+					class="anchor"
+					href="https://docs.google.com/document/d/1AbaENWFLB3iBQWI5bz0LJOSeWt2_TwZBcuon3xqMHj8"
+					target="_blank"
+				>
+					Mindful Attention Awareness Scale (MAAS)
+				</a>
+			</li>
+			<li>
+				<a class="anchor" href="https://goamra.org/" target="_blank">
+					American Mindfulness Research Association
 				</a>
 			</li>
 			<li>
@@ -240,46 +259,6 @@
 					target="_blank"
 				>
 					IMTA Mindfulness Infographic
-				</a>
-			</li>
-			<!--li>
-				<a
-					class="anchor"
-					href="https://insighttimer.com/blog/back-pain-meditation-neck/"
-					target="_blank"
-				>
-					An article on body pain during meditation, with guided meditations
-				</a>
-			</li-->
-		</ul>
-	</details>
-	<hr class="hr" />
-	<details class="group p-2">
-		<summary
-			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="mindfulness-research"
-		>
-			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
-			<span class="ml-2">Mindfulness Research</span>
-		</summary>
-		<ul>
-			<li>
-				<a
-					class="anchor"
-					href="https://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?subtitle=en"
-					target="_blank"
-				>
-					Link Between Mindfulness and Happiness - Matt Killingsworth
-				</a>
-			</li>
-			<li>
-				<a class="anchor" href="https://www.youtube.com/watch?v=br8-qebjIgs" target="_blank">
-					Polyvagal Theory: The New Science of Safety and Trauma - Seth Porges
-				</a>
-			</li>
-			<li>
-				<a class="anchor" href="https://goamra.org/" target="_blank">
-					American Mindfulness Research Association
 				</a>
 			</li>
 		</ul>
