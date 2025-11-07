@@ -368,7 +368,7 @@
 		<dl>
 			<div>
 				<dt>
-					Self retreat at <a class="anchor" href="https://buddhistinsights.org/"
+					Self retreat at <a class="anchor" href="https://buddhistinsights.org/" target="_blank"
 						>Empty Cloud Monastery</a
 					>, a forest monastery in northern New Jersey, US (Oct 15 - 18, 2025)
 				</dt>
@@ -379,8 +379,11 @@
 			</div>
 			<div>
 				<dt>
-					Immersion in monastic life as a guest at Wat Marp Jan, a forest monastery in southern
-					Thailand in the Ajahn Chah tradition (May 8 - 22, 2025)
+					Immersion in monastic life as a guest at <a
+						class="anchor"
+						href="https://watmarpjan.org/en/"
+						target="_blank">Wat Marp Jan</a
+					>, a forest monastery in southern Thailand in the Ajahn Chah tradition (May 8 - 22, 2025)
 				</dt>
 				<dd>
 					The retreat involved simple living alongside the monks, extended meditation, participation
@@ -389,14 +392,16 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Winter Online Retreat With Clear Mountain Monastery (Feb. - Apr., 2025)</dt>
-				<dd>
-					Online retreat, offered by <a
+				<dt>
+					Winter Online Retreat With <a
 						class="anchor"
 						href="https://www.clearmountainmonastery.org"
 						target="_blank">Clear Mountain Monastery</a
-					>. Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in
-					part of this retreat).
+					> (Feb. - Apr., 2025)
+				</dt>
+				<dd>
+					Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in part
+					of this retreat).
 				</dd>
 			</div>
 			<div>
@@ -412,7 +417,11 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (Oct. 11-13, 2024)</dt>
+				<dt>
+					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
+						>Engaged Mindfulness Institute</a
+					> Retreat (Oct. 11-13, 2024)
+				</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -422,7 +431,11 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (Sep. 13-15, 2024)</dt>
+				<dt>
+					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
+						>Engaged Mindfulness Institute</a
+					> Retreat (Sep. 13-15, 2024)
+				</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -432,7 +445,11 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (June 14-16, 2024)</dt>
+				<dt>
+					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
+						>Engaged Mindfulness Institute</a
+					> Retreat (June 14-16, 2024)
+				</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -442,7 +459,11 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Engaged Mindfulness Institute Retreat (May 3-5, 2024)</dt>
+				<dt>
+					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
+						>Engaged Mindfulness Institute</a
+					> Retreat (May 3-5, 2024)
+				</dt>
 				<dd>
 					Online retreat, part of <a
 						class="anchor"
@@ -452,7 +473,13 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Summer Online Retreat With Clear Mountain Monastery (Aug. 12 - Sep. 13, 2024)</dt>
+				<dt>
+					Summer Online Retreat With <a
+						class="anchor"
+						href="https://www.clearmountainmonastery.org"
+						target="_blank">Clear Mountain Monastery</a
+					> (Aug. 12 - Sep. 13, 2024)
+				</dt>
 				<dd>
 					Online retreat, offered by <a
 						class="anchor"
@@ -463,7 +490,13 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Retreat with Santikaro (Jan. 21-27, 2024)</dt>
+				<dt>
+					Retreat with <a
+						class="anchor"
+						href="https://www.kevalaretreat.org/who-we-are"
+						target="_blank">Santikaro</a
+					> (Jan. 21-27, 2024)
+				</dt>
 				<dd>
 					Online silent retreat titled
 					<a
