@@ -97,6 +97,13 @@
 		</summary>
 		<dl>
 			<div>
+				<dt>School Mindfulness Instructor, Inner Strength Education (Fall 2025)</dt>
+				<dd>
+					Teaching mindfulness to 7th and 8th graders at several public schools in the School
+					District of Philadelphia.
+				</dd>
+			</div>
+			<div>
 				<dt>Intermediate Mindfulness class (June - July, 2025)</dt>
 				<dd>
 					In-person mindfulness class that starts with a 30-minute guided meditation reorded by one
