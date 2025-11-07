@@ -368,6 +368,17 @@
 		<dl>
 			<div>
 				<dt>
+					Self retreat at <a class="anchor" href="https://buddhistinsights.org/"
+						>Empty Cloud Monastery</a
+					>, a forest monastery in northern New Jersey, US (Oct 15 - 18, 2025)
+				</dt>
+				<dd>
+					Participation in monastic life as an eight precept guest: extended meditation sessions,
+					community events and communal work.
+				</dd>
+			</div>
+			<div>
+				<dt>
 					Immersion in monastic life as a guest at Wat Marp Jan, a forest monastery in southern
 					Thailand in the Ajahn Chah tradition (May 8 - 22, 2025)
 				</dt>
