@@ -97,7 +97,14 @@
 		</summary>
 		<dl>
 			<div>
-				<dt>School Mindfulness Instructor, Inner Strength Education (Fall 2025)</dt>
+				<dt>
+					School Mindfulness Instructor, <a
+						class="anchor"
+						href="https://innerstrengtheducation.org/"
+						target="_blank">Inner Strength Education</a
+					>
+					(Fall 2025)
+				</dt>
 				<dd>
 					Teaching mindfulness to 7th and 8th graders at several public schools in the School
 					District of Philadelphia.
