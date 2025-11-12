@@ -225,7 +225,7 @@
 					Polyvagal Theory: The New Science of Safety and Trauma - Seth Porges
 				</a>
 			</li>
-			<li>
+			<!--li>
 				<a
 					class="anchor"
 					href="https://docs.google.com/spreadsheets/d/1prfYuXq3_4Tuu57cO2gS70z-2wnq79uTDV6h4daKgr4"
@@ -233,7 +233,7 @@
 				>
 					U.S. Online Meditation Groups
 				</a>
-			</li>
+			</li-->
 			<li>
 				<a
 					class="anchor"
@@ -251,14 +251,6 @@
 			<li>
 				<a class="anchor" href="https://imta.org" target="_blank">
 					International Mindfulness Teachers Association (IMTA)
-				</a>
-				/
-				<a
-					class="anchor"
-					href="https://cdn.ymaws.com/imta.site-ym.com/resource/resmgr/IMTA_Infographic_final.pdf"
-					target="_blank"
-				>
-					IMTA Mindfulness Infographic
 				</a>
 			</li>
 		</ul>
