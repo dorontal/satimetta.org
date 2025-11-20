@@ -179,7 +179,7 @@
 						class="anchor"
 						href="https://www.theconsciousclassroom.com/p/teaching-inner-strength"
 						target="_blank">Teaching Inner Strength</a
-					> - Mindfulness Teacher Training (August 2025 - Present)
+					> - Mindfulness Teacher Training (Aug. - Nov. 2025)
 				</dt>
 				<dd>
 					Sixty-hour training program in the Inner Strength curriculum, preparing participants to
