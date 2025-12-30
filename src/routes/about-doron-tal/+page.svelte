@@ -167,8 +167,8 @@
 			<div>
 				<dt>Qigong class, NASA Ames Research Center (Spring, 2005)</dt>
 				<dd>
-					Taught a 15-posture subset of the Shibashi Qigong (Set-1) 18-posture form - fourty minutes
-					a week for ten weeks.
+					Taught a 15-posture subset of the Shibashi Taiji Qigong 18-posture form (modified
+					for spine stretching and healing) - fourty minutes per week for ten weeks.
 				</dd>
 			</div>
 		</dl>
