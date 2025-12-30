@@ -103,10 +103,24 @@
 						href="https://innerstrengtheducation.org/"
 						target="_blank">Inner Strength Education</a
 					>
-					(Fall 2025)
+					(Spring Semester, 2026)
 				</dt>
 				<dd>
-					Teaching mindfulness to 7th and 8th graders at several public schools in the School
+					Teaching mindfulness to 9th and 10th and 11th graders at several public high schools in the School
+					District of Philadelphia.
+				</dd>
+			</div>
+			<div>
+				<dt>
+					School Mindfulness Instructor, <a
+						class="anchor"
+						href="https://innerstrengtheducation.org/"
+						target="_blank">Inner Strength Education</a
+					>
+					(Fall Semester, 2025)
+				</dt>
+				<dd>
+					Teaching mindfulness to 7th and 8th graders at several public middle schools in the School
 					District of Philadelphia.
 				</dd>
 			</div>
