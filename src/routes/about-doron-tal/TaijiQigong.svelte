@@ -1,7 +1,8 @@
 <div>
 	<dt>Qigong (Chi Kung) (1989 - Present)</dt>
 	<dd>
-		Studied and practiced a 15-posture subset of the Shibashi Qigong (Set-1) 18-postures form with
+		Studied and practiced a 15-posture subset of the Shibashi Taiji Qigong 18-posture form (modified
+		for spine stretching and healing) with
 		<a
 			class="anchor"
 			href="https://www.eomega.org/workshops/teachers/robert-tangora"
@@ -28,10 +29,11 @@
 			class="anchor"
 			href="https://www.facebook.com/UCBTaiji/videos/william-dere-pushing-hands-principles/2454512608101776"
 			target="_blank">Sifu William Dere</a
-		> and
+		>
+		and
 		<a class="anchor" href="https://www.williamccchen.com" target="_blank"
 			>Grandmaster William C. C. Chen</a
-		>.  Since 1991: practiced the
+		>. Since 1991: practiced the
 		<a class="anchor" href="https://www.youtube.com/watch?v=-MwaUnGM7lU" target="_blank"
 			>Yang style 60-movement form</a
 		> twice daily as a moving meditation.
