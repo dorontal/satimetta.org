@@ -103,50 +103,38 @@
 						href="https://innerstrengtheducation.org/"
 						target="_blank">Inner Strength Education</a
 					>
-					(Spring Semester, 2026)
+					(Oct., 2025 - Feb. 2026)
 				</dt>
 				<dd>
-					Teaching mindfulness to 9th and 10th and 11th graders at several public high schools in the School
-					District of Philadelphia.
+					Taught mindfulness classes in-person to stuents in grades 7-12 at several public schools
+					in the School District of Philadelphia.
 				</dd>
 			</div>
 			<div>
-				<dt>
-					School Mindfulness Instructor, <a
-						class="anchor"
-						href="https://innerstrengtheducation.org/"
-						target="_blank">Inner Strength Education</a
-					>
-					(Fall Semester, 2025)
-				</dt>
+				<dt>Intermediate Mindfulness class (Jun. - Jul., 2025)</dt>
 				<dd>
-					Teaching mindfulness to 7th and 8th graders at several public middle schools in the School
-					District of Philadelphia.
-				</dd>
-			</div>
-			<div>
-				<dt>Intermediate Mindfulness class (June - July, 2025)</dt>
-				<dd>
-					In-person mindfulness class that starts with a 30-minute guided meditation reorded by one
-					of various mindfulness masters, followed by 30 minutes of sharing and inquiry - one hour a
-					week for eight weeks.
+					Facilitated an in-person mindfulness class that starts with a 30-minute guided meditation
+					reorded by one of various mindfulness masters, followed by 30 minutes of sharing and
+					inquiry - one hour a week for eight weeks.
 				</dd>
 			</div>
 			<div>
 				<dt>Philadelphia Prisons - Detention Center (Feb. - Apr., 2025)</dt>
 				<dd>
-					Facilitating a mindfulness based stress reduction (MBSR) curriculum to incarcerated people
-					at this jail - one hour a week for ten weeks.
+					Facilitated an in-person mindfulness based stress reduction (MBSR) curriculum to
+					incarcerated people at this jail - one hour a week for ten weeks.
 				</dd>
 			</div>
 			<div>
-				<dt>Introduction to Mindfulness (Jan. - Mar., 2025)</dt>
-				<dd>In-person introductory Mindfulness class - one hour a week for ten weeks.</dd>
+				<dt>Facilitating an in-person Introduction to Mindfulness class (Jan. - Mar., 2025)</dt>
+				<dd>
+					Facilitated an in-person introductory Mindfulness class - one hour a week for ten weeks.
+				</dd>
 			</div>
 			<div>
 				<dt>Philadelphia Prisons - Industrial Correctional Center (Nov., 2024 - Feb., 2025)</dt>
 				<dd>
-					Facilitating the <a
+					Facilitated the <a
 						class="anchor"
 						href="https://www.prisonmindfulness.org/path-of-freedom"
 						target="_blank"
@@ -161,14 +149,18 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Introduction to Mindfulness class (Oct., 2024 - Jan., 2025)</dt>
-				<dd>In-person introductory Mindfulness class - one hour a week for ten weeks.</dd>
+				<dt>
+					Facilitated an in-person introduction to Mindfulness class (Oct., 2024 - Jan., 2025)
+				</dt>
+				<dd>
+					Facilitated an in-person introductory Mindfulness class - one hour a week for ten weeks.
+				</dd>
 			</div>
 			<div>
 				<dt>Qigong class, NASA Ames Research Center (Spring, 2005)</dt>
 				<dd>
-					Taught a 15-posture subset of the Shibashi Taiji Qigong 18-posture form (modified
-					for spine stretching and healing) - fourty minutes per week for ten weeks.
+					Taught a 15-posture subset of the Shibashi Taiji Qigong 18-posture form (modified for
+					spine stretching and healing) - fourty minutes per week for ten weeks.
 				</dd>
 			</div>
 		</dl>
