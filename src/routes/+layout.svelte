@@ -136,7 +136,7 @@
 		<!-- Backdrop -->
 		<button
 			type="button"
-			class="bg-opacity-50 fixed inset-0 bg-gray-800 md:hidden"
+			class="fixed inset-0 bg-gray-800/50 md:hidden"
 			class:hidden={!isSidebarOpen}
 			onclick={closeSidebar}
 			aria-label="Close sidebar"
