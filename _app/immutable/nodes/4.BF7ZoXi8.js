@@ -1,16 +1,16 @@
-import"../chunks/DsnmJJEf.js";import"../chunks/BwruKUHK.js";import{a as e,z as o,c as t,$ as r}from"../chunks/C_MlkLAj.js";import{h as l}from"../chunks/3kUDSTnx.js";const d=!0,h=!0,y=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:h},Symbol.toStringTag,{value:"Module"}));var u=t('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"/>'),c=t(`<div class="text-column"><details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="definition-of-mindfulness"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn's definition</a>: Mindfulness is awareness that arises from paying attention on purpose, in the present
-				moment, non-judgmentally.</p> <p>The above definition of mindfulness refers to the mental capacity for mindfulness. This
-				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
-				like a muscle, through consistent daily practice. The term <b>trait mindfulness</b> descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of the
-				mind. <b>State mindfulness</b>, on the other hand, refers to the momentary experience of
-				mindfulness. A helpful way to distinguish between the two is to think of state mindfulness
-				as answering the question, "How mindful are you right now?" and trait mindfulness as
-				answering, "How mindful are you these days?"</p> <p><b>Mindfulness practice</b> refers to the activities and exercises aimed at cultivating mindfulness.
+import"../chunks/DsnmJJEf.js";import"../chunks/qV6XAqEA.js";import{a as e,z as o,c as t,$ as r}from"../chunks/DoJ54i8r.js";import{h as l}from"../chunks/DhiNWhbc.js";const d=!0,u=!0,y=Object.freeze(Object.defineProperty({__proto__:null,csr:d,prerender:u},Symbol.toStringTag,{value:"Module"}));var h=t('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"/>'),c=t(`<div class="text-column"><details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="definition-of-mindfulness"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p>A simple, high level, definition of mindfuness is "remembering to be aware", or "connecting
+				with our awareness".</p> <p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn offers a useful working definition of mindfulness:</a>: "Mindfulness is awareness that arises through paying attention, on purpose, in the
+				present moment, non-judgementally”.</p> <p>The above definitions refer to mindfulness as a mental capacity. This capacity can fluctuate
+				throughout the day, but it can also be strengthened over time, much like a muscle, through
+				consistent daily practice. <b>Trait mindfulness</b> descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of the
+				mind; <b>state mindfulness</b>, on the other hand, refers to the momentary experience of
+				mindfulness. State mindfulness answers the question, "How mindful are you right now?", while
+				trait mindfulness answers, "How mindful are you, in general?"</p> <p><b>Mindfulness practice</b> refers to the activities and exercises aimed at cultivating mindfulness.
 				It is the process that strengthens trait mindfulness, enhances the average level of state mindfulness,
 				and generally improves the mind's capacity to be mindful. The term mindfulness practice can refer
 				to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation session,
-				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is
-				applied to everyday activities.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="what-mindfulness-is-not"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What mindfulness is not</span></summary> <div class="p-group"><p>Some common misconceptions about mindfulness:</p> <p><b>Mindfulness</b> is not the same as <b>mindfulness practice</b>: <b>Mindfulness</b> is a quality of the mind (see the definition of mindfulness question,
+				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is applied
+				to everyday activities.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="what-mindfulness-is-not"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What mindfulness is not</span></summary> <div class="p-group"><p>Some common misconceptions about mindfulness:</p> <p><b>Mindfulness</b> is not the same as <b>mindfulness practice</b>: <b>Mindfulness</b> is a quality of the mind (see the definition of mindfulness question,
 				above) that can be strengthened through <b>mindfulness practice</b> - a regular routine to cultivate
 				this skill - just as a muscle can be strengthened via repeated workout.</p> <p><b>Mindfulness practice is not the same as relaxation:</b> While mindfulness practice may lead to calmness, its purpose is not relaxation. It's about paying
 				attention to the present moment - whatever it holds - with openness, curiosity, and kindness.</p> <p><b>Mindfulness practice is not a quick fix:</b> Like building physical strength at the gym, mindfulness develops gradually with consistent practice.
@@ -24,10 +24,10 @@ import"../chunks/DsnmJJEf.js";import"../chunks/BwruKUHK.js";import{a as e,z as o
 				meditation (see the question below about informal mindfulness practice). Meditation can be
 				one way to develop mindfulness, but mindfulness can be practiced at any moment, not just
 				during meditation.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="formal-vs-informal-mindfulness-practice"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the difference between formal and informal mindfulness practice?</span></summary> <div class="p-group"><p>Formal mindfulness practice means setting aside dedicated time to focus on a specific
-				meditation method. Informal practice is about bringing mindfulness into daily life. This
-				may happen in two ways: (1) staying closely aware of everyday activities like eating or
-				brushing your teeth, or (2) maintaining continuous attention on something like the breath or
-				posture throughout the day.</p> <p>Informal practice brings more ease, presence, and balance to daily life. It supports calm
+				meditation method. Informal practice is about bringing mindfulness into daily life. This may
+				happen in two ways: (1) staying closely aware of everyday activities like eating or brushing
+				your teeth, or (2) maintaining continuous attention on something like the breath or posture
+				throughout the day.</p> <p>Informal practice brings more ease, presence, and balance to daily life. It supports calm
 				and clarity but may not, on its own, lead to deep insight. Formal practice allows the mind
 				to settle more deeply - developing focus, tranquility, and insight - but without informal
 				practice, its development is hindered.</p> <p>Both forms of practice strengthen and support each other - formal practice builds the
@@ -92,16 +92,17 @@ import"../chunks/DsnmJJEf.js";import"../chunks/BwruKUHK.js";import{a as e,z as o
 						circulating fluids, and subtle muscular shifts are constantly happening. Rather than
 						trying to be perfectly still, which can create resistance and more tension, you might
 						experiment with gently tuning in to these natural movements. This shift in perspective
-						can support a more accepting and relaxed relationship with physical discomfort.</p></li></ul></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="i-dont-get-mindfulness-of-breathing"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"I just don't get this mindfulness of breathing practice."</span></summary> <div class="p-group"><p>It's totally understandable to feel like you don't ‘get' breath meditation. But the good
+						can support a more accepting and relaxed relationship with physical discomfort.</p></li></ul></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="i-dont-get-mindfulness-of-breathing"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"I just don't get this mindfulness of breathing formal practice."</span></summary> <div class="p-group"><p>It's totally understandable to feel like you don't ‘get' breath meditation. But the good
 				news is, meditation isn't about getting it right - it's about showing up. Every time you
 				sit, you're training your mind in some way, even if it doesn't feel like it. There's no such
 				thing as a bad meditation. Maybe you notice frustration, restlessness, or boredom - that's
 				insight. Maybe you notice tiny moments of focus - that's also insight. The key is to keep
-				practicing and stay curious about whatever shows up, with openness and kindness.</p> <p>It's also useful and important to keep practicing regularly - not just formal practice of at
-				least ten minutes per day, everyday, but also informal practice throughout each day, such as
-				mindfulness of posture, mindfulness of breathing in and out in all activities, or
-				mindfulness of daily activities. It's also useful to know that it may take a long time until
-				we notice the positive changes that the practice brings.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="dealing-with-strong-thoughts-before-meditating"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"When I get strong thoughts on my mind, should I deal with them first, before meditating?"</span></summary> <div class="p-group"><p>It's natural to feel like you need to sort things out before meditating - but one of the
+				practicing and stay curious about whatever shows up, with openness and kindness.</p> <p>It's also useful and important to keep practicing regularly - not just via formal practice
+				(of at least ten minutes per day, everyday), but also via informal practice throughout the
+				day, such as mindfulness in daily activities, mindfulness of posture, or mindfulness of
+				breathing in and out. It's also useful to know that it may take a long time until we notice
+				the positive changes that the practice brings.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="dealing-with-strong-thoughts-before-meditating"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"When I get strong thoughts on my mind, should I deal with them first, before a formal
+				meditation practice?"</span></summary> <div class="p-group"><p>It's natural to feel like you need to sort things out before meditating - but one of the
 				best ways to train the mind is to meditate even when it feels inconvenient. This is why it's
 				helpful to set a clear intention for practice, to schedule a start and end time, never
 				stumbling onto meditation by a fluke. For example, we might commit to meditating every
@@ -111,7 +112,7 @@ import"../chunks/DsnmJJEf.js";import"../chunks/BwruKUHK.js";import{a as e,z as o
 				we're able to do that, then when we come back to these thoughts after formal meditation, the
 				mind will be clearer and better able to deal with them. A calmer, more concentrated mind
 				always sees things more clearly - allowing us to handle those thoughts more skillfully than
-				if we had rushed to address them and skipped meditation instead.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="relying-on-pleasant-external-conditions-for-meditation"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">Is it okay to rely on pleasant external conditions to support meditation?</span></summary> <div class="p-group"><p>In principle, one should be able to meditate in any situation - even in the middle of a
+				if we had rushed to address them and skipped meditation instead.</p></div></details> <hr class="hr"/> <details class="group p-2"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden" id="relying-on-pleasant-external-conditions-for-meditation"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">"Is it okay to rely on pleasant external conditions to support formal practice?""</span></summary> <div class="p-group"><p>In principle, one should be able to meditate in any situation - even in the middle of a
 				crowded train station or a household with kids yelling, TV blaring, and phones ringing. But
 				the more your senses get bombarded, the harder it is for the mind to become undistractable.</p> <p>When advice is given to meditators to accept whatever comes up without judgment - whether
 				it's discomfort, restlessness, or distraction - and to return to the object of meditation
@@ -127,10 +128,10 @@ import"../chunks/DsnmJJEf.js";import"../chunks/BwruKUHK.js";import{a as e,z as o
 						just having a busy day. Instead of seeing that as a problem, treat it as a gift - a teacher.
 						It's a chance to train in flexibility and resilience.</p></li> <li><p><b>Make a commitment to stay.</b> Whatever your setup, designate the minimum time you'll be meditating before you begin. If
 						you realize mid-meditation that you forgot some part of your setup - don't stop your meditation.
-						Stay with it until the end of the time period that you had committed to. Let that moment
-						be part of the practice.</p></li> <li><p><b>Start with a preparation phase.</b> Before you meditate, but after you have already assumed a meditation posture, make sure you
+						Stay with it until the end of the time period that you had committed to. Let that moment be
+						part of the practice.</p></li> <li><p><b>Start with a preparation phase.</b> Before you meditate, but after you have already assumed a meditation posture, make sure you
 						have a preparation phase. A strong preparation sets a strong foundation that prevents the
 						meditation from collapsing too easily.</p></li></ul> <p>And finally, remember that inner conditions matter too: kindness, curiosity, patience -
 				these are at least as important as silence or other supportive external conditions. As you
 				continue, you'll build the strength to meet a wider range of conditions, inside and out,
-				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function b(n){var i=c();l("g1dj59",s=>{var a=u();o(()=>{r.title="Mindfulness Questions and Answers"}),e(s,a)}),e(n,i)}export{b as component,y as universal};
+				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function b(n){var i=c();l("g1dj59",s=>{var a=h();o(()=>{r.title="Mindfulness Questions and Answers"}),e(s,a)}),e(n,i)}export{b as component,y as universal};
