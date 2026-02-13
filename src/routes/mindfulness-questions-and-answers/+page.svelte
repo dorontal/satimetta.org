@@ -17,28 +17,31 @@
 		</summary>
 		<div class="p-group">
 			<p>
-				<a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
-					>Jon Kabat-Zinn's definition
-				</a>: Mindfulness is awareness that arises from paying attention on purpose, in the present
-				moment, non-judgmentally.
+				A simple, high level, definition of mindfuness is "remembering to be aware", or "connecting
+				with our awareness".
 			</p>
 			<p>
-				The above definition of mindfulness refers to the mental capacity for mindfulness. This
-				capacity can fluctuate throughout the day, but it can also be strengthened over time, much
-				like a muscle, through consistent daily practice. The term <b>trait mindfulness</b>
+				<a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
+					>Jon Kabat-Zinn offers a useful working definition of mindfulness:
+				</a>: "Mindfulness is awareness that arises through paying attention, on purpose, in the
+				present moment, non-judgementally”.
+			</p>
+			<p>
+				The above definitions refer to mindfulness as a mental capacity. This capacity can fluctuate
+				throughout the day, but it can also be strengthened over time, much like a muscle, through
+				consistent daily practice. <b>Trait mindfulness</b>
 				descries the baseline level of mindfulness - the steady, underlying mindfulness capacity of the
-				mind. <b>State mindfulness</b>, on the other hand, refers to the momentary experience of
-				mindfulness. A helpful way to distinguish between the two is to think of state mindfulness
-				as answering the question, "How mindful are you right now?" and trait mindfulness as
-				answering, "How mindful are you these days?"
+				mind; <b>state mindfulness</b>, on the other hand, refers to the momentary experience of
+				mindfulness. State mindfulness answers the question, "How mindful are you right now?", while
+				trait mindfulness answers, "How mindful are you, in general?"
 			</p>
 			<p>
 				<b>Mindfulness practice</b> refers to the activities and exercises aimed at cultivating mindfulness.
 				It is the process that strengthens trait mindfulness, enhances the average level of state mindfulness,
 				and generally improves the mind's capacity to be mindful. The term mindfulness practice can refer
 				to: (a) a regular daily routine of practicing mindfulness, (b) a specific meditation session,
-				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is
-				applied to everyday activities.
+				(c) various types of mindfulness meditations, or (d) informal practices where mindfulness is applied
+				to everyday activities.
 			</p>
 		</div>
 	</details>
@@ -120,10 +123,10 @@
 		<div class="p-group">
 			<p>
 				Formal mindfulness practice means setting aside dedicated time to focus on a specific
-				meditation method. Informal practice is about bringing mindfulness into daily life. This
-				may happen in two ways: (1) staying closely aware of everyday activities like eating or
-				brushing your teeth, or (2) maintaining continuous attention on something like the breath or
-				posture throughout the day.
+				meditation method. Informal practice is about bringing mindfulness into daily life. This may
+				happen in two ways: (1) staying closely aware of everyday activities like eating or brushing
+				your teeth, or (2) maintaining continuous attention on something like the breath or posture
+				throughout the day.
 			</p>
 			<p>
 				Informal practice brings more ease, presence, and balance to daily life. It supports calm
@@ -335,7 +338,7 @@
 			id="i-dont-get-mindfulness-of-breathing"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
-			<span class="ml-2">"I just don't get this mindfulness of breathing practice."</span>
+			<span class="ml-2">"I just don't get this mindfulness of breathing formal practice."</span>
 		</summary>
 		<div class="p-group">
 			<p>
@@ -347,11 +350,11 @@
 				practicing and stay curious about whatever shows up, with openness and kindness.
 			</p>
 			<p>
-				It's also useful and important to keep practicing regularly - not just formal practice of at
-				least ten minutes per day, everyday, but also informal practice throughout each day, such as
-				mindfulness of posture, mindfulness of breathing in and out in all activities, or
-				mindfulness of daily activities. It's also useful to know that it may take a long time until
-				we notice the positive changes that the practice brings.
+				It's also useful and important to keep practicing regularly - not just via formal practice
+				(of at least ten minutes per day, everyday), but also via informal practice throughout the
+				day, such as mindfulness in daily activities, mindfulness of posture, or mindfulness of
+				breathing in and out. It's also useful to know that it may take a long time until we notice
+				the positive changes that the practice brings.
 			</p>
 		</div>
 	</details>
@@ -363,7 +366,8 @@
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
-				>"When I get strong thoughts on my mind, should I deal with them first, before meditating?"</span
+				>"When I get strong thoughts on my mind, should I deal with them first, before a formal
+				meditation practice?"</span
 			>
 		</summary>
 		<div class="p-group">
@@ -390,7 +394,7 @@
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
-				>Is it okay to rely on pleasant external conditions to support meditation?</span
+				>"Is it okay to rely on pleasant external conditions to support formal practice?""</span
 			>
 		</summary>
 		<div class="p-group">
@@ -438,8 +442,8 @@
 						<b>Make a commitment to stay.</b>
 						Whatever your setup, designate the minimum time you'll be meditating before you begin. If
 						you realize mid-meditation that you forgot some part of your setup - don't stop your meditation.
-						Stay with it until the end of the time period that you had committed to. Let that moment
-						be part of the practice.
+						Stay with it until the end of the time period that you had committed to. Let that moment be
+						part of the practice.
 					</p>
 				</li>
 				<li>
