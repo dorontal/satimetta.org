@@ -99,8 +99,8 @@
 	function navClass(route: Route) {
 		const path = page.url.pathname;
 		return route.match(path)
-			? `${baseNavClass} bg-surface-200 dark:bg-surface-600 font-medium`
-			: `${baseNavClass} hover:bg-surface-200 dark:hover:bg-surface-600`;
+			? `${baseNavClass} bg-surface-300 dark:bg-surface-600 font-medium`
+			: `${baseNavClass} hover:bg-surface-200 dark:hover:bg-surface-700`;
 	}
 
 	function headerText() {
