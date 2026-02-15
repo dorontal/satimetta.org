@@ -552,10 +552,10 @@
   resolved "https://registry.yarnpkg.com/@sveltejs/adapter-static/-/adapter-static-3.0.10.tgz#526ab78cd1d3a861dd0233e8ff34a204af40d595"
   integrity sha512-7D9lYFWJmB7zxZyTE/qxjksvMqzMuYrrsyh1f4AlZqeZeACPRySjbC3aFiY55wb1tWUaKOQG9PVbm74JcN2Iew==
 
-"@sveltejs/kit@^2.51.0":
-  version "2.51.0"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.51.0.tgz#c2ed07a1120dd73eaa42101adc34a3f67e06c100"
-  integrity sha512-BkcfxVVYmfxHGYLugemb7TWW+y/MNZbxXHXJ141lyyi2ozq0Q4kbqoV0cBGlh7F0vNtCMvfr7UPnxIaBjcP9gg==
+"@sveltejs/kit@^2.52.0":
+  version "2.52.0"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-2.52.0.tgz#02a3b7852fdee68be687d69dff551776921ff13a"
+  integrity sha512-zG+HmJuSF7eC0e7xt2htlOcEMAdEtlVdb7+gAr+ef08EhtwUsjLxcAwBgUCJY3/5p08OVOxVZti91WfXeuLvsg==
   dependencies:
     "@standard-schema/spec" "^1.0.0"
     "@sveltejs/acorn-typescript" "^1.0.5"
@@ -2581,10 +2581,10 @@ svelte-eslint-parser@^1.4.0:
     postcss-scss "^4.0.9"
     postcss-selector-parser "^7.0.0"
 
-svelte@^5.51.0:
-  version "5.51.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.51.0.tgz#fadd681d74123de2784ce884c0de53e52208fca4"
-  integrity sha512-TOtjs5SjPi1iCXJ7aHwQBY+PEyk0koIc1FCKNFyS9kQuN4FBma9nRuxM4f4A0b5SCdej812vf2Rcql2I0s9FZg==
+svelte@^5.51.2:
+  version "5.51.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.51.2.tgz#29263dea3995106a664548114c47bae7a0c5ffce"
+  integrity sha512-AqApqNOxVS97V4Ko9UHTHeSuDJrwauJhZpLDs1gYD8Jk48ntCSWD7NxKje+fnGn5Ja1O3u2FzQZHPdifQjXe3w==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
