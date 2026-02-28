@@ -16,9 +16,9 @@
 		</div>
 		<p class="intro-text">
 			This space provides resources for developing mindfulness and loving-kindness: practices valued
-			for thousands of years and now supported by both traditional wisdom and modern science. Here,
-			you'll find Doron Tal's related background, and curated resources to help you cultivate these
-			qualities in daily life and to support ongoing instruction.
+			for thousands of years and now supported by both traditional wisdom and modern science.
+            Here, you'll find curated resources to support past and ongoing mindfulness classes 
+			facilitated by Doron Tal.
 		</p>
 	</div>
 </section>
