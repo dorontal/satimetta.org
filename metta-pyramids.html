@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Six Infinite Pyramids with Rays</title>
+<style>
+  body { margin: 0; background: #111; }
+  canvas { display: block; }
+</style>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.152.2/build/three.module.js"
+  }
+}
+</script>
+</head>
+
+<body>
+
+<script type="module">
+import * as THREE from "three";
+import { OrbitControls } from "https://unpkg.com/three@0.152.2/examples/jsm/controls/OrbitControls.js";
+
+// Scene
+const scene = new THREE.Scene();
+
+// Camera
+const camera = new THREE.PerspectiveCamera(
+  60,
+  window.innerWidth / window.innerHeight,
+  0.1,
+  100
+);
+camera.position.set(5, 5, 5);
+
+// Renderer
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement);
+
+// Controls
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
+
+// Lights
+const dirLight = new THREE.DirectionalLight(0xffffff, 1);
+dirLight.position.set(5,5,5);
+scene.add(dirLight);
+scene.add(new THREE.AmbientLight(0xffffff, 0.4));
+
+// Cube reference
+const cubeSize = 1;
+const cube = new THREE.BoxGeometry(cubeSize, cubeSize, cubeSize);
+const edges = new THREE.EdgesGeometry(cube);
+scene.add(new THREE.LineSegments(
+  edges,
+  new THREE.LineBasicMaterial({ color: 0xffffff })
+));
+
+// Pyramid setup
+const apex = new THREE.Vector3(0,0,0);
+const h = cubeSize/2;
+const colors = [
+  0x4285F4, 0xEA4335, 0xFBBC05, 0x34A853, 0xA142F4, 0x00ACC1
+];
+const pyramidLength = 5; // how far out pyramids extend
+
+function createInfinitePyramid(baseCorners, color) {
+  const vertices = [];
+  const tri = (a,b,c) => {
+    vertices.push(a.x,a.y,a.z, b.x,b.y,b.z, c.x,c.y,c.z);
+  };
+
+  // Scale base outwards
+  const scaledCorners = baseCorners.map(c => c.clone().normalize().multiplyScalar(pyramidLength));
+
+  // 4 side triangles
+  for (let i=0;i<4;i++){
+    tri(scaledCorners[i], scaledCorners[(i+1)%4], apex);
+  }
+
+  // base square (2 triangles)
+  tri(scaledCorners[0], scaledCorners[1], scaledCorners[2]);
+  tri(scaledCorners[0], scaledCorners[2], scaledCorners[3]);
+
+  const geometry = new THREE.BufferGeometry();
+  geometry.setAttribute("position", new THREE.Float32BufferAttribute(vertices,3));
+  geometry.computeVertexNormals();
+
+  const material = new THREE.MeshPhongMaterial({
+    color,
+    transparent: true,
+    opacity: 0.35,
+    side: THREE.DoubleSide
+  });
+
+  scene.add(new THREE.Mesh(geometry, material));
+}
+
+// Six pyramids
+createInfinitePyramid([
+  new THREE.Vector3(h,-h,-h),
+  new THREE.Vector3(h, h,-h),
+  new THREE.Vector3(h, h, h),
+  new THREE.Vector3(h,-h, h)
+], colors[0]);
+
+createInfinitePyramid([
+  new THREE.Vector3(-h,-h, h),
+  new THREE.Vector3(-h, h, h),
+  new THREE.Vector3(-h, h,-h),
+  new THREE.Vector3(-h,-h,-h)
+], colors[1]);
+
+createInfinitePyramid([
+  new THREE.Vector3(-h, h,-h),
+  new THREE.Vector3( h, h,-h),
+  new THREE.Vector3( h, h, h),
+  new THREE.Vector3(-h, h, h)
+], colors[2]);
+
+createInfinitePyramid([
+  new THREE.Vector3(-h,-h, h),
+  new THREE.Vector3( h,-h, h),
+  new THREE.Vector3( h,-h,-h),
+  new THREE.Vector3(-h,-h,-h)
+], colors[3]);
+
+createInfinitePyramid([
+  new THREE.Vector3(-h,-h, h),
+  new THREE.Vector3( h,-h, h),
+  new THREE.Vector3( h, h, h),
+  new THREE.Vector3(-h, h, h)
+], colors[4]);
+
+createInfinitePyramid([
+  new THREE.Vector3(-h, h,-h),
+  new THREE.Vector3( h, h,-h),
+  new THREE.Vector3( h,-h,-h),
+  new THREE.Vector3(-h,-h,-h)
+], colors[5]);
+
+// Rays from origin through cube corners
+const rayLength = 5;
+const corners = [
+  new THREE.Vector3( h,  h,  h),
+  new THREE.Vector3( h,  h, -h),
+  new THREE.Vector3( h, -h,  h),
+  new THREE.Vector3( h, -h, -h),
+  new THREE.Vector3(-h,  h,  h),
+  new THREE.Vector3(-h,  h, -h),
+  new THREE.Vector3(-h, -h,  h),
+  new THREE.Vector3(-h, -h, -h),
+];
+
+corners.forEach(corner => {
+  const direction = corner.clone().normalize();
+  const endPoint = direction.multiplyScalar(rayLength);
+
+  const geometry = new THREE.BufferGeometry().setFromPoints([
+    new THREE.Vector3(0,0,0),
+    endPoint
+  ]);
+
+  const material = new THREE.LineBasicMaterial({ color: 0xffffff });
+  scene.add(new THREE.Line(geometry, material));
+});
+
+// Animate
+function animate(){
+  requestAnimationFrame(animate);
+  controls.update();
+  renderer.render(scene,camera);
+}
+animate();
+
+// Handle resize
+window.addEventListener("resize",()=>{
+  camera.aspect = window.innerWidth/window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+</script>
+
+</body>
+</html>
