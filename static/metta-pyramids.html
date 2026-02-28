@@ -33,7 +33,7 @@ const camera = new THREE.PerspectiveCamera(
   0.1,
   100
 );
-camera.position.set(5, 5, 5);
+camera.position.set(1.2, 1.2, 1.2);
 
 // Renderer
 const renderer = new THREE.WebGLRenderer({ antialias: true });
@@ -43,6 +43,8 @@ document.body.appendChild(renderer.domElement);
 // Controls
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true;
+controls.target.set(0, 0, 0);
+controls.update();
 
 // Lights
 const dirLight = new THREE.DirectionalLight(0xffffff, 1);
