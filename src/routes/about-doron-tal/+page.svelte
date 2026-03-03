@@ -337,7 +337,7 @@
 					Certified Teen Mindfulness Instructor - 
 					<a class="anchor" href="https://innerstrengtheducation.org/" target="_blank"
 						>Inner Strength Education</a
-					>.
+					>
 				</dt>
 				<dd>
 					Certification by <a
