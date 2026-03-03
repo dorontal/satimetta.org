@@ -49,8 +49,7 @@
 						href="https://www.youtube.com/watch?v=_IFvablc6EI"
 						target="_blank">walking meditation instructions</a
 					> (one note per step), added Bhikkhu Bodhi's three-point technique (picking, placing, shifting)
-					and a six-point method. The approach varies depending on mental state at the start of each
-					session.
+					and a six-point method. The approach varies depending on mental state at the start of each session.
 				</dd>
 			</div>
 			<div>
@@ -203,10 +202,9 @@
 					The <a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
 						>Engaged Mindfulness Institute</a
 					>
-					trains its students to facilitate mindfulness instruction in a trauma-informed manner. The
-					EMI mindfulness teacher training certifies its graduates to teach mindfulness to the general
-					population. It is also one of the teacher training institutions whose certification can be
-					accepted by the
+					trains its students to facilitate mindfulness instruction in a trauma-informed manner. The EMI
+					mindfulness teacher training certifies its graduates to teach mindfulness to the general population.
+					It is also one of the teacher training institutions whose certification can be accepted by the
 					<a class="anchor" href="https://imta.org" target="_blank"
 						>International Mindfulness Teachers Association</a
 					> for their Certified Mindfulness Teaching Professional (CMT-P) certification. EMI graduation
@@ -334,6 +332,28 @@
 			<span class="ml-2">Certifications and Professional Organizations</span>
 		</summary>
 		<dl>
+			<div>
+				<dt>
+					Certified Teen Mindfulness Instructor - 
+					<a class="anchor" href="https://innerstrengtheducation.org/" target="_blank"
+						>Inner Strength Education</a
+					>.
+				</dt>
+				<dd>
+					Certification awarded by <a
+						class="anchor"
+						href="https://innerstrengtheducation.org/"
+						target="_blank">Inner Strength Education</a
+					>
+					for having completed their <a
+						class="anchor"
+						href="https://www.theconsciousclassroom.com/p/teaching-inner-strength"
+						>Teaching Inner Strength</a
+					> Teen Mindfulness Teacher Training, Levels 1 & 2 - A 60-hour mindfulness teacher
+					training course. Level 1 is "Foundations of Mindfulness" and Level 2 is "Systems Thinking"
+					for the classroom.
+				</dd>
+			</div>
 			<div>
 				<dt>Certified Mindfulness Teacher - Professional Level (CMT-P)</dt>
 				<dd>
