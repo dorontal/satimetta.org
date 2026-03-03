@@ -102,7 +102,7 @@
 						href="https://innerstrengtheducation.org/"
 						target="_blank">Inner Strength Education</a
 					>
-					(Oct., 2025 - Feb. 2026)
+					(Oct., 2025 - Feb., 2026)
 				</dt>
 				<dd>
 					Taught mindfulness classes in-person to stuents in grades 7-12 at several public schools
@@ -184,7 +184,7 @@
 						class="anchor"
 						href="https://www.theconsciousclassroom.com/p/teaching-inner-strength"
 						target="_blank">Teaching Inner Strength</a
-					> - Mindfulness Teacher Training (Aug. - Nov. 2025)
+					> - Mindfulness Teacher Training (Aug. - Nov., 2025)
 				</dt>
 				<dd>
 					Sixty-hour training program in the Inner Strength curriculum, preparing participants to
@@ -196,7 +196,7 @@
 				<dt>
 					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
 						>Engaged Mindfulness Institute</a
-					> - Mindfulness Teacher Training (May 2024 - Apr. 2025)
+					> - Mindfulness Teacher Training (May 2024 - Apr., 2025)
 				</dt>
 				<dd>
 					The <a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
@@ -279,7 +279,7 @@
 				</dd>
 			</div>
 			<div>
-				<dt>MBSR Class (Sep. 2023)</dt>
+				<dt>MBSR Class (Sep., 2023)</dt>
 				<dd>
 					Attended an MBSR class, in exploration of teaching MBSR later. This was a University of
 					California, San Diego (UCSD)'s <a
@@ -340,7 +340,7 @@
 					>.
 				</dt>
 				<dd>
-					Certification awarded by <a
+					Certification by <a
 						class="anchor"
 						href="https://innerstrengtheducation.org/"
 						target="_blank">Inner Strength Education</a
@@ -351,7 +351,7 @@
 						>Teaching Inner Strength</a
 					> Teen Mindfulness Teacher Training, Levels 1 & 2 - A 60-hour mindfulness teacher
 					training course. Level 1 is "Foundations of Mindfulness" and Level 2 is "Systems Thinking"
-					for the classroom.
+					for the classroom. Awarded Dec., 2025.
 				</dd>
 			</div>
 			<div>
@@ -378,7 +378,7 @@
 			</div>
 			<div>
 				<dt>Member, International Mindfulness Teachers Association</dt>
-				<dd>Member since May, 2024. Active member Apr. 2025 - Present.</dd>
+				<dd>Member since May, 2024. Active member Apr., 2025 - Present.</dd>
 			</div>
 		</dl>
 	</details>
