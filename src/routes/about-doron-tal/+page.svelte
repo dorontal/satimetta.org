@@ -377,7 +377,9 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Member, International Mindfulness Teachers Association</dt>
+				<dt>Member, <a class="anchor" href="https://imta.org" target="_blank"
+						>International Mindfulness Teachers Association</a
+					></dt>
 				<dd>Member since May, 2024. Active member Apr., 2025 - Present.</dd>
 			</div>
 		</dl>
