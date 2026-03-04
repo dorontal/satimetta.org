@@ -196,7 +196,7 @@
 				<dt>
 					<a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"
 						>Engaged Mindfulness Institute</a
-					> - Mindfulness Teacher Training (May 2024 - Apr., 2025)
+					> - Mindfulness Teacher Training (May, 2024 - Apr., 2025)
 				</dt>
 				<dd>
 					The <a class="anchor" href="https://www.engagedmindfulness.org" target="_blank"

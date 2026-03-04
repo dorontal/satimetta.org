@@ -23,7 +23,7 @@
 	</div>
 </section>
 
-<style>
+<!--style>
 	section {
 		margin: 0 auto;
 		display: flex;
@@ -61,4 +61,4 @@
 		margin: 0;
 		font-size: 1rem;
 	}
-</style>
+</style-->
