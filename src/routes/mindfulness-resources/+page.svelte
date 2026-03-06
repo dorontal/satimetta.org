@@ -86,8 +86,8 @@
 				</audio>
 			</li-->
 			<li>
-				<a class="anchor" href="https://insighttimer.com/" target="_blank">InsightTimer</a> offers a
-				large collection of free guided meditations, including many on mindfulness of breathing. No registration
+				<a class="anchor" href="https://insighttimer.com/" target="_blank">InsightTimer</a> offers a large
+				collection of free guided meditations, including many on mindfulness of breathing. No registration
 				is needed to access much content. Visit the site and search for terms like “mindfulness of breathing”
 				or “awareness of breath,” then choose a duration that works for you. Try a few different ones
 				until you find a guide whose style resonates with you.
@@ -144,7 +144,7 @@
 					10 minutes Guided Loving Kindness Meditation - Sharon Salzberg</a
 				>
 			</li>
-			<!--li>
+			<li>
 				<a
 					class="anchor"
 					href="https://insighttimer.com/buddha-haus/guided-meditations/flower-garden-loving-kindness-meditation-metta"
@@ -152,8 +152,8 @@
 				>
 					17 minutes Guided Loving Kindness Meditation - Ayya Khema</a
 				>
-			</li-->
-			<li>
+			</li>
+			<!--li>
 				<a
 					class="anchor"
 					href="https://www.youtube.com/playlist?list=PLv4CVwkg1WmJUN85pK3baKsvfMDAWPBtC"
@@ -161,16 +161,22 @@
 				>
 					Guided Loving Kindness Meditation Playlist - Ayya Khema</a
 				>
-			</li>
+			</li-->
 			<li>
 				<a class="anchor" href="https://www.youtube.com/watch?v=5luvQp--B8U" target="_blank">
 					18 minutes Guided Loving Kindness Meditation - Thich Nhat Hanh</a
 				>
 			</li>
-			<li>
+			<!--li>
 				<a class="anchor" href="https://www.youtube.com/watch?v=TdSgBB1dqNk" target="_blank">
 					18 minutes Guided Metta (Loving Kindness) Meditation - Samaneri Jayasara</a
 				>
+			</li-->
+			<li>
+				<a class="anchor" href="/metta-pyramids.html" target="_blank">
+					A 3D rotate/zoom geometric visualization</a
+				> for extending metta infinitely outward in space in all directions equally, as prescribed by
+				the Buddha.
 			</li>
 		</ul>
 	</details>
