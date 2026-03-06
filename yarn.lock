@@ -1812,9 +1812,9 @@ flatted@^3.2.9:
   integrity sha512-3+mMldrTAPdta5kjX2G2J7iX4zxtnwpdA8Tr2ZSjkyPSanvbZAcy6flmtnXbEybHrDcU9641lxrMfFuUxVz9vA==
 
 fs-extra@^11.1.1:
-  version "11.3.3"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.3.3.tgz#a27da23b72524e81ac6c3815cc0179b8c74c59ee"
-  integrity sha512-VWSRii4t0AFm6ixFFmLLx1t7wS1gh+ckoa84aOeapGum0h+EZd1EhEumSB+ZdDLnEPuucsVB9oB7cxJHap6Afg==
+  version "11.3.4"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.3.4.tgz#ab6934eca8bcf6f7f6b82742e33591f86301d6fc"
+  integrity sha512-CTXd6rk/M3/ULNQj8FBqBWHYBVYybQ3VPBw0xGKFe3tuH7ytT6ACnvzpIQ3UZtB8yvUKC2cXn1a+x+5EVQLovA==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -2080,10 +2080,10 @@ locate-path@^6.0.0:
   dependencies:
     p-locate "^5.0.0"
 
-lucide-svelte@^0.576.0:
-  version "0.576.0"
-  resolved "https://registry.yarnpkg.com/lucide-svelte/-/lucide-svelte-0.576.0.tgz#059999efc9896f6386d45574ff7ba7507cf89de6"
-  integrity sha512-bm7RCoptI8unoEyo9H9sRHTHgnleuBW8npge05ZtxHkNsDNnO3p/BQEU79sshf4k+MSrjqlWvsCN5vVZtgV7ww==
+lucide-svelte@^0.577.0:
+  version "0.577.0"
+  resolved "https://registry.yarnpkg.com/lucide-svelte/-/lucide-svelte-0.577.0.tgz#171be0916936a81fcf22c30a5d2ba2d1edc0fd9d"
+  integrity sha512-0i88o57KsaHWnc80J57fY99CWzlZsSdtH5kKjLUJa7z8dum/9/AbINNLzJ7NiRFUdOgMnfAmJt8jFbW2zeC5qQ==
 
 magic-string@^0.30.11, magic-string@^0.30.21, magic-string@^0.30.5:
   version "0.30.21"
@@ -2290,10 +2290,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier-plugin-svelte@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.5.0.tgz#84f0284f5f931d9517f795cfeddca4c1025ea764"
-  integrity sha512-2lLO/7EupnjO/95t+XZesXs8Bf3nYLIDfCo270h5QWbj/vjLqmrQ1LiRk9LPggxSDsnVYfehamZNf+rgQYApZg==
+prettier-plugin-svelte@^3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.5.1.tgz#b5ab0ba6547369d16695ac9334cadf42b6af6304"
+  integrity sha512-65+fr5+cgIKWKiqM1Doum4uX6bY8iFCdztvvp2RcF+AJoieaw9kJOFMNcJo/bkmKYsxFaM9OsVZK/gWauG/5mg==
 
 prettier-plugin-tailwindcss@^0.7.2:
   version "0.7.2"
@@ -2470,10 +2470,10 @@ svelte-eslint-parser@^1.4.0:
     postcss-selector-parser "^7.0.0"
     semver "^7.7.2"
 
-svelte@^5.53.6:
-  version "5.53.6"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.53.6.tgz#9ebfdd9faeb7b35d425735c63023544e487959c5"
-  integrity sha512-lP5DGF3oDDI9fhHcSpaBiJEkFLuS16h92DhM1L5K1lFm0WjOmUh1i2sNkBBk8rkxJRpob0dBE75jRfUzGZUOGA==
+svelte@^5.53.7:
+  version "5.53.7"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.53.7.tgz#9cdaebbb42957c3c01e4d57c1ab6b5584f1216f7"
+  integrity sha512-uxck1KI7JWtlfP3H6HOWi/94soAl23jsGJkBzN2BAWcQng0+lTrRNhxActFqORgnO9BHVd1hKJhG+ljRuIUWfQ==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
