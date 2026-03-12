@@ -1,3 +1,18 @@
+<script>
+	import { onMount } from 'svelte';
+
+	onMount(() => {
+		const id = window.location.hash.slice(1);
+		if (!id) return;
+
+		const details = document.getElementById(id);
+		if (details && details.tagName === 'DETAILS') {
+			details.open = true;
+			details.scrollIntoView();
+		}
+	});
+</script>
+
 <svelte:head>
 	<meta
 		name="description"
@@ -7,10 +22,9 @@
 </svelte:head>
 
 <div class="text-column">
-	<details class="group p-2">
+	<details class="group p-2" id="definition-of-mindfulness">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="definition-of-mindfulness"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">What's the definition of mindfulness?</span>
@@ -46,10 +60,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="what-mindfulness-is-not">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="what-mindfulness-is-not"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">What mindfulness is not</span>
@@ -86,10 +99,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="meditation-vs-mindfulness-practice">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="meditation-vs-mindfulness-practice"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">What's the difference between meditation and mindfulness practice?</span>
@@ -110,10 +122,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="formal-vs-informal-mindfulness-practice">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="formal-vs-informal-mindfulness-practice"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
@@ -143,10 +154,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="open-awareness-vs-single-object-focus">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="open-awareness-vs-single-object-focus"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
@@ -187,10 +197,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="mindfulness-practice-vs-mind-wandering">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="mindfulness-practice-vs-mind-wandering"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">How does mindfulness practice differ from mind wandering?</span>
@@ -243,10 +252,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="relationship-between-prayer-and-mindfulness-practice">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="relationship-between-prayer-and-mindfulness-practice"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">What's the relationship between prayer and mindfulness practice?</span>
@@ -269,10 +277,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="body-tension-during-meditation">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="body-tension-during-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">What to do about body tension during meditation?</span>
@@ -332,10 +339,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="i-dont-get-mindfulness-of-breathing">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="i-dont-get-mindfulness-of-breathing"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2">"I just don't get this mindfulness of breathing formal practice."</span>
@@ -359,10 +365,9 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="dealing-with-strong-thoughts-before-meditating">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="dealing-with-strong-thoughts-before-meditating"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
@@ -387,14 +392,13 @@
 		</div>
 	</details>
 	<hr class="hr" />
-	<details class="group p-2">
+	<details class="group p-2" id="relying-on-pleasant-external-conditions-for-meditation">
 		<summary
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
-			id="relying-on-pleasant-external-conditions-for-meditation"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
 			<span class="ml-2"
-				>"Is it okay to rely on pleasant external conditions to support formal practice?""</span
+				>"Is it okay to rely on pleasant external conditions to support formal practice?"</span
 			>
 		</summary>
 		<div class="p-group">
