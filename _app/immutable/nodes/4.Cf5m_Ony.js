@@ -1,4 +1,4 @@
-import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from"../chunks/CIFKDrD0.js";import{p as l,a as n,b as d,B as u,c as i,$ as h}from"../chunks/Co-TeWy1.js";import{h as c}from"../chunks/DZ1IREPp.js";import{i as m}from"../chunks/D-kJ1oLh.js";const p=!0,f=!0,j=Object.freeze(Object.defineProperty({__proto__:null,csr:p,prerender:f},Symbol.toStringTag,{value:"Module"}));var g=i('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"/>'),y=i(`<div class="text-column"><details class="group p-2" id="definition-of-mindfulness"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p>A simple, high level, definition of mindfuness is "remembering to be aware", or "connecting
+import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from"../chunks/CIFKDrD0.js";import{p as l,a as n,b as d,B as u,c as i,$ as c}from"../chunks/Co-TeWy1.js";import{h}from"../chunks/DZ1IREPp.js";import{i as m}from"../chunks/D-kJ1oLh.js";const p=!0,f=!0,x=Object.freeze(Object.defineProperty({__proto__:null,csr:p,prerender:f},Symbol.toStringTag,{value:"Module"}));var g=i('<meta name="description" content="Mindfulness Questions and Answers / Mindfulness Q&amp;A / Mindfulness Q &amp; A/ Mindfulness Frequently Asked Questions / Mindfulness FAQ"/>'),y=i(`<div class="text-column"><details class="group p-2" id="definition-of-mindfulness"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the definition of mindfulness?</span></summary> <div class="p-group"><p>A simple, high level, definition of mindfuness is "remembering to be aware", or "connecting
 				with our awareness".</p> <p><a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/">Jon Kabat-Zinn offers a useful working definition of mindfulness:</a>: "Mindfulness is awareness that arises through paying attention, on purpose, in the
 				present moment, non-judgementally”.</p> <p>The above definitions refer to mindfulness as a mental capacity. This capacity can fluctuate
 				throughout the day, but it can also be strengthened over time, much like a muscle, through
@@ -33,15 +33,17 @@ import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from".
 				practice, its development is hindered.</p> <p>Both forms of practice strengthen and support each other - formal practice builds the
 				capacity for mindfulness, while informal practice keeps it alive throughout the day and
 				deepens formal meditation in return.</p> <p>Sustained progress depends on both. One without the other is incomplete.</p></div></details> <hr class="hr"/> <details class="group p-2" id="open-awareness-vs-single-object-focus"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the difference between focusing on a single object in meditation and practicing open
-				or choiceless awareness?</span></summary> <div class="p-group"><p>In mindfulness practice, <strong>open awareness</strong> refers to a state of staying receptive
-				to whatever arises in the present moment, without choosing a specific object to focus on. This
-				approach contrasts with focusing on a single object, such as the breath, where attention remains
-				fixed on just one thing, known as the "anchor."</p> <p>With open awareness, the “object” (or "anchor") of meditation naturally shifts as new
-				sensations, thoughts, or emotions arise, allowing for a dynamic and fluid focus. In such
-				meditations, the anchor is the present moment itself, not a specific object within it. The
-				term <strong>choiceless awareness</strong>, coined by J. Krishnamurti, is also used to
-				describe this practice. It emphasizes the lack of preference for any particular focus,
-				keeping the mind open and observant of the entire experience as it unfolds.</p> <p>Open awareness is an <strong>advanced practice</strong>. For individuals with highly
+				or choiceless awareness?</span></summary> <div class="p-group"><p>In mindfulness practice, <strong>open awareness</strong> is a state of attention in which you
+				notice whatever arises in experience - thoughts, feelings, bodily sensations, sounds, or sights
+				- without focusing on any one object, judging, or trying to change it.</p> <p>Unlike focused attention meditation, where the mind is anchored on a single object (like the
+				breath), open awareness involves broad, receptive, and non-reactive observation of the
+				present moment. It’s often described as a kind of “mental sky” in which all experiences
+				appear and pass without clinging or pushing away. The anchor is the present moment itself,
+				not a specific object in it. The term <strong>choiceless awareness</strong>, coined by J.
+				Krishnamurti, is also used to describe this practice. It emphasizes the lack of preference
+				for any particular focus or direction, keeping the mind open and observant of the entire
+				experience as it unfolds. Some mindfulness teachers have also used 'bare awareness' for
+				this.</p> <p>Open awareness is an <strong>advanced practice</strong>. For individuals with highly
 				distractible minds or those new to mindfulness, it can be particularly challenging. Instead
 				of cultivating mindful openness, the experience may easily slip into mind-wandering (see the
 				question below about how mindfulness differs from mind-wandering). For most people, it is
@@ -134,4 +136,4 @@ import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from".
 						meditation from collapsing too easily.</p></li></ul> <p>And finally, remember that inner conditions matter too: kindness, curiosity, patience -
 				these are at least as important as silence or other supportive external conditions. As you
 				continue, you'll build the strength to meet a wider range of conditions, inside and out,
-				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function x(s,a){l(a,!1),r(()=>{const t=window.location.hash.slice(1);if(!t)return;const e=document.getElementById(t);e&&e.tagName==="DETAILS"&&(e.open=!0,e.scrollIntoView())}),m();var o=y();c("g1dj59",t=>{var e=g();u(()=>{h.title="Mindfulness Questions and Answers"}),n(t,e)}),n(s,o),d()}export{x as component,j as universal};
+				with presence and ease. It's a gradual training, and you're already in it.</p></div></details></div>`);function j(s,a){l(a,!1),r(()=>{const t=window.location.hash.slice(1);if(!t)return;const e=document.getElementById(t);e&&e.tagName==="DETAILS"&&(e.open=!0,e.scrollIntoView())}),m();var o=y();h("g1dj59",t=>{var e=g();u(()=>{c.title="Mindfulness Questions and Answers"}),n(t,e)}),n(s,o),d()}export{j as component,x as universal};
