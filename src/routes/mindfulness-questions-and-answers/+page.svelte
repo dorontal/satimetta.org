@@ -173,12 +173,10 @@
 			<p>
 				Unlike focused attention meditation, where the mind is anchored on a single object (like the
 				breath), open awareness involves broad, receptive, and non-reactive observation of the
-				present moment. It’s often described as a kind of “mental sky” in which all experiences
-				appear and pass without clinging or pushing away. The anchor is the present moment itself,
-				not a specific object in it. The term <strong>choiceless awareness</strong>, coined by J.
-				Krishnamurti, is also used to describe this practice. It emphasizes the lack of preference
-				for any particular focus or direction, keeping the mind open and observant of the entire
-				experience as it unfolds.
+				present moment. The anchor is the present moment itself, not a specific object in it. The
+				term <strong>choiceless awareness</strong>, coined by J. Krishnamurti, is also used to
+				describe this practice. It emphasizes the lack of preference for any particular focus or
+				direction, keeping the mind open and observant of the entire experience as it unfolds.
 			</p>
 			<p>
 				Open awareness is an <strong>advanced practice</strong>. For individuals with highly
