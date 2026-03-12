@@ -166,18 +166,20 @@
 		</summary>
 		<div class="p-group">
 			<p>
-				In mindfulness practice, <strong>open awareness</strong> refers to a state of staying receptive
-				to whatever arises in the present moment, without choosing a specific object to focus on. This
-				approach contrasts with focusing on a single object, such as the breath, where attention remains
-				fixed on just one thing, known as the "anchor."
+				In mindfulness practice, <strong>open awareness</strong> is a state of attention in which you
+				notice whatever arises in experience - thoughts, feelings, bodily sensations, sounds, or sights
+				- without focusing on any one object, judging, or trying to change it.
 			</p>
 			<p>
-				With open awareness, the “object” (or "anchor") of meditation naturally shifts as new
-				sensations, thoughts, or emotions arise, allowing for a dynamic and fluid focus. In such
-				meditations, the anchor is the present moment itself, not a specific object within it. The
-				term <strong>choiceless awareness</strong>, coined by J. Krishnamurti, is also used to
-				describe this practice. It emphasizes the lack of preference for any particular focus,
-				keeping the mind open and observant of the entire experience as it unfolds.
+				Unlike focused attention meditation, where the mind is anchored on a single object (like the
+				breath), open awareness involves broad, receptive, and non-reactive observation of the
+				present moment. It’s often described as a kind of “mental sky” in which all experiences
+				appear and pass without clinging or pushing away. The anchor is the present moment itself,
+				not a specific object in it. The term <strong>choiceless awareness</strong>, coined by J.
+				Krishnamurti, is also used to describe this practice. It emphasizes the lack of preference
+				for any particular focus or direction, keeping the mind open and observant of the entire
+				experience as it unfolds. Some mindfulness teachers have also used 'bare awareness' for
+				this.
 			</p>
 			<p>
 				Open awareness is an <strong>advanced practice</strong>. For individuals with highly
