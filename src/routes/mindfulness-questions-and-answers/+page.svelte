@@ -166,9 +166,9 @@
 		</summary>
 		<div class="p-group">
 			<p>
-				In mindfulness practice, <strong>open awareness</strong> is a state of attention in which you
-				notice whatever arises in experience - thoughts, feelings, bodily sensations, sounds, or sights
-				- without focusing on any one object, judging, or trying to change it.
+				One mindfulness practice, <strong>open awareness</strong> is a process where you notice whatever
+				arises in experience - thoughts, feelings, bodily sensations, sounds, or sights - without focusing
+				on any one object, judging, or trying to change it.
 			</p>
 			<p>
 				Unlike focused attention meditation, where the mind is anchored on a single object (like the
@@ -187,11 +187,13 @@
 				open awareness.
 			</p>
 			<p>
-				Open awareness can serve as a valuable <strong>preparatory step</strong> for focused meditation
-				such as awareness of breathing. Starting with open awareness before focusing on a single object
-				helps ease the transition from a scattered, everyday state of mind to focusing on just one thing.
-				A brief period of open awareness at the start of a session allows the mind to settle naturally
-				into the present moment, creating a gentle bridge toward a refined focus on a single object.
+				A brief period of open awareness, however, can serve as a valuable <strong
+					>preparatory step</strong
+				> for focused meditation such as awareness of breathing. Starting with open awareness before focusing
+				on a single object helps ease the transition from a scattered, everyday state of mind to focusing
+				on just one thing. A brief period of open awareness at the start of a session allows the mind
+				to settle naturally into the present moment, creating a gentle bridge toward a refined focus on
+				a single object.
 			</p>
 		</div>
 	</details>
