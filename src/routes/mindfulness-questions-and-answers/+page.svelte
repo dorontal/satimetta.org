@@ -166,9 +166,9 @@
 		</summary>
 		<div class="p-group">
 			<p>
-				One mindfulness practice, <strong>open awareness</strong> is a process where you notice whatever
-				arises in experience - thoughts, feelings, bodily sensations, sounds, or sights - without focusing
-				on any one object, judging, or trying to change it.
+				One mindfulness practice called <strong>open awareness</strong> is a process where you notice
+				whatever arises in experience - thoughts, feelings, bodily sensations, sounds, or sights - without
+				focusing on any one object, judging, or trying to change it.
 			</p>
 			<p>
 				Unlike focused attention meditation, where the mind is anchored on a single object (like the
