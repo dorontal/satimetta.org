@@ -42,8 +42,7 @@ import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from".
 				not a specific object in it. The term <strong>choiceless awareness</strong>, coined by J.
 				Krishnamurti, is also used to describe this practice. It emphasizes the lack of preference
 				for any particular focus or direction, keeping the mind open and observant of the entire
-				experience as it unfolds. Some mindfulness teachers have also used 'bare awareness' for
-				this.</p> <p>Open awareness is an <strong>advanced practice</strong>. For individuals with highly
+				experience as it unfolds.</p> <p>Open awareness is an <strong>advanced practice</strong>. For individuals with highly
 				distractible minds or those new to mindfulness, it can be particularly challenging. Instead
 				of cultivating mindful openness, the experience may easily slip into mind-wandering (see the
 				question below about how mindfulness differs from mind-wandering). For most people, it is
