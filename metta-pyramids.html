@@ -54,12 +54,14 @@ scene.add(new THREE.AmbientLight(0xffffff, 0.4));
 
 // Cube reference
 const cubeSize = 1;
-const cube = new THREE.BoxGeometry(cubeSize, cubeSize, cubeSize);
-const edges = new THREE.EdgesGeometry(cube);
-scene.add(new THREE.LineSegments(
-  edges,
-  new THREE.LineBasicMaterial({ color: 0xffffff })
-));
+/*
+   const cube = new THREE.BoxGeometry(cubeSize, cubeSize, cubeSize);
+   const edges = new THREE.EdgesGeometry(cube);
+   scene.add(new THREE.LineSegments(
+     edges,
+     new THREE.LineBasicMaterial({ color: 0xffffff })
+   ));
+*/
 
 // Pyramid setup
 const apex = new THREE.Vector3(0,0,0);
