@@ -33,9 +33,9 @@ import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from".
 				practice, its development is hindered.</p> <p>Both forms of practice strengthen and support each other - formal practice builds the
 				capacity for mindfulness, while informal practice keeps it alive throughout the day and
 				deepens formal meditation in return.</p> <p>Sustained progress depends on both. One without the other is incomplete.</p></div></details> <hr class="hr"/> <details class="group p-2" id="open-awareness-vs-single-object-focus"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the difference between focusing on a single object in meditation and practicing open
-				or choiceless awareness?</span></summary> <div class="p-group"><p>One mindfulness practice, <strong>open awareness</strong> is a process where you notice whatever
-				arises in experience - thoughts, feelings, bodily sensations, sounds, or sights - without focusing
-				on any one object, judging, or trying to change it.</p> <p>Unlike focused attention meditation, where the mind is anchored on a single object (like the
+				or choiceless awareness?</span></summary> <div class="p-group"><p>One mindfulness practice called <strong>open awareness</strong> is a process where you notice
+				whatever arises in experience - thoughts, feelings, bodily sensations, sounds, or sights - without
+				focusing on any one object, judging, or trying to change it.</p> <p>Unlike focused attention meditation, where the mind is anchored on a single object (like the
 				breath), open awareness involves broad, receptive, and non-reactive observation of the
 				present moment. The anchor is the present moment itself, not a specific object in it. The
 				term <strong>choiceless awareness</strong>, coined by J. Krishnamurti, is also used to
