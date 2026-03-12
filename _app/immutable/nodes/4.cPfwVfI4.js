@@ -33,9 +33,9 @@ import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from".
 				practice, its development is hindered.</p> <p>Both forms of practice strengthen and support each other - formal practice builds the
 				capacity for mindfulness, while informal practice keeps it alive throughout the day and
 				deepens formal meditation in return.</p> <p>Sustained progress depends on both. One without the other is incomplete.</p></div></details> <hr class="hr"/> <details class="group p-2" id="open-awareness-vs-single-object-focus"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">What's the difference between focusing on a single object in meditation and practicing open
-				or choiceless awareness?</span></summary> <div class="p-group"><p>In mindfulness practice, <strong>open awareness</strong> is a state of attention in which you
-				notice whatever arises in experience - thoughts, feelings, bodily sensations, sounds, or sights
-				- without focusing on any one object, judging, or trying to change it.</p> <p>Unlike focused attention meditation, where the mind is anchored on a single object (like the
+				or choiceless awareness?</span></summary> <div class="p-group"><p>One mindfulness practice, <strong>open awareness</strong> is a process where you notice whatever
+				arises in experience - thoughts, feelings, bodily sensations, sounds, or sights - without focusing
+				on any one object, judging, or trying to change it.</p> <p>Unlike focused attention meditation, where the mind is anchored on a single object (like the
 				breath), open awareness involves broad, receptive, and non-reactive observation of the
 				present moment. The anchor is the present moment itself, not a specific object in it. The
 				term <strong>choiceless awareness</strong>, coined by J. Krishnamurti, is also used to
@@ -45,11 +45,11 @@ import"../chunks/DsnmJJEf.js";import"../chunks/CSJVXyp8.js";import{o as r}from".
 				of cultivating mindful openness, the experience may easily slip into mind-wandering (see the
 				question below about how mindfulness differs from mind-wandering). For most people, it is
 				advisable to still the mind first, e.g, via mindfulness of breathing, before switching to
-				open awareness.</p> <p>Open awareness can serve as a valuable <strong>preparatory step</strong> for focused meditation
-				such as awareness of breathing. Starting with open awareness before focusing on a single object
-				helps ease the transition from a scattered, everyday state of mind to focusing on just one thing.
-				A brief period of open awareness at the start of a session allows the mind to settle naturally
-				into the present moment, creating a gentle bridge toward a refined focus on a single object.</p></div></details> <hr class="hr"/> <details class="group p-2" id="mindfulness-practice-vs-mind-wandering"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">How does mindfulness practice differ from mind wandering?</span></summary> <div class="p-group"><p>When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
+				open awareness.</p> <p>A brief period of open awareness, however, can serve as a valuable <strong>preparatory step</strong> for focused meditation such as awareness of breathing. Starting with open awareness before focusing
+				on a single object helps ease the transition from a scattered, everyday state of mind to focusing
+				on just one thing. A brief period of open awareness at the start of a session allows the mind
+				to settle naturally into the present moment, creating a gentle bridge toward a refined focus on
+				a single object.</p></div></details> <hr class="hr"/> <details class="group p-2" id="mindfulness-practice-vs-mind-wandering"><summary class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&amp;::-webkit-details-marker]:hidden"><span class="transform transition-transform duration-200 group-open:rotate-90">⯈</span> <span class="ml-2">How does mindfulness practice differ from mind wandering?</span></summary> <div class="p-group"><p>When we let our minds wander, our thoughts drive us from one idea or emotion to the next, as
 				if we're in the passenger seat while our thoughts do the driving. In mindfulness practice,
 				however, we notice our thoughts when they appear, but we don't let them drive us. Instead,
 				we gently and kindly return our focus to our main object of meditation. Here are some
