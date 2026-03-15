@@ -3,9 +3,29 @@
 <head>
 <meta charset="utf-8">
 <title>Six Infinite Pyramids with Rays</title>
+
 <style>
-  body { margin: 0; background: #111; }
-  canvas { display: block; }
+body { margin: 0; background: #111; }
+canvas { display: block; }
+
+/* Instruction overlay */
+#hint {
+  position: absolute;
+  top: 3vh;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-family: sans-serif;
+  font-size: clamp(12px, 2vw, 22px);
+  opacity: 0.85;
+  pointer-events: none;
+  text-align: center;
+  transition: opacity 0.4s ease;
+}
+
+#hint.hidden {
+  opacity: 0;
+}
 </style>
 
 <script type="importmap">
@@ -19,7 +39,10 @@
 
 <body>
 
+<div id="hint">Drag screen with mouse to rotate the 3D pyramids</div>
+
 <script type="module">
+
 import * as THREE from "three";
 import { OrbitControls } from "https://unpkg.com/three@0.152.2/examples/jsm/controls/OrbitControls.js";
 
@@ -46,6 +69,15 @@ controls.enableDamping = true;
 controls.target.set(0, 0, 0);
 controls.update();
 
+// Hide hint on first interaction
+const hint = document.getElementById("hint");
+
+controls.addEventListener("start", () => {
+  if (hint) {
+    hint.classList.add("hidden");
+  }
+});
+
 // Lights
 const dirLight = new THREE.DirectionalLight(0xffffff, 1);
 dirLight.position.set(5,5,5);
@@ -54,14 +86,6 @@ scene.add(new THREE.AmbientLight(0xffffff, 0.4));
 
 // Cube reference
 const cubeSize = 1;
-/*
-   const cube = new THREE.BoxGeometry(cubeSize, cubeSize, cubeSize);
-   const edges = new THREE.EdgesGeometry(cube);
-   scene.add(new THREE.LineSegments(
-     edges,
-     new THREE.LineBasicMaterial({ color: 0xffffff })
-   ));
-*/
 
 // Pyramid setup
 const apex = new THREE.Vector3(0,0,0);
@@ -69,28 +93,33 @@ const h = cubeSize/2;
 const colors = [
   0x4285F4, 0xEA4335, 0xFBBC05, 0x34A853, 0xA142F4, 0x00ACC1
 ];
-const pyramidLength = 5; // how far out pyramids extend
+
+const pyramidLength = 5;
 
 function createInfinitePyramid(baseCorners, color) {
+
   const vertices = [];
+
   const tri = (a,b,c) => {
     vertices.push(a.x,a.y,a.z, b.x,b.y,b.z, c.x,c.y,c.z);
   };
 
-  // Scale base outwards
-  const scaledCorners = baseCorners.map(c => c.clone().normalize().multiplyScalar(pyramidLength));
+  const scaledCorners = baseCorners.map(c =>
+    c.clone().normalize().multiplyScalar(pyramidLength)
+  );
 
-  // 4 side triangles
   for (let i=0;i<4;i++){
     tri(scaledCorners[i], scaledCorners[(i+1)%4], apex);
   }
 
-  // base square (2 triangles)
   tri(scaledCorners[0], scaledCorners[1], scaledCorners[2]);
   tri(scaledCorners[0], scaledCorners[2], scaledCorners[3]);
 
   const geometry = new THREE.BufferGeometry();
-  geometry.setAttribute("position", new THREE.Float32BufferAttribute(vertices,3));
+  geometry.setAttribute(
+    "position",
+    new THREE.Float32BufferAttribute(vertices,3)
+  );
   geometry.computeVertexNormals();
 
   const material = new THREE.MeshPhongMaterial({
@@ -104,6 +133,7 @@ function createInfinitePyramid(baseCorners, color) {
 }
 
 // Six pyramids
+
 createInfinitePyramid([
   new THREE.Vector3(h,-h,-h),
   new THREE.Vector3(h, h,-h),
@@ -147,7 +177,9 @@ createInfinitePyramid([
 ], colors[5]);
 
 // Rays from origin through cube corners
+
 const rayLength = 5;
+
 const corners = [
   new THREE.Vector3( h,  h,  h),
   new THREE.Vector3( h,  h, -h),
@@ -160,6 +192,7 @@ const corners = [
 ];
 
 corners.forEach(corner => {
+
   const direction = corner.clone().normalize();
   const endPoint = direction.multiplyScalar(rayLength);
 
@@ -169,22 +202,35 @@ corners.forEach(corner => {
   ]);
 
   const material = new THREE.LineBasicMaterial({ color: 0xffffff });
+
   scene.add(new THREE.Line(geometry, material));
+
 });
 
 // Animate
+
 function animate(){
+
   requestAnimationFrame(animate);
+
   controls.update();
+
   renderer.render(scene,camera);
+
 }
+
 animate();
 
 // Handle resize
+
 window.addEventListener("resize",()=>{
+
   camera.aspect = window.innerWidth/window.innerHeight;
+
   camera.updateProjectionMatrix();
+
   renderer.setSize(window.innerWidth, window.innerHeight);
+
 });
 
 </script>
