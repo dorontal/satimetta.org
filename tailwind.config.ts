@@ -1,11 +1,13 @@
+/// <reference path="./src/types/skeleton-plugin.d.ts" />
 import type { Config } from 'tailwindcss';
+import skeletonPlugin from '@skeletonlabs/skeleton/tw-plugin';
 
-export default {
-  content: ['./src/**/*.{html,js,svelte,ts}'],
+const config: Config = {
+    content: ['./src/**/*.{html,svelte,js,ts}'],
+    theme: {
+        extend: {},
+    },
+    plugins: [skeletonPlugin],
+};
 
-  theme: {
-    extend: {}
-  },
-
-  plugins: []
-} satisfies Config;
+export default config;
