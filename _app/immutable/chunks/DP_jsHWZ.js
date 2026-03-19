@@ -1,0 +1,1 @@
+import{X as e}from"./CnfCV0u0.js";e();

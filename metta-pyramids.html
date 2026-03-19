@@ -11,15 +11,24 @@ canvas { display: block; }
 /* Instruction overlay */
 #hint {
   position: absolute;
-  top: 3vh;
+  top: 18vh;
   left: 50%;
   transform: translateX(-50%);
+
   color: white;
   font-family: sans-serif;
-  font-size: clamp(12px, 2vw, 22px);
-  opacity: 0.85;
+
+  /* much larger, mobile-first */
+  font-size: clamp(22px, 8vw, 44px);
+
+  max-width: 94vw;
+  padding: 0 18px;
+  line-height: 1.35;
+
+  opacity: 0.95;
   pointer-events: none;
   text-align: center;
+
   transition: opacity 0.4s ease;
 }
 
@@ -39,7 +48,7 @@ canvas { display: block; }
 
 <body>
 
-<div id="hint">Drag screen with mouse to rotate the 3D pyramids</div>
+<div id="hint">Drag screen with mouse to rotate the 3D metta pyramids</div>
 
 <script type="module">
 
