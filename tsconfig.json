@@ -10,11 +10,7 @@
 		"sourceMap": true,
 		"strict": true,
 		"moduleResolution": "bundler",
-		"types": [],
-		"typeRoots": [
-			"./src/types",
-			"./node_modules/@types"
-		]
+		"types": ["@sveltejs/kit"]
 	},
 	"include": [
 		"src"
