@@ -3,7 +3,9 @@
 @tailwind components;
 @tailwind utilities;
 */
-@import 'tailwindcss';
+@import "tailwindcss/preflight.css" layer(base);
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
 @import '@skeletonlabs/skeleton';
 @import '@skeletonlabs/skeleton/themes/cerberus';
 
