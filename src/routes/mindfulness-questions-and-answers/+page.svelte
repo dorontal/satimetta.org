@@ -38,7 +38,7 @@
 				<a class="anchor" href="https://www.mindful.org/jon-kabat-zinn-defining-mindfulness/"
 					>Jon Kabat-Zinn offers a useful working definition of mindfulness:
 				</a>: "Mindfulness is awareness that arises through paying attention, on purpose, in the
-				present moment, non-judgementally”.
+				present moment, non-judgmentally”.
 			</p>
 			<p>
 				The above definitions refer to mindfulness as a mental capacity. This capacity can fluctuate
