@@ -5,10 +5,10 @@
 		const id = window.location.hash.slice(1);
 		if (!id) return;
 
-		const details = document.getElementById(id);
-		if (details && details.tagName === 'DETAILS') {
-			details.open = true;
-			details.scrollIntoView();
+		const element = document.getElementById(id);
+		if (element instanceof HTMLDetailsElement) {
+			element.open = true;
+			element.scrollIntoView();
 		}
 	});
 </script>
