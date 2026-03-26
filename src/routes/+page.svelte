@@ -15,10 +15,10 @@
 			</a>
 		</div>
 		<p class="intro-text">
-			This space provides resources for developing mindfulness and loving-kindness: practices valued
-			for thousands of years and now supported by both traditional wisdom and modern science.
-            Here, you'll find curated resources to support past and ongoing mindfulness classes 
-			facilitated by Doron Tal.
+			Welcome! This space provides tools for exploring mindfulness and loving-kindness, practices
+			grounded in time-honored traditions and increasingly recognized by contemporary research.
+			You'll find curated resources to enrich your experience in past and ongoing mindfulness
+			classes facilitated by Doron Tal.
 		</p>
 	</div>
 </section>
