@@ -1,0 +1,1 @@
+import{X as e}from"./Czystg4g.js";e();
