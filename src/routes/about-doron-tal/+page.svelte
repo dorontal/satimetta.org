@@ -38,10 +38,6 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Ajahn Brahm's Meditation Method (2019 - 2020)</dt>
-				<dd>Followed the description in Ajahn Brahm's book "Mindfulness, Bliss and Beyond".</dd>
-			</div>
-			<div>
 				<dt>Walking Meditation (2019 - Present)</dt>
 				<dd>
 					Began with Yuttadhammo Bhikkhu's Theravada <a
@@ -51,6 +47,10 @@
 					> (one note per step), added Bhikkhu Bodhi's three-point technique (picking, placing, shifting)
 					and a six-point method. The approach varies depending on mental state at the start of each session.
 				</dd>
+			</div>
+			<div>
+				<dt>Ajahn Brahm's Meditation Method (2019 - 2020)</dt>
+				<dd>Followed the description in Ajahn Brahm's book "Mindfulness, Bliss and Beyond".</dd>
 			</div>
 			<div>
 				<dt>Metta Practice (2015 - Present)</dt>
@@ -334,7 +334,7 @@
 		<dl>
 			<div>
 				<dt>
-					Certified Teen Mindfulness Instructor - 
+					Certified Teen Mindfulness Instructor -
 					<a class="anchor" href="https://innerstrengtheducation.org/" target="_blank"
 						>Inner Strength Education</a
 					>
@@ -345,13 +345,12 @@
 						href="https://innerstrengtheducation.org/"
 						target="_blank">Inner Strength Education</a
 					>
-					for having completed their <a
-						class="anchor"
-						href="https://www.theconsciousclassroom.com/p/teaching-inner-strength"
+					for having completed their
+					<a class="anchor" href="https://www.theconsciousclassroom.com/p/teaching-inner-strength"
 						>Teaching Inner Strength</a
-					> Teen Mindfulness Teacher Training, Levels 1 & 2 - A 60-hour mindfulness teacher
-					training course. Level 1 is "Foundations of Mindfulness" and Level 2 is "Systems Thinking"
-					for the classroom. Awarded Dec., 2025.
+					> Teen Mindfulness Teacher Training, Levels 1 & 2 - A 60-hour mindfulness teacher training course.
+					Level 1 is "Foundations of Mindfulness" and Level 2 is "Systems Thinking" for the classroom.
+					Awarded Dec., 2025.
 				</dd>
 			</div>
 			<div>
@@ -377,9 +376,11 @@
 				</dd>
 			</div>
 			<div>
-				<dt>Member, <a class="anchor" href="https://imta.org" target="_blank"
+				<dt>
+					Member, <a class="anchor" href="https://imta.org" target="_blank"
 						>International Mindfulness Teachers Association</a
-					></dt>
+					>
+				</dt>
 				<dd>Member since May, 2024. Active member Apr., 2025 - Present.</dd>
 			</div>
 		</dl>
