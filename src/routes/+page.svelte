@@ -7,7 +7,7 @@
 	<title>Mindfulness Cultivation - Doron Tal</title>
 </svelte:head>
 
-<section>
+<section class="min-h-screen flex flex-col">
 	<div class="intro-container">
 		<div class="circle-image">
 			<a href="/about-doron-tal">
@@ -20,6 +20,9 @@
 			You'll find curated resources to enrich your experience in past and ongoing mindfulness
 			classes facilitated by Doron Tal.
 		</p>
+	</div>
+	<div class="fixed bottom-4 left-0 right-0 text-center text-xs text-gray-400">
+		v1.1.29
 	</div>
 </section>
 

@@ -35,7 +35,7 @@ fi
 FILES_WITH_VERSION="
         $PROJECT_ROOT/VERSION
         $PROJECT_ROOT/package.json
-        $PROJECT_ROOT/src/app/pages/about/about.page.ts
+        $PROJECT_ROOT/src/routes/+page.svelte
         $PROJECT_ROOT/pubspec.yaml
         $PROJECT_ROOT/src/polyfills.ts
 "
