@@ -22,7 +22,7 @@
 		</p>
 	</div>
 	<div class="fixed bottom-4 left-0 right-0 text-center text-xs text-gray-400">
-		v1.1.29
+		v1.1.30
 	</div>
 </section>
 

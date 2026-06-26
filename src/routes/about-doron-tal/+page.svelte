@@ -304,12 +304,13 @@
 			<div>
 				<dt>Neuroscience Ph. D. (1997)</dt>
 				<dd>
-					With advisor <a class="anchor" href="https://en.wikipedia.org/wiki/Eric_L._Schwartz"
-						>Eric L. Schwartz</a
+					Worked on a computational model of human visual processing with advisor <a
+						class="anchor"
+						href="https://en.wikipedia.org/wiki/Eric_L._Schwartz">Eric L. Schwartz</a
 					> at Boston University.
 				</dd>
 			</div>
-			<div>
+			<!--div>
 				<dt>A Talk by His Holiness the Dalai Lama (1991)</dt>
 				<dd>
 					This talk, titled <a
@@ -318,7 +319,7 @@
 						target="_blank">"Overcoming Differences"</a
 					> catalyzed further study of his work, mostly in the area of loving-kindness.
 				</dd>
-			</div>
+			</div-->
 			<TaijiQigong />
 		</dl>
 	</details>
