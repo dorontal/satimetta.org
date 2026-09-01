@@ -406,7 +406,7 @@
 			<p>
 				In principle, one should be able to meditate in any situation - even in the middle of a
 				crowded train station or a household with kids yelling, TV blaring, and phones ringing. But
-				the more your senses get bombarded, the harder it is for the mind to become undistractable.
+				the more your senses get bombarded, the harder it is for the mind to become indistractible.
 			</p>
 			<p>
 				When advice is given to meditators to accept whatever comes up without judgment - whether
