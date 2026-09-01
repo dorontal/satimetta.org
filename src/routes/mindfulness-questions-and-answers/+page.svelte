@@ -345,9 +345,9 @@
 			class="grid cursor-pointer list-none grid-cols-[1.25rem_auto] items-center marker:hidden [&::-webkit-details-marker]:hidden"
 		>
 			<span class="transform transition-transform duration-200 group-open:rotate-90"> ⯈ </span>
-			<span class="ml-2">"I just don't get this mindfulness of breathing formal practice."</span>
+			<span class="ml-2">"I just don't get this mindfulness of breathing practice."</span>
 		</summary>
-		<div class="p-group">
+		<!--div class="p-group">
 			<p>
 				It's totally understandable to feel like you don't ‘get' breath meditation. But the good
 				news is, meditation isn't about getting it right - it's about showing up. Every time you
@@ -357,11 +357,49 @@
 				practicing and stay curious about whatever shows up, with openness and kindness.
 			</p>
 			<p>
-				It's also useful and important to keep practicing regularly - not just via formal practice
-				(of at least ten minutes per day, everyday), but also via informal practice throughout the
-				day, such as mindfulness in daily activities, mindfulness of posture, or mindfulness of
-				breathing in and out. It's also useful to know that it may take a long time until we notice
-				the positive changes that the practice brings.
+				Continuity of practice is important - it helps strengthen the mindfulness muscle and becomes
+				life-changing once we get good at this. It requires practicing not just during formal
+				practice - meditation sessions, but also throughout the day - mindfulness in daily
+				activities - which can include a specific anchor, e.g, to be aware of one's posture or in-
+				vs. out- breath; or it can be open awareness, where there is no single anchor.
+			</p>
+			<p>
+				Staying relaxed throughout practice - which makes it enjoyable - is also important. If you
+				are not able to stay relaxed with one particular anchor after giving it a fair try, then try
+				switching to another anchor - for example: from breath meditation to loving-kindness
+				meditation or to body-scan meditation.
+			</p>
+			<p>
+				It can take a long time until we notice the positive changes that the practice brings. For
+				some of us, it's hard to notice positive changes, but with time they become easier to
+				notice.
+			</p>
+		</div-->
+		<div class="p-group">
+			<p>
+				It's completely understandable to feel like you don't 'get' breath meditation. The good news
+				is, meditation isn't about getting it right - it's about showing up. Every time you sit,
+				you're training your mind in some way, even if it doesn't feel like it. There's no such
+				thing as a bad meditation. Maybe you notice frustration, restlessness, or boredom - that's
+				insight. Maybe you notice tiny moments of focus - that's insight too. The key is to keep
+				practicing and stay curious about whatever shows up, with openness and kindness.
+			</p>
+			<p>
+				Continuity of practice matters - it strengthens the mindfulness muscle and becomes
+				life-changing once it takes hold. That means practicing not just during formal sessions, but
+				throughout the day too. Everyday mindfulness can use a specific anchor - awareness of
+				posture, or of the in-breath and out-breath - or it can be open awareness, with no single
+				anchor at all.
+			</p>
+			<p>
+				Staying relaxed throughout practice is also important - it's what makes the practice
+				enjoyable and sustainable. If you can't stay relaxed with one anchor after giving it a fair
+				try, try switching to another - for example, from breath meditation to loving-kindness
+				meditation or body-scan meditation.
+			</p>
+			<p>
+				It can take a long time to notice the positive changes practice brings. Some of us have a
+				harder time noticing them at first, but with time they become easier to see.
 			</p>
 		</div>
 	</details>

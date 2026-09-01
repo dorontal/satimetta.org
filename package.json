@@ -24,15 +24,25 @@
                 "@skeletonlabs/skeleton": "^5.0.1",
                 "@skeletonlabs/skeleton-svelte": "^5.0.1",
                 "@sveltejs/adapter-static": "^3.0.10",
+<<<<<<< HEAD
                 "@sveltejs/kit": "^2.70.3",
                 "@sveltejs/vite-plugin-svelte": "^7.3.0",
                 "@tailwindcss/postcss": "^4.3.3",
                 "eslint": "^10.9.1",
                 "eslint-config-prettier": "^10.1.8",
                 "eslint-plugin-svelte": "^3.23.0",
+=======
+                "@sveltejs/kit": "^2.69.1",
+                "@sveltejs/vite-plugin-svelte": "^7.1.2",
+                "@tailwindcss/postcss": "^4.3.2",
+                "eslint": "^10.6.0",
+                "eslint-config-prettier": "^10.1.8",
+                "eslint-plugin-svelte": "^3.20.0",
+>>>>>>> 341141675f0b48c7ae0be8dc0363cd0fe65d13d7
                 "gh-pages": "^6.3.0",
                 "globals": "^17.12.0",
                 "lucide-svelte": "^1.0.1",
+<<<<<<< HEAD
                 "postcss": "^8.5.26",
                 "prettier": "^3.9.6",
                 "prettier-plugin-svelte": "^4.1.1",
@@ -44,5 +54,18 @@
                 "typescript-eslint": "^8.69.0",
                 "vite": "^8.2.2",
                 "vitest": "^4.1.11"
+=======
+                "postcss": "^8.5.16",
+                "prettier": "^3.9.4",
+                "prettier-plugin-svelte": "^4.1.1",
+                "prettier-plugin-tailwindcss": "^0.8.0",
+                "svelte": "^5.56.4",
+                "svelte-check": "^4.7.1",
+                "tailwindcss": "^4.3.2",
+                "typescript": "^6.0.3",
+                "typescript-eslint": "^8.62.1",
+                "vite": "^8.1.3",
+                "vitest": "^4.1.9"
+>>>>>>> 341141675f0b48c7ae0be8dc0363cd0fe65d13d7
         }
 }
