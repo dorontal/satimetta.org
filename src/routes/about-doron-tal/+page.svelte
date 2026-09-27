@@ -27,7 +27,7 @@
 						class="anchor"
 						href="https://www.clearmountainmonastery.org"
 						target="_blank">Clear Mountain Monastery</a
-					> community and monks.
+					> community and monks - two or more hours of daily sitting.
 				</dd>
 			</div>
 			<div>
