@@ -404,10 +404,8 @@
 						target="_blank">Clear Mountain Monastery</a
 					> (Aug. 3 - Aug. 26, 2026)
 				</dt>
-				<dd>
-					5 hours daily sitting meditation.
-				</dd>
-			</div>  
+				<dd>5 hours daily sitting meditation.</dd>
+			</div>
 			<div>
 				<dt>
 					Winter Online Retreat With <a
@@ -416,9 +414,7 @@
 						target="_blank">Clear Mountain Monastery</a
 					> (Jan. 15 - Apr. 17, 2026)
 				</dt>
-				<dd> 
-					3 hours daily sitting meditation.
-				</dd>
+				<dd>3 hours daily sitting meditation.</dd>
 			</div>
 			<div>
 				<dt>
@@ -453,9 +449,7 @@
 						target="_blank">Clear Mountain Monastery</a
 					> (Feb. - Apr., 2025)
 				</dt>
-				<dd>
-					3 hours daily sitting meditation.
-				</dd>
+				<dd>3 hours daily sitting meditation.</dd>
 			</div>
 			<div>
 				<dt>Jhanas, Insight, and Dependent Origination (Nov. 22 - Dec. 2, 2024)</dt>
