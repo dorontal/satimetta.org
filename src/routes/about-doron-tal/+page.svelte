@@ -398,6 +398,30 @@
 		<dl>
 			<div>
 				<dt>
+					Summer Online Retreat With <a
+						class="anchor"
+						href="https://www.clearmountainmonastery.org"
+						target="_blank">Clear Mountain Monastery</a
+					> (Aug. 3 - Aug. 26, 2026)
+				</dt>
+				<dd>
+					5 hours daily sitting meditation.
+				</dd>
+			</div>
+			<div>
+				<dt>
+					Winter Online Retreat With <a
+						class="anchor"
+						href="https://www.clearmountainmonastery.org"
+						target="_blank">Clear Mountain Monastery</a
+					> (Jan. 15 - Apr. 17, 2026)
+				</dt>
+				<dd>
+					3 hours daily sitting meditation.
+				</dd>
+			</div>
+			<div>
+				<dt>
 					Self retreat at <a class="anchor" href="https://buddhistinsights.org/" target="_blank"
 						>Empty Cloud Monastery</a
 					>, a forest monastery in northern New Jersey, US (Oct 15 - 18, 2025)
@@ -430,8 +454,7 @@
 					> (Feb. - Apr., 2025)
 				</dt>
 				<dd>
-					Minimum 3-hours of daily meditation (up to the 10-hours per day that were offered in part
-					of this retreat).
+					3 hours daily sitting meditation.
 				</dd>
 			</div>
 			<div>
