@@ -407,7 +407,7 @@
 				<dd>
 					5 hours daily sitting meditation.
 				</dd>
-			</div>
+			</div>  
 			<div>
 				<dt>
 					Winter Online Retreat With <a
@@ -416,7 +416,7 @@
 						target="_blank">Clear Mountain Monastery</a
 					> (Jan. 15 - Apr. 17, 2026)
 				</dt>
-				<dd>
+				<dd> 
 					3 hours daily sitting meditation.
 				</dd>
 			</div>
