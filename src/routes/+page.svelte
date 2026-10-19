@@ -1,5 +1,5 @@
 <script>
-	import doronPhotoSrc from '$lib/images/doron.png';
+	import doronPhotoSrc from '#lib/images/doron.png';
 </script>
 
 <svelte:head>
@@ -22,7 +22,7 @@
 		</p>
 	</div>
 	<div class="fixed bottom-4 left-0 right-0 text-center text-xs text-gray-400">
-		v1.1.34
+		v1.1.35
 	</div>
 </section>
 

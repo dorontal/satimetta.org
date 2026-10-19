@@ -1,5 +1,5 @@
 <!--script lang="ts">
-	import aob22 from '$lib/audio/mindfulness-of-breathing-22-minutes.mp3';
+	import aob22 from '#lib/audio/mindfulness-of-breathing-22-minutes.mp3';
 </script-->
 
 <svelte:head>

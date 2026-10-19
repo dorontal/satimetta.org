@@ -5,12 +5,12 @@
 	import { onMount } from 'svelte';
 	import { onNavigate } from '$app/navigation';
 
-	import IconMenu from 'lucide-svelte/icons/menu';
-	import IconSunMoon from 'lucide-svelte/icons/sun-moon';
-	import IconHome from 'lucide-svelte/icons/home';
-	import IconInfo from 'lucide-svelte/icons/info';
-	import IconLink from 'lucide-svelte/icons/link';
-	import CircleHelp from 'lucide-svelte/icons/circle-help';
+	import IconMenu from '@lucide/svelte/icons/menu';
+	import IconSunMoon from '@lucide/svelte/icons/sun-moon';
+	import IconHome from '@lucide/svelte/icons/home';
+	import IconInfo from '@lucide/svelte/icons/info';
+	import IconLink from '@lucide/svelte/icons/link';
+	import CircleHelp from '@lucide/svelte/icons/circle-help';
 
 	let darkMode = $state(false);
 	let isSidebarOpen = $state(false);
