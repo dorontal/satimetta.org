@@ -213,7 +213,7 @@
 			</div>
 			<div>
 				<dt>
-					<a class="anchor" href="https://www.prisondmindfulness.org" target="_blank"
+					<a class="anchor" href="https://www.prisonmindfulness.org" target="_blank"
 						>Prison Mindfulness Institute</a
 					>
 					-
